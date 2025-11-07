@@ -12,11 +12,11 @@ export default function Page() {
         <title> {APP_NAME} : Live</title>
         <meta
           name="description"
-          content="Experience live sports betting at Drifbet! Place bets in real-time with dynamic odds and live match updates."
+          content="Experience live sports betting at BetCasino555! Place bets in real-time with dynamic odds and live match updates."
         />
         <meta
           name="keywords"
-          content="live sports betting, Drifbet live sports, real-time odds, live match betting, sports streaming"
+          content="live sports betting, BetCasino555 live sports, real-time odds, live match betting, sports streaming"
         />
       </Helmet>
 

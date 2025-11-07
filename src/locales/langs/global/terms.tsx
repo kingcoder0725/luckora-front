@@ -11,7 +11,7 @@ const TERMS_LANG: ITERMS_LANG = {
             answer: (
                 <>
                     <Typography>
-                        • These Terms and Conditions govern the use of all games and services provided through www.Drifbet.com (the &quot;Website&quot;) and downloadable applications (the &quot;Apps&quot;). This document, along with our Privacy Policy, Game Rules, and other referenced materials, forms a binding agreement between Drifbet.com and you, the Customer.
+                        • These Terms and Conditions govern the use of all games and services provided through www.betcasino555.com (the &quot;Website&quot;) and downloadable applications (the &quot;Apps&quot;). This document, along with our Privacy Policy, Game Rules, and other referenced materials, forms a binding agreement between betcasino555.com and you, the Customer.
                     </Typography>
 
                     <Typography>
@@ -19,10 +19,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com is owned and operated by Jeosgert LTD.<br />
+                        • www.betcasino555.com is owned and operated by Jeosgert LTD.<br />
                         • Registration number: 26131, Registered address: Beachmont Business Centre,168 P.O Box 1510 Kingstown st.Vincent and Grenadines<br />
-                        • The Drifbet.com is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. L11543 /HM .<br />
-                        • The Drifbet.com has passed all regulatory compliance and is legally authorized to conduct gaming operations for any and all games of chance and wagering
+                        • The betcasino555.com is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. L11543 /HM .<br />
+                        • The betcasino555.com has passed all regulatory compliance and is legally authorized to conduct gaming operations for any and all games of chance and wagering
                     </Typography>
 
                     <Typography>
@@ -31,7 +31,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • In these Terms and Conditions: <br />
-                        • &nbsp;&nbsp;&quot;Drifbet.com&quot;, &quot;We&quot;, &quot;Us&quot;, &quot;Our&quot;, &quot;Management&quot;, &quot;Site&quot; refers to Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;betcasino555.com&quot;, &quot;We&quot;, &quot;Us&quot;, &quot;Our&quot;, &quot;Management&quot;, &quot;Site&quot; refers to betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;You&quot;, &quot;Your&quot;, &quot;Customer&quot;, &quot;Player&quot; refers to the account holder<br />
                         • &nbsp;&nbsp;&quot;Services&quot;, &quot;Games&quot;, &quot;Game&quot; refers to any offerings through our Website or Apps
                     </Typography>
@@ -42,7 +42,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Official communications will only come from: <br />
-                        • &nbsp;&nbsp;&quot;@Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;@betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Live Chat communication for registered players<br />
                         • &nbsp;&nbsp;&quot;Version Control<br />
                         • &nbsp;&nbsp;&quot;Current Version: <br />
@@ -81,7 +81,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Protect your username and password<br />
                         • &nbsp;&nbsp;Don&apos;t share account details with others   <br />
                         • &nbsp;&nbsp;Report suspicious activity immediately <br />
-                        • &nbsp;&nbsp;Contact support@Drifbet.com for lost credentials<br />
+                        • &nbsp;&nbsp;Contact support@betcasino555.com for lost credentials<br />
                     </Typography>
 
                     <Typography>
@@ -103,7 +103,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Account Restrictions <br />
-                        • Drifbet.com reserves the right to:<br />
+                        • betcasino555.com reserves the right to:<br />
                         • &nbsp;&nbsp;Limit account functionality<br />
                         • &nbsp;&nbsp;Request additional verification <br />
                         • &nbsp;&nbsp;Close accounts without prior notice <br />
@@ -170,14 +170,14 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Cryptocurrencies (Bitcoin, Ethereum, Tether)<br />
                         • &nbsp;&nbsp;Local payment methods, depending on your region<br />
                         • &nbsp;&nbsp;A full list of accepted payment methods can be found in the &quot;Cashier&quot; section of your account<br />
-                        • &nbsp;&nbsp;Deposit Fees: Drifbet does not charge deposit fees. However, your payment provider may apply its own charges. Please consult your bank or service provider for details<br />
+                        • &nbsp;&nbsp;Deposit Fees: BetCasino555 does not charge deposit fees. However, your payment provider may apply its own charges. Please consult your bank or service provider for details<br />
                     </Typography>
 
                     <Typography>
                         • 4.3 Currency  <br />
                         • &nbsp;&nbsp;Primary currencies: EUR, USD, CAD<br />
                         • &nbsp;&nbsp;Crypto: BTC, ETH, USDT  -  converted to USD based on exchange rates <br />
-                        • &nbsp;&nbsp;Exchange rates determined by Drifbet.com<br />
+                        • &nbsp;&nbsp;Exchange rates determined by betcasino555.com<br />
                         • &nbsp;&nbsp;Conversion fees may apply <br />
                     </Typography>
                 </>
@@ -190,7 +190,7 @@ const TERMS_LANG: ITERMS_LANG = {
             "answer": (
                 <>
                     <Typography>
-                        • Эти Условия и Положения регулируют использование всех игр и услуг, предоставляемых через www.Drifbet.com (далее - &quot;Сайт&quot;) и загружаемые приложения (далее - &quot;Приложения&quot;). Этот документ, вместе с нашей Политикой конфиденциальности, Правилами игр и другими упомянутыми материалами, составляет обязательное соглашение между Drifbet.com и вами, Клиентом.
+                        • Эти Условия и Положения регулируют использование всех игр и услуг, предоставляемых через www.betcasino555.com (далее - &quot;Сайт&quot;) и загружаемые приложения (далее - &quot;Приложения&quot;). Этот документ, вместе с нашей Политикой конфиденциальности, Правилами игр и другими упомянутыми материалами, составляет обязательное соглашение между betcasino555.com и вами, Клиентом.
                     </Typography>
 
                     <Typography>
@@ -198,10 +198,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com принадлежит и управляется Jeosgert LTD.<br />
+                        • www.betcasino555.com принадлежит и управляется Jeosgert LTD.<br />
                         • Регистрационный номер: 26131, Зарегистрированный адрес: Beachmont Business Centre, 168 P.O Box 1510 Kingstown, Сент-Винсент и Гренадины<br />
-                        • Drifbet.com лицензирован и регулируется правительством Автономного острова Анжуан, Союз Комор, и работает по лицензии № L11543 /HM.<br />
-                        • Drifbet.com прошел все регуляторные проверки и имеет законное право проводить игорные операции для любых игр на удачу и ставок.
+                        • betcasino555.com лицензирован и регулируется правительством Автономного острова Анжуан, Союз Комор, и работает по лицензии № L11543 /HM.<br />
+                        • betcasino555.com прошел все регуляторные проверки и имеет законное право проводить игорные операции для любых игр на удачу и ставок.
                     </Typography>
 
                     <Typography>
@@ -210,7 +210,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • В этих Условиях и Положениях: <br />
-                        • &nbsp;&nbsp;&quot;Drifbet.com&quot;, &quot;Мы&quot;, &quot;Нас&quot;, &quot;Наш&quot;, &quot;Управление&quot;, &quot;Сайт&quot; относится к Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;betcasino555.com&quot;, &quot;Мы&quot;, &quot;Нас&quot;, &quot;Наш&quot;, &quot;Управление&quot;, &quot;Сайт&quot; относится к betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Вы&quot;, &quot;Ваш&quot;, &quot;Клиент&quot;, &quot;Игрок&quot; относится к держателю аккаунта<br />
                         • &nbsp;&nbsp;&quot;Услуги&quot;, &quot;Игры&quot;, &quot;Игра&quot; относится к любым предложениям через наш Сайт или Приложения.
                     </Typography>
@@ -221,7 +221,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Официальные коммуникации будут поступать только от: <br />
-                        • &nbsp;&nbsp;&quot;@Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;@betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Общение в чате для зарегистрированных игроков<br />
                         • &nbsp;&nbsp;&quot;Контроль версий<br />
                         • &nbsp;&nbsp;&quot;Текущая версия: <br />
@@ -261,7 +261,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Защищайте свое имя пользователя и пароль<br />
                         • &nbsp;&nbsp;Не делитесь данными аккаунта с другими<br />
                         • &nbsp;&nbsp;Немедленно сообщайте о подозрительной активности<br />
-                        • &nbsp;&nbsp;Свяжитесь с support@Drifbet.com для восстановления утерянных данных<br />
+                        • &nbsp;&nbsp;Свяжитесь с support@betcasino555.com для восстановления утерянных данных<br />
                     </Typography>
 
                     <Typography>
@@ -283,7 +283,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Ограничения аккаунта <br />
-                        • Drifbet.com оставляет за собой право:<br />
+                        • betcasino555.com оставляет за собой право:<br />
                         • &nbsp;&nbsp;Ограничивать функциональность аккаунта<br />
                         • &nbsp;&nbsp;Запрашивать дополнительную верификацию<br />
                         • &nbsp;&nbsp;Закрывать аккаунты без предварительного уведомления<br />
@@ -337,7 +337,7 @@ const TERMS_LANG: ITERMS_LANG = {
             "answer": (
                 <>
                     <Typography>
-                        • Disse vilkårene og betingelsene regulerer bruken av alle spill og tjenester som tilbys gjennom www.Drifbet.com (den &quot;Nettstedet&quot;) og nedlastbare applikasjoner (den &quot;Appene&quot;). Dette dokumentet, sammen med vår personvernerklæring, spilleregler og andre refererte materialer, utgjør en bindende avtale mellom Drifbet.com og deg, Kunden.
+                        • Disse vilkårene og betingelsene regulerer bruken av alle spill og tjenester som tilbys gjennom www.betcasino555.com (den &quot;Nettstedet&quot;) og nedlastbare applikasjoner (den &quot;Appene&quot;). Dette dokumentet, sammen med vår personvernerklæring, spilleregler og andre refererte materialer, utgjør en bindende avtale mellom betcasino555.com og deg, Kunden.
                     </Typography>
 
                     <Typography>
@@ -345,10 +345,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com eies og drives av Jeosgert LTD.<br />
+                        • www.betcasino555.com eies og drives av Jeosgert LTD.<br />
                         • Registreringsnummer: 26131, Registrert adresse: Beachmont Business Centre, 168 P.O Box 1510 Kingstown, St. Vincent og Grenadinene<br />
-                        • Drifbet.com er lisensiert og regulert av regjeringen på den autonome øya Anjouan, Unionen av Komorene, og opererer under lisens nr. L11543/HM.<br />
-                        • Drifbet.com har bestått alle regulatoriske krav og er lovlig autorisert til å drive spilloperasjoner for alle spill av sjanse og veddemål.
+                        • betcasino555.com er lisensiert og regulert av regjeringen på den autonome øya Anjouan, Unionen av Komorene, og opererer under lisens nr. L11543/HM.<br />
+                        • betcasino555.com har bestått alle regulatoriske krav og er lovlig autorisert til å drive spilloperasjoner for alle spill av sjanse og veddemål.
                     </Typography>
 
                     <Typography>
@@ -357,7 +357,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • I disse vilkårene og betingelsene: <br />
-                        • &nbsp;&nbsp;&quot;Drifbet.com&quot;, &quot;Vi&quot;, &quot;Vår&quot;, &quot;Ledelse&quot;, &quot;Nettsted&quot; refererer til Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;betcasino555.com&quot;, &quot;Vi&quot;, &quot;Vår&quot;, &quot;Ledelse&quot;, &quot;Nettsted&quot; refererer til betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Du&quot;, &quot;Din&quot;, &quot;Kunde&quot;, &quot;Spiller&quot; refererer til kontoinnehaveren<br />
                         • &nbsp;&nbsp;&quot;Tjenester&quot;, &quot;Spill&quot;, &quot;Spill&quot; refererer til alle tilbud gjennom vårt Nettsted eller Apper.
                     </Typography>
@@ -368,7 +368,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Offisiell kommunikasjon vil kun komme fra: <br />
-                        • &nbsp;&nbsp;&quot;@Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;@betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Live Chat kommunikasjon for registrerte spillere<br />
                         • &nbsp;&nbsp;&quot;Versjonskontroll<br />
                         • &nbsp;&nbsp;&quot;Nåværende versjon: <br />
@@ -407,7 +407,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Beskytt brukernavnet og passordet ditt<br />
                         • &nbsp;&nbsp;Ikke del kontodetaljer med andre   <br />
                         • &nbsp;&nbsp;Rapporter mistenkelig aktivitet umiddelbart <br />
-                        • &nbsp;&nbsp;Kontakt support@Drifbet.com for tapte legitimasjoner<br />
+                        • &nbsp;&nbsp;Kontakt support@betcasino555.com for tapte legitimasjoner<br />
                     </Typography>
 
                     <Typography>
@@ -429,7 +429,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Konto restriksjoner <br />
-                        • Drifbet.com forbeholder seg retten til:<br />
+                        • betcasino555.com forbeholder seg retten til:<br />
                         • &nbsp;&nbsp;Begrense kontofunksjonalitet<br />
                         • &nbsp;&nbsp;Be om ytterligere verifisering <br />
                         • &nbsp;&nbsp;Stenge kontoer uten forvarsel <br />
@@ -496,14 +496,14 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Kryptovalutaer (Bitcoin, Ethereum, Tether)<br />
                         • &nbsp;&nbsp;Lokale betalingsmetoder avhengig av regionen din<br />
                         • &nbsp;&nbsp;En fullstendig liste over aksepterte betalingsmetoder kan finnes i &quot;Kasse&quot;-seksjonen på kontoen din<br />
-                        • &nbsp;&nbsp;Innskuddsgebyrer: Drifbet tar ikke gebyrer for innskudd. Imidlertid kan din betalingsleverandør påføre egne avgifter. Vennligst kontakt banken din eller tjenesteleverandøren for detaljer<br />
+                        • &nbsp;&nbsp;Innskuddsgebyrer: BetCasino555 tar ikke gebyrer for innskudd. Imidlertid kan din betalingsleverandør påføre egne avgifter. Vennligst kontakt banken din eller tjenesteleverandøren for detaljer<br />
                     </Typography>
 
                     <Typography>
                         • 4.3 Valuta <br />
                         • &nbsp;&nbsp;Primære valutaer: EUR, USD, CAD<br />
                         • &nbsp;&nbsp;Krypto: BTC, ETH, USDT - konvertert til USD basert på valutakurser <br />
-                        • &nbsp;&nbsp;Valutakurser bestemt av Drifbet.com<br />
+                        • &nbsp;&nbsp;Valutakurser bestemt av betcasino555.com<br />
                         • &nbsp;&nbsp;Konverteringsgebyrer kan gjelde <br />
                     </Typography>
                 </>
@@ -516,7 +516,7 @@ const TERMS_LANG: ITERMS_LANG = {
             "answer": (
                 <>
                     <Typography>
-                        • Nämä käyttöehdot säätelevät kaikkien www.Drifbet.com (”Verkkosivusto”) kautta tarjottujen pelien ja palveluiden sekä ladattavien sovellusten (”Sovellukset”) käyttöä. Tämä asiakirja yhdessä tietosuojakäytäntömme, pelisääntöjemme ja muiden viitattujen materiaalien kanssa muodostaa sitovan sopimuksen Drifbet.comin ja sinä, Asiakas, välillä.
+                        • Nämä käyttöehdot säätelevät kaikkien www.betcasino555.com (”Verkkosivusto”) kautta tarjottujen pelien ja palveluiden sekä ladattavien sovellusten (”Sovellukset”) käyttöä. Tämä asiakirja yhdessä tietosuojakäytäntömme, pelisääntöjemme ja muiden viitattujen materiaalien kanssa muodostaa sitovan sopimuksen betcasino555.comin ja sinä, Asiakas, välillä.
                     </Typography>
 
                     <Typography>
@@ -524,10 +524,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com on Jeosgert LTD:n omistuksessa ja hallinnassa.<br />
+                        • www.betcasino555.com on Jeosgert LTD:n omistuksessa ja hallinnassa.<br />
                         • Rekisterinumero: 26131, Rekisteröity osoite: Beachmont Business Centre, 168 P.O Box 1510 Kingstown, St. Vincent ja Grenadiinit.<br />
-                        • Drifbet.com on lisensoitu ja säännelty Anjouanin autonomisen saaren hallituksen toimesta, Comorin unionissa ja toimii lisenssinumerolla L11543 /HM.<br />
-                        • Drifbet.com on läpäissyt kaikki sääntelyvaatimukset ja on laillisesti valtuutettu harjoittamaan uhkapelioperaatioita kaikissa onnenpeleissä ja vedonlyönnissä.
+                        • betcasino555.com on lisensoitu ja säännelty Anjouanin autonomisen saaren hallituksen toimesta, Comorin unionissa ja toimii lisenssinumerolla L11543 /HM.<br />
+                        • betcasino555.com on läpäissyt kaikki sääntelyvaatimukset ja on laillisesti valtuutettu harjoittamaan uhkapelioperaatioita kaikissa onnenpeleissä ja vedonlyönnissä.
                     </Typography>
 
                     <Typography>
@@ -536,7 +536,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Näissä käyttöehdoissa:<br />
-                        • &nbsp;&nbsp;”Drifbet.com”, ”Me”, ”Meidän”, ”Johto”, ”Verkkosivusto” viittaa Drifbet.comiin.<br />
+                        • &nbsp;&nbsp;”betcasino555.com”, ”Me”, ”Meidän”, ”Johto”, ”Verkkosivusto” viittaa betcasino555.comiin.<br />
                         • &nbsp;&nbsp;”Sinä”, ”Sinun”, ”Asiakas”, ”Pelaaja” viittaa tilinhaltijaan.<br />
                         • &nbsp;&nbsp;”Palvelut”, ”Pelat”, ”Peli” viittaa kaikkiin tarjontaan verkkosivustollamme tai sovelluksissamme.
                     </Typography>
@@ -547,7 +547,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Viralliset viestit tulevat vain:<br />
-                        • &nbsp;&nbsp;”@Drifbet.com<br />
+                        • &nbsp;&nbsp;”@betcasino555.com<br />
                         • &nbsp;&nbsp;”Live Chat -viestintä rekisteröityille pelaajille<br />
                         • &nbsp;&nbsp;”Version hallinta<br />
                         • &nbsp;&nbsp;”Nykyinen versio:<br />
@@ -586,7 +586,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Suojatkaa käyttäjänimi ja salasana<br />
                         • &nbsp;&nbsp;Älä jaa tilitietojasi muiden kanssa<br />
                         • &nbsp;&nbsp;Ilmoita epäilyttävästä toiminnasta heti<br />
-                        • &nbsp;&nbsp;Ota yhteyttä support@Drifbet.com kadonneiden tunnistetietojen osalta<br />
+                        • &nbsp;&nbsp;Ota yhteyttä support@betcasino555.com kadonneiden tunnistetietojen osalta<br />
                     </Typography>
 
                     <Typography>
@@ -608,7 +608,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Tilirajoitukset<br />
-                        • Drifbet.com pidättää oikeuden:<br />
+                        • betcasino555.com pidättää oikeuden:<br />
                         • &nbsp;&nbsp;Rajoittaa tilin toiminnallisuutta<br />
                         • &nbsp;&nbsp;Pyytää lisävahvistusta<br />
                         • &nbsp;&nbsp;Sulkea tilejä ilman ennakkoilmoitusta<br />
@@ -675,14 +675,14 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Kryptovaluutat (Bitcoin, Ethereum, Tether)<br />
                         • &nbsp;&nbsp;Paikalliset maksutavat alueestasi riippuen<br />
                         • &nbsp;&nbsp;Kattava lista hyväksytyistä maksutavoista löytyy tilin ”Kassa”-osasta<br />
-                        • &nbsp;&nbsp;Talletusmaksut: Drifbet ei peri talletusmaksuja. Kuitenkin maksupalveluntarjoajasi saattaa periä omia maksujaan. Tarkista pankiltasi tai palveluntarjoajaltasi tiedot<br />
+                        • &nbsp;&nbsp;Talletusmaksut: BetCasino555 ei peri talletusmaksuja. Kuitenkin maksupalveluntarjoajasi saattaa periä omia maksujaan. Tarkista pankiltasi tai palveluntarjoajaltasi tiedot<br />
                     </Typography>
 
                     <Typography>
                         • 4.3 Valuutta<br />
                         • &nbsp;&nbsp;Päävaluutat: EUR, USD, CAD<br />
                         • &nbsp;&nbsp;Krypto: BTC, ETH, USDT - muunnettuna USD:ksi vaihtokurssien mukaan<br />
-                        • &nbsp;&nbsp;Vaihtokurssit määritetään Drifbet.comin toimesta<br />
+                        • &nbsp;&nbsp;Vaihtokurssit määritetään betcasino555.comin toimesta<br />
                         • &nbsp;&nbsp;Muunnosmaksuja voi olla<br />
                     </Typography>
                 </>
@@ -695,7 +695,7 @@ const TERMS_LANG: ITERMS_LANG = {
             "answer": (
                 <>
                     <Typography>
-                        • Dessa Villkor styr användningen av alla spel och tjänster som tillhandahålls via www.Drifbet.com (&quot;Webbplatsen&quot;) och nedladdningsbara applikationer (&quot;Apparna&quot;). Detta dokument, tillsammans med vår Integritetspolicy, Spelregler och andra refererade material, utgör ett bindande avtal mellan Drifbet.com och dig, Kunden.
+                        • Dessa Villkor styr användningen av alla spel och tjänster som tillhandahålls via www.betcasino555.com (&quot;Webbplatsen&quot;) och nedladdningsbara applikationer (&quot;Apparna&quot;). Detta dokument, tillsammans med vår Integritetspolicy, Spelregler och andra refererade material, utgör ett bindande avtal mellan betcasino555.com och dig, Kunden.
                     </Typography>
 
                     <Typography>
@@ -703,10 +703,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com ägs och drivs av Jeosgert LTD.<br />
+                        • www.betcasino555.com ägs och drivs av Jeosgert LTD.<br />
                         • Registreringsnummer: 26131, Registrerad adress: Beachmont Business Centre, 168 P.O Box 1510 Kingstown st.Vincent och Grenadinerna<br />
-                        • Drifbet.com är licensierat och reglerat av regeringen på den autonoma ön Anjouan, Unionen av Komorerna och opererar under licensnummer L11543 /HM.<br />
-                        • Drifbet.com har passerat alla regulatoriska efterlevnadskrav och är lagligt auktoriserat att bedriva spelverksamhet för alla spel av chans och vadslagning.
+                        • betcasino555.com är licensierat och reglerat av regeringen på den autonoma ön Anjouan, Unionen av Komorerna och opererar under licensnummer L11543 /HM.<br />
+                        • betcasino555.com har passerat alla regulatoriska efterlevnadskrav och är lagligt auktoriserat att bedriva spelverksamhet för alla spel av chans och vadslagning.
                     </Typography>
 
                     <Typography>
@@ -715,7 +715,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • I dessa Villkor: <br />
-                        • &nbsp;&nbsp;&quot;Drifbet.com&quot;, &quot;Vi&quot;, &quot;Vår&quot;, &quot;Vårt&quot;, &quot;Ledning&quot;, &quot;Webbplats&quot; refererar till Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;betcasino555.com&quot;, &quot;Vi&quot;, &quot;Vår&quot;, &quot;Vårt&quot;, &quot;Ledning&quot;, &quot;Webbplats&quot; refererar till betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Du&quot;, &quot;Din&quot;, &quot;Kund&quot;, &quot;Spelare&quot; refererar till kontoinnehavaren<br />
                         • &nbsp;&nbsp;&quot;Tjänster&quot;, &quot;Spel&quot;, &quot;Spel&quot; refererar till alla erbjudanden genom vår Webbplats eller Appar
                     </Typography>
@@ -726,7 +726,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Officiell kommunikation kommer endast från: <br />
-                        • &nbsp;&nbsp;&quot;@Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;@betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Live chat-kommunikation för registrerade spelare<br />
                         • &nbsp;&nbsp;&quot;Versionshantering<br />
                         • &nbsp;&nbsp;&quot;Nuvarande version: <br />
@@ -765,7 +765,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Skydda ditt användarnamn och lösenord<br />
                         • &nbsp;&nbsp;Dela inte kontouppgifter med andra   <br />
                         • &nbsp;&nbsp;Rapportera misstänkt aktivitet omedelbart <br />
-                        • &nbsp;&nbsp;Kontakta support@Drifbet.com för förlorade uppgifter<br />
+                        • &nbsp;&nbsp;Kontakta support@betcasino555.com för förlorade uppgifter<br />
                     </Typography>
 
                     <Typography>
@@ -787,7 +787,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Kontobegränsningar <br />
-                        • Drifbet.com förbehåller sig rätten att:<br />
+                        • betcasino555.com förbehåller sig rätten att:<br />
                         • &nbsp;&nbsp;Begränsa kontofunktionalitet<br />
                         • &nbsp;&nbsp;Begära ytterligare verifiering <br />
                         • &nbsp;&nbsp;Stänga konton utan föregående meddelande <br />
@@ -854,14 +854,14 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Kryptovalutor (Bitcoin, Ethereum, Tether)<br />
                         • &nbsp;&nbsp;Lokala betalmetoder, beroende på din region<br />
                         • &nbsp;&nbsp;En fullständig lista över accepterade betalmetoder finns i &quot;Kassör&quot;-sektionen av ditt konto<br />
-                        • &nbsp;&nbsp;Insättningsavgifter: Drifbet tar inte ut några insättningsavgifter. Däremot kan din betalningsleverantör tillämpa egna avgifter. Vänligen kontakta din bank eller tjänsteleverantör för mer information<br />
+                        • &nbsp;&nbsp;Insättningsavgifter: BetCasino555 tar inte ut några insättningsavgifter. Däremot kan din betalningsleverantör tillämpa egna avgifter. Vänligen kontakta din bank eller tjänsteleverantör för mer information<br />
                     </Typography>
 
                     <Typography>
                         • 4.3 Valuta  <br />
                         • &nbsp;&nbsp;Primära valutor: EUR, USD, CAD<br />
                         • &nbsp;&nbsp;Krypto: BTC, ETH, USDT  -  omvandlas till USD baserat på växelkurs<br />
-                        • &nbsp;&nbsp;Växelkursen fastställs av Drifbet.com<br />
+                        • &nbsp;&nbsp;Växelkursen fastställs av betcasino555.com<br />
                         • &nbsp;&nbsp;Omvandlingsavgifter kan tillkomma <br />
                     </Typography>
                 </>
@@ -874,7 +874,7 @@ const TERMS_LANG: ITERMS_LANG = {
             "answer": (
                 <>
                     <Typography>
-                        • Estos Términos y Condiciones rigen el uso de todos los juegos y servicios proporcionados a través de www.Drifbet.com (el &quot;Sitio Web&quot;) y aplicaciones descargables (las &quot;Aplicaciones&quot;). Este documento, junto con nuestra Política de Privacidad, las Reglas del Juego y otros materiales referenciados, constituye un acuerdo vinculante entre Drifbet.com y usted, el Cliente.
+                        • Estos Términos y Condiciones rigen el uso de todos los juegos y servicios proporcionados a través de www.betcasino555.com (el &quot;Sitio Web&quot;) y aplicaciones descargables (las &quot;Aplicaciones&quot;). Este documento, junto con nuestra Política de Privacidad, las Reglas del Juego y otros materiales referenciados, constituye un acuerdo vinculante entre betcasino555.com y usted, el Cliente.
                     </Typography>
 
                     <Typography>
@@ -882,10 +882,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com es propiedad y está operado por Jeosgert LTD.<br />
+                        • www.betcasino555.com es propiedad y está operado por Jeosgert LTD.<br />
                         • Número de registro: 26131, Dirección registrada: Beachmont Business Centre, 168 P.O Box 1510 Kingstown St. Vincent y las Granadinas<br />
-                        • El sitio web Drifbet.com está autorizado y regulado por el Gobierno de la Isla Autónoma de Anjouan, Unión de Comoras, y opera bajo la Licencia No. L11543 /HM.<br />
-                        • El sitio web Drifbet.com ha pasado todos los requisitos regulatorios y está legalmente autorizado para realizar operaciones de juego para todos los juegos de azar y apuestas.
+                        • El sitio web betcasino555.com está autorizado y regulado por el Gobierno de la Isla Autónoma de Anjouan, Unión de Comoras, y opera bajo la Licencia No. L11543 /HM.<br />
+                        • El sitio web betcasino555.com ha pasado todos los requisitos regulatorios y está legalmente autorizado para realizar operaciones de juego para todos los juegos de azar y apuestas.
                     </Typography>
 
                     <Typography>
@@ -894,7 +894,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • En estos Términos y Condiciones: <br />
-                        • &nbsp;&nbsp;&quot;Drifbet.com&quot;, &quot;Nosotros&quot;, &quot;Nuestro&quot;, &quot;Administración&quot;, &quot;Sitio&quot; se refiere a Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;betcasino555.com&quot;, &quot;Nosotros&quot;, &quot;Nuestro&quot;, &quot;Administración&quot;, &quot;Sitio&quot; se refiere a betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Usted&quot;, &quot;Su&quot;, &quot;Cliente&quot;, &quot;Jugador&quot; se refiere al titular de la cuenta<br />
                         • &nbsp;&nbsp;&quot;Servicios&quot;, &quot;Juegos&quot;, &quot;Juego&quot; se refiere a cualquier oferta a través de nuestro Sitio Web o Aplicaciones.
                     </Typography>
@@ -905,7 +905,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Las comunicaciones oficiales solo provendrán de: <br />
-                        • &nbsp;&nbsp;&quot;@Drifbet.com&quot;<br />
+                        • &nbsp;&nbsp;&quot;@betcasino555.com&quot;<br />
                         • &nbsp;&nbsp;&quot;Chat en vivo para jugadores registrados&quot;<br />
                         • &nbsp;&nbsp;&quot;Control de versión&quot;<br />
                         • &nbsp;&nbsp;&quot;Versión actual:&quot;<br />
@@ -944,7 +944,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Proteja su nombre de usuario y contraseña<br />
                         • &nbsp;&nbsp;No comparta los detalles de la cuenta con otras personas<br />
                         • &nbsp;&nbsp;Informe de actividad sospechosa inmediatamente<br />
-                        • &nbsp;&nbsp;Póngase en contacto con support@Drifbet.com para credenciales perdidas<br />
+                        • &nbsp;&nbsp;Póngase en contacto con support@betcasino555.com para credenciales perdidas<br />
                     </Typography>
 
                     <Typography>
@@ -966,7 +966,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Restricciones de cuenta <br />
-                        • Drifbet.com se reserva el derecho de:<br />
+                        • betcasino555.com se reserva el derecho de:<br />
                         • &nbsp;&nbsp;Limitar la funcionalidad de la cuenta<br />
                         • &nbsp;&nbsp;Solicitar verificación adicional<br />
                         • &nbsp;&nbsp;Cerrar cuentas sin previo aviso<br />
@@ -1033,14 +1033,14 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Criptomonedas (Bitcoin, Ethereum, Tether)<br />
                         • &nbsp;&nbsp;Métodos de pago locales, según su región<br />
                         • &nbsp;&nbsp;Una lista completa de métodos de pago aceptados se puede encontrar en la sección &quot;Cajero&quot; de su cuenta<br />
-                        • &nbsp;&nbsp;Tarifas de depósito: Drifbet no cobra tarifas de depósito. Sin embargo, su proveedor de pago puede aplicar cargos propios. Consulte a su banco o proveedor de servicios para más detalles<br />
+                        • &nbsp;&nbsp;Tarifas de depósito: BetCasino555 no cobra tarifas de depósito. Sin embargo, su proveedor de pago puede aplicar cargos propios. Consulte a su banco o proveedor de servicios para más detalles<br />
                     </Typography>
 
                     <Typography>
                         • 4.3 Moneda <br />
                         • &nbsp;&nbsp;Monedas principales: EUR, USD, CAD<br />
                         • &nbsp;&nbsp;Cripto: BTC, ETH, USDT - convertidos a USD según las tasas de cambio<br />
-                        • &nbsp;&nbsp;Las tasas de cambio las determina Drifbet.com<br />
+                        • &nbsp;&nbsp;Las tasas de cambio las determina betcasino555.com<br />
                         • &nbsp;&nbsp;Pueden aplicarse tarifas de conversión<br />
                     </Typography>
                 </>
@@ -1053,7 +1053,7 @@ const TERMS_LANG: ITERMS_LANG = {
             "answer": (
                 <>
                     <Typography>
-                        • Diese Allgemeinen Geschäftsbedingungen regeln die Nutzung aller Spiele und Dienstleistungen, die über www.Drifbet.com (die „Website“) und herunterladbare Anwendungen (die „Apps“) angeboten werden. Dieses Dokument, zusammen mit unserer Datenschutzerklärung, den Spielregeln und anderen referenzierten Materialien, bildet eine verbindliche Vereinbarung zwischen Drifbet.com und Ihnen, dem Kunden.
+                        • Diese Allgemeinen Geschäftsbedingungen regeln die Nutzung aller Spiele und Dienstleistungen, die über www.betcasino555.com (die „Website“) und herunterladbare Anwendungen (die „Apps“) angeboten werden. Dieses Dokument, zusammen mit unserer Datenschutzerklärung, den Spielregeln und anderen referenzierten Materialien, bildet eine verbindliche Vereinbarung zwischen betcasino555.com und Ihnen, dem Kunden.
                     </Typography>
 
                     <Typography>
@@ -1061,10 +1061,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com wird betrieben von Jeosgert LTD.<br />
+                        • www.betcasino555.com wird betrieben von Jeosgert LTD.<br />
                         • Registrierungsnummer: 26131, Eingetragene Adresse: Beachmont Business Centre,168 P.O Box 1510 Kingstown st.Vincent und Grenadinen<br />
-                        • Drifbet.com ist lizenziert und reguliert durch die Regierung der Autonomen Insel Anjouan, Union der Komoren und arbeitet unter der Lizenznummer L11543 /HM.<br />
-                        • Drifbet.com hat alle regulatorischen Anforderungen erfüllt und ist rechtlich autorisiert, Glücksspieloperationen für alle Glücksspiele und Wetten durchzuführen.
+                        • betcasino555.com ist lizenziert und reguliert durch die Regierung der Autonomen Insel Anjouan, Union der Komoren und arbeitet unter der Lizenznummer L11543 /HM.<br />
+                        • betcasino555.com hat alle regulatorischen Anforderungen erfüllt und ist rechtlich autorisiert, Glücksspieloperationen für alle Glücksspiele und Wetten durchzuführen.
                     </Typography>
 
                     <Typography>
@@ -1073,7 +1073,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • In diesen Allgemeinen Geschäftsbedingungen: <br />
-                        • &nbsp;&nbsp;„Drifbet.com“, „Wir“, „Uns“, „Unser“, „Management“, „Seite“ bezieht sich auf Drifbet.com<br />
+                        • &nbsp;&nbsp;„betcasino555.com“, „Wir“, „Uns“, „Unser“, „Management“, „Seite“ bezieht sich auf betcasino555.com<br />
                         • &nbsp;&nbsp;„Sie“, „Ihr“, „Kunde“, „Spieler“ bezieht sich auf den Kontoinhaber<br />
                         • &nbsp;&nbsp;„Dienstleistungen“, „Spiele“, „Spiel“ bezieht sich auf alle Angebote über unsere Website oder Apps
                     </Typography>
@@ -1084,7 +1084,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Offizielle Mitteilungen kommen nur von: <br />
-                        • &nbsp;&nbsp;„@Drifbet.com“<br />
+                        • &nbsp;&nbsp;„@betcasino555.com“<br />
                         • &nbsp;&nbsp;„Live-Chat-Kommunikation für registrierte Spieler“<br />
                         • &nbsp;&nbsp;„Versionskontrolle“<br />
                         • &nbsp;&nbsp;„Aktuelle Version: &quot;<br />
@@ -1123,7 +1123,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Schützen Sie Ihren Benutzernamen und Ihr Passwort<br />
                         • &nbsp;&nbsp;Geben Sie Kontodaten nicht an andere weiter<br />
                         • &nbsp;&nbsp;Melden Sie verdächtige Aktivitäten sofort <br />
-                        • &nbsp;&nbsp;Kontaktieren Sie support@Drifbet.com bei verloren gegangenen Anmeldedaten<br />
+                        • &nbsp;&nbsp;Kontaktieren Sie support@betcasino555.com bei verloren gegangenen Anmeldedaten<br />
                     </Typography>
 
                     <Typography>
@@ -1145,7 +1145,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Kontoeinschränkungen <br />
-                        • Drifbet.com behält sich das Recht vor:<br />
+                        • betcasino555.com behält sich das Recht vor:<br />
                         • &nbsp;&nbsp;Die Konto-Funktionalität einzuschränken<br />
                         • &nbsp;&nbsp;Zusätzliche Verifizierung anzufordern <br />
                         • &nbsp;&nbsp;Konten ohne vorherige Ankündigung zu schließen <br />
@@ -1212,14 +1212,14 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Kryptowährungen (Bitcoin, Ethereum, Tether)<br />
                         • &nbsp;&nbsp;Lokale Zahlungsmethoden, je nach Region<br />
                         • &nbsp;&nbsp;Eine vollständige Liste der akzeptierten Zahlungsmethoden finden Sie im Kassenbereich Ihres Kontos<br />
-                        • &nbsp;&nbsp;Einzahlungsgebühren: Drifbet erhebt keine Einzahlungsgebühren. Ihr Zahlungsanbieter kann jedoch eigene Gebühren erheben. Bitte konsultieren Sie Ihre Bank oder Ihren Serviceanbieter für Details<br />
+                        • &nbsp;&nbsp;Einzahlungsgebühren: BetCasino555 erhebt keine Einzahlungsgebühren. Ihr Zahlungsanbieter kann jedoch eigene Gebühren erheben. Bitte konsultieren Sie Ihre Bank oder Ihren Serviceanbieter für Details<br />
                     </Typography>
 
                     <Typography>
                         • 4.3 Währung  <br />
                         • &nbsp;&nbsp;Primäre Währungen: EUR, USD, CAD<br />
                         • &nbsp;&nbsp;Krypto: BTC, ETH, USDT  -  umgerechnet in USD basierend auf Wechselkursen <br />
-                        • &nbsp;&nbsp;Wechselkurse werden von Drifbet.com festgelegt<br />
+                        • &nbsp;&nbsp;Wechselkurse werden von betcasino555.com festgelegt<br />
                         • &nbsp;&nbsp;Wechselgebühren können anfallen <br />
                     </Typography>
                 </>
@@ -1232,7 +1232,7 @@ const TERMS_LANG: ITERMS_LANG = {
             "answer": (
                 <>
                     <Typography>
-                        • Ces Termes et Conditions régissent l&apos;utilisation de tous les jeux et services fournis via www.Drifbet.com (le &quot;Site Web&quot;) et les applications téléchargeables (les &quot;Applications&quot;). Ce document, ainsi que notre Politique de Confidentialité, les Règles du Jeu et d&apos;autres documents de référence, constitue un accord contraignant entre Drifbet.com et vous, le Client.
+                        • Ces Termes et Conditions régissent l&apos;utilisation de tous les jeux et services fournis via www.betcasino555.com (le &quot;Site Web&quot;) et les applications téléchargeables (les &quot;Applications&quot;). Ce document, ainsi que notre Politique de Confidentialité, les Règles du Jeu et d&apos;autres documents de référence, constitue un accord contraignant entre betcasino555.com et vous, le Client.
                     </Typography>
 
                     <Typography>
@@ -1240,10 +1240,10 @@ const TERMS_LANG: ITERMS_LANG = {
                     </Typography>
 
                     <Typography>
-                        • www.Drifbet.com est détenu et exploité par Jeosgert LTD.<br />
+                        • www.betcasino555.com est détenu et exploité par Jeosgert LTD.<br />
                         • Numéro d&apos;enregistrement : 26131, Adresse enregistrée : Beachmont Business Centre, 168 P.O Box 1510 Kingstown St. Vincent et Grenadines<br />
-                        • Le site Drifbet.com est licencié et régulé par le gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores et opère sous la licence n° L11543 /HM.<br />
-                        • Le site Drifbet.com a passé toutes les conformités réglementaires et est légalement autorisé à mener des opérations de jeu pour tous les jeux de hasard et les paris.
+                        • Le site betcasino555.com est licencié et régulé par le gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores et opère sous la licence n° L11543 /HM.<br />
+                        • Le site betcasino555.com a passé toutes les conformités réglementaires et est légalement autorisé à mener des opérations de jeu pour tous les jeux de hasard et les paris.
                     </Typography>
 
                     <Typography>
@@ -1252,7 +1252,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Dans ces Termes et Conditions : <br />
-                        • &nbsp;&nbsp;&quot;Drifbet.com&quot;, &quot;Nous&quot;, &quot;Notre&quot;, &quot;Gestion&quot;, &quot;Site&quot; fait référence à Drifbet.com<br />
+                        • &nbsp;&nbsp;&quot;betcasino555.com&quot;, &quot;Nous&quot;, &quot;Notre&quot;, &quot;Gestion&quot;, &quot;Site&quot; fait référence à betcasino555.com<br />
                         • &nbsp;&nbsp;&quot;Vous&quot;, &quot;Votre&quot;, &quot;Client&quot;, &quot;Joueur&quot; fait référence au titulaire du compte<br />
                         • &nbsp;&nbsp;&quot;Services&quot;, &quot;Jeux&quot;, &quot;Jeu&quot; fait référence à toutes les offres disponibles sur notre Site Web ou Application.
                     </Typography>
@@ -1263,7 +1263,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • Les communications officielles proviendront uniquement de : <br />
-                        • &nbsp;&nbsp;&quot;@Drifbet.com&quot;<br />
+                        • &nbsp;&nbsp;&quot;@betcasino555.com&quot;<br />
                         • &nbsp;&nbsp;&quot;Communication par Chat en direct pour les joueurs enregistrés&quot;<br />
                         • &nbsp;&nbsp;&quot;Contrôle des versions&quot;<br />
                         • &nbsp;&nbsp;&quot;Version actuelle :&quot;<br />
@@ -1302,7 +1302,7 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Protégez votre nom d&apos;utilisateur et votre mot de passe<br />
                         • &nbsp;&nbsp;Ne partagez pas les détails de votre compte avec d&apos;autres<br />
                         • &nbsp;&nbsp;Signalez immédiatement toute activité suspecte<br />
-                        • &nbsp;&nbsp;Contactez support@Drifbet.com pour les identifiants perdus<br />
+                        • &nbsp;&nbsp;Contactez support@betcasino555.com pour les identifiants perdus<br />
                     </Typography>
 
                     <Typography>
@@ -1324,7 +1324,7 @@ const TERMS_LANG: ITERMS_LANG = {
 
                     <Typography>
                         • 2.6 Restrictions du compte <br />
-                        • Drifbet.com se réserve le droit de :<br />
+                        • betcasino555.com se réserve le droit de :<br />
                         • &nbsp;&nbsp;Limiter les fonctionnalités du compte<br />
                         • &nbsp;&nbsp;Demander des vérifications supplémentaires<br />
                         • &nbsp;&nbsp;Fermer des comptes sans préavis<br />
@@ -1391,14 +1391,14 @@ const TERMS_LANG: ITERMS_LANG = {
                         • &nbsp;&nbsp;Cryptomonnaies (Bitcoin, Ethereum, Tether)<br />
                         • &nbsp;&nbsp;Méthodes de paiement locales, selon votre région<br />
                         • &nbsp;&nbsp;Une liste complète des méthodes de paiement acceptées peut être trouvée dans la section &quot;Caissier&quot; de votre compte<br />
-                        • &nbsp;&nbsp;Frais de dépôt : Drifbet ne prélève pas de frais de dépôt. Cependant, votre fournisseur de paiement peut appliquer ses propres frais. Veuillez consulter votre banque ou fournisseur de services pour plus de détails<br />
+                        • &nbsp;&nbsp;Frais de dépôt : BetCasino555 ne prélève pas de frais de dépôt. Cependant, votre fournisseur de paiement peut appliquer ses propres frais. Veuillez consulter votre banque ou fournisseur de services pour plus de détails<br />
                     </Typography>
 
                     <Typography>
                         • 4.3 Devise <br />
                         • &nbsp;&nbsp;Devises principales : EUR, USD, CAD<br />
                         • &nbsp;&nbsp;Crypto : BTC, ETH, USDT - convertis en USD selon les taux de change<br />
-                        • &nbsp;&nbsp;Les taux de change sont déterminés par Drifbet.com<br />
+                        • &nbsp;&nbsp;Les taux de change sont déterminés par betcasino555.com<br />
                         • &nbsp;&nbsp;Des frais de conversion peuvent s&apos;appliquer<br />
                     </Typography>
                 </>

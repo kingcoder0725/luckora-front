@@ -23,7 +23,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             question: "Information We Collect",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>When you use Drifbet, we may collect various types of information, including:</Typography>
+                    <Typography variant='body1'>When you use BetCasino555, we may collect various types of information, including:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Personal Information:</Box> This includes information that you voluntarily provide to us, such as your name, date of birth, email address, phone number, mailing address, payment information, and any other details you provide during registration or account setup.</Typography>
 
@@ -71,7 +71,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Business Transfers: </Box> In the event of a merger, acquisition, reorganization, sale of assets, or bankruptcy, your personal information may be transferred as part of that business change.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Legal Requirements:</Box> We may disclose your information if required to do so by law, regulation, or legal request, or to protect the rights, property, or safety of Drifbet, our users, or others.
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Legal Requirements:</Box> We may disclose your information if required to do so by law, regulation, or legal request, or to protect the rights, property, or safety of BetCasino555, our users, or others.
                         </Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Consent:</Box> We may share your information with third parties when we have your consent to do so.
@@ -133,7 +133,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             question: "Contact Us",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at: <Box component="span" sx={titleColor} fontWeight="bold">Email: </Box> support@Drifbet.com
+                    <Typography variant='body1'>If you have any questions, concerns, or requests regarding this Privacy Policy, please contact us at: <Box component="span" sx={titleColor} fontWeight="bold">Email: </Box> support@betcasino555.com
                     </Typography>
                 </Stack>
             )
@@ -145,7 +145,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Информация, которую мы собираем",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Когда вы используете Drifbet, мы можем собирать различные типы информации, включая:</Typography>
+                    <Typography variant='body1'>Когда вы используете BetCasino555, мы можем собирать различные типы информации, включая:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Личная информация:</Box> Это включает информацию, которую вы добровольно предоставляете нам, такую как ваше имя, дата рождения, адрес электронной почты, номер телефона, почтовый адрес, информация о платежах и любые другие данные, которые вы предоставляете во время регистрации или настройки учетной записи.</Typography>
 
@@ -189,7 +189,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Бизнес-трансакции:</Box> В случае слияния, приобретения, реорганизации, продажи активов или банкротства ваша личная информация может быть передана в рамках этих бизнес-изменений.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Юридические требования:</Box> Мы можем раскрыть вашу информацию, если это требуется по закону, регламенту или юридическому запросу, или для защиты прав, собственности или безопасности Drifbet, наших пользователей или других лиц.</Typography>
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Юридические требования:</Box> Мы можем раскрыть вашу информацию, если это требуется по закону, регламенту или юридическому запросу, или для защиты прав, собственности или безопасности BetCasino555, наших пользователей или других лиц.</Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Согласие:</Box> Мы можем делиться вашей информацией с третьими сторонами, когда у нас есть ваше согласие на это.</Typography>
                     </Stack>
@@ -248,7 +248,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Свяжитесь с нами",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Если у вас есть любые вопросы, замечания или запросы по этой Политике конфиденциальности, пожалуйста, свяжитесь с нами по адресу: <Box component="span" sx={titleColor} fontWeight="bold">Электронная почта:</Box> support@Drifbet.com</Typography>
+                    <Typography variant='body1'>Если у вас есть любые вопросы, замечания или запросы по этой Политике конфиденциальности, пожалуйста, свяжитесь с нами по адресу: <Box component="span" sx={titleColor} fontWeight="bold">Электронная почта:</Box> support@betcasino555.com</Typography>
                 </Stack>
             )
         }
@@ -258,7 +258,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Informasjon Vi Samler",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Når du bruker Drifbet, kan vi samle inn ulike typer informasjon, inkludert:</Typography>
+                    <Typography variant='body1'>Når du bruker BetCasino555, kan vi samle inn ulike typer informasjon, inkludert:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Personlig Informasjon:</Box> Dette inkluderer informasjon som du frivillig gir oss, som navn, fødselsdato, e-postadresse, telefonnummer, postadresse, betalingsinformasjon, og eventuelle andre detaljer du gir under registrering eller oppsett av konto.</Typography>
 
@@ -306,7 +306,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Virksomhetsoverføringer: </Box> I tilfelle av en fusjon, oppkjøp, omorganisering, salg av eiendeler, eller konkurs, kan din personlige informasjon overføres som en del av den forretningsmessige endringen.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Juridiske Krav:</Box> Vi kan avsløre informasjonen din hvis vi er pålagt å gjøre det ved lov, forskrift, eller juridisk forespørsel, eller for å beskytte rettighetene, eiendommen, eller sikkerheten til Drifbet, våre brukere, eller andre.
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Juridiske Krav:</Box> Vi kan avsløre informasjonen din hvis vi er pålagt å gjøre det ved lov, forskrift, eller juridisk forespørsel, eller for å beskytte rettighetene, eiendommen, eller sikkerheten til BetCasino555, våre brukere, eller andre.
                         </Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Samtykke:</Box> Vi kan dele informasjonen din med tredjeparter når vi har ditt samtykke til å gjøre det.
@@ -368,7 +368,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Kontakt Oss",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Hvis du har spørsmål, bekymringer eller forespørsel angående denne personvernpolicyen, vennligst kontakt oss på: <Box component="span" sx={titleColor} fontWeight="bold">E-post: </Box> support@Drifbet.com
+                    <Typography variant='body1'>Hvis du har spørsmål, bekymringer eller forespørsel angående denne personvernpolicyen, vennligst kontakt oss på: <Box component="span" sx={titleColor} fontWeight="bold">E-post: </Box> support@betcasino555.com
                     </Typography>
                 </Stack>
             )
@@ -379,7 +379,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Keräämämme tiedot",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Kun käytät Drifbet:ta, voimme kerätä erilaisia tietotyyppejä, mukaan lukien:</Typography>
+                    <Typography variant='body1'>Kun käytät BetCasino555:ta, voimme kerätä erilaisia tietotyyppejä, mukaan lukien:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Henkilökohtaiset tiedot:</Box> Tämä sisältää tiedot, jotka annat meille vapaaehtoisesti, kuten nimesi, syntymäaikasi, sähköpostiosoitteesi, puhelinnumerosi, osoitteesi, maksutietosi ja muut tiedot, jotka annat rekisteröinnin tai tilin asetuksen aikana.</Typography>
 
@@ -421,7 +421,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Liiketoimintasiirrot: </Box> Fuusion, yritysostojen, uudelleenjärjestelyjen, omaisuuden myynnin tai konkurssin yhteydessä henkilökohtaiset tietosi voidaan siirtää osana liiketoiminnan muutosta.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Lain vaatimukset:</Box> Voimme paljastaa tietojasi, jos laki, sääntely tai oikeudellinen pyyntö niin vaatii, tai suojataksemme Drifbet:n, käyttäjiemme tai muiden oikeuksia, omaisuutta tai turvallisuutta.</Typography>
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Lain vaatimukset:</Box> Voimme paljastaa tietojasi, jos laki, sääntely tai oikeudellinen pyyntö niin vaatii, tai suojataksemme BetCasino555:n, käyttäjiemme tai muiden oikeuksia, omaisuutta tai turvallisuutta.</Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Suostumus:</Box> Voimme jakaa tietojasi kolmansien osapuolien kanssa, kun meillä on suostumuksesi siihen.</Typography>
                     </Stack>
@@ -479,7 +479,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Ota yhteyttä",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Jos sinulla on kysymyksiä, huolenaiheita tai pyyntöjä liittyen tähän tietosuojakäytäntöön, ota yhteyttä: <Box component="span" sx={titleColor} fontWeight="bold">Sähköposti: </Box> support@Drifbet.com</Typography>
+                    <Typography variant='body1'>Jos sinulla on kysymyksiä, huolenaiheita tai pyyntöjä liittyen tähän tietosuojakäytäntöön, ota yhteyttä: <Box component="span" sx={titleColor} fontWeight="bold">Sähköposti: </Box> support@betcasino555.com</Typography>
                 </Stack>
             )
         }
@@ -489,7 +489,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Information Vi Samlar In",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>När du använder Drifbet kan vi samla in olika typer av information, inklusive:</Typography>
+                    <Typography variant='body1'>När du använder BetCasino555 kan vi samla in olika typer av information, inklusive:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Personlig Information:</Box> Detta inkluderar information som du frivilligt tillhandahåller oss, såsom ditt namn, födelsedatum, e-postadress, telefonnummer, postadress, betalningsinformation och andra detaljer du anger vid registrering eller kontoinställning.</Typography>
 
@@ -537,7 +537,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Affärsöverföringar: </Box> Vid en sammanslagning, förvärv, omorganisation, försäljning av tillgångar eller konkurs kan din personliga information överföras som en del av den affärsförändringen.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Juridiska krav:</Box> Vi kan avslöja din information om det krävs enligt lag, förordning eller juridisk begäran, eller för att skydda rättigheterna, egendomen eller säkerheten för Drifbet, våra användare eller andra.
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Juridiska krav:</Box> Vi kan avslöja din information om det krävs enligt lag, förordning eller juridisk begäran, eller för att skydda rättigheterna, egendomen eller säkerheten för BetCasino555, våra användare eller andra.
                         </Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Samtycke:</Box> Vi kan dela din information med tredje parter när vi har ditt samtycke att göra det.
@@ -599,7 +599,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Kontakta Oss",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Om du har några frågor, bekymmer eller förfrågningar angående denna integritetspolicy, vänligen kontakta oss på: <Box component="span" sx={titleColor} fontWeight="bold">E-post: </Box> support@Drifbet.com
+                    <Typography variant='body1'>Om du har några frågor, bekymmer eller förfrågningar angående denna integritetspolicy, vänligen kontakta oss på: <Box component="span" sx={titleColor} fontWeight="bold">E-post: </Box> support@betcasino555.com
                     </Typography>
                 </Stack>
             )
@@ -610,7 +610,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Información que Recopilamos",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Cuando uses Drifbet, podemos recopilar varios tipos de información, incluyendo:</Typography>
+                    <Typography variant='body1'>Cuando uses BetCasino555, podemos recopilar varios tipos de información, incluyendo:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Información Personal:</Box> Esto incluye la información que nos proporcionas voluntariamente, como tu nombre, fecha de nacimiento, dirección de correo electrónico, número de teléfono, dirección de correspondencia, información de pago y cualquier otro detalle que proporciones durante el registro o configuración de la cuenta.</Typography>
 
@@ -652,7 +652,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Transferencias de Negocios: </Box> En caso de una fusión, adquisición, reorganización, venta de activos o quiebra, tu información personal puede ser transferida como parte de ese cambio empresarial.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Requisitos Legales:</Box> Podemos divulgar tu información si se nos requiere hacerlo por ley, regulación o solicitud legal, o para proteger los derechos, propiedades o seguridad de Drifbet, nuestros usuarios u otros.</Typography>
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Requisitos Legales:</Box> Podemos divulgar tu información si se nos requiere hacerlo por ley, regulación o solicitud legal, o para proteger los derechos, propiedades o seguridad de BetCasino555, nuestros usuarios u otros.</Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Consentimiento:</Box> Podemos compartir tu información con terceros cuando tengamos tu consentimiento para hacerlo.</Typography>
                     </Stack>
@@ -710,7 +710,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Contáctanos",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Si tienes alguna pregunta, preocupación o solicitud relacionada con esta Política de Privacidad, por favor contáctanos en: <Box component="span" sx={titleColor} fontWeight="bold">Correo electrónico: </Box> support@Drifbet.com</Typography>
+                    <Typography variant='body1'>Si tienes alguna pregunta, preocupación o solicitud relacionada con esta Política de Privacidad, por favor contáctanos en: <Box component="span" sx={titleColor} fontWeight="bold">Correo electrónico: </Box> support@betcasino555.com</Typography>
                 </Stack>
             )
         }
@@ -720,7 +720,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Informationen, die wir sammeln",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Wenn Sie Drifbet nutzen, können wir verschiedene Arten von Informationen sammeln, einschließlich:</Typography>
+                    <Typography variant='body1'>Wenn Sie BetCasino555 nutzen, können wir verschiedene Arten von Informationen sammeln, einschließlich:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Persönliche Informationen:</Box> Dies umfasst Informationen, die Sie uns freiwillig zur Verfügung stellen, wie z.B. Ihren Namen, Geburtsdatum, E-Mail-Adresse, Telefonnummer, Postadresse, Zahlungsinformationen und alle anderen Details, die Sie während der Registrierung oder Kontoeinrichtung angeben.</Typography>
 
@@ -764,7 +764,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Unternehmensübertragungen:</Box> Im Falle einer Fusion, Übernahme, Umstrukturierung, Verkaufs von Vermögenswerten oder Insolvenz können Ihre persönlichen Informationen als Teil dieser geschäftlichen Veränderung übertragen werden.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Gesetzliche Anforderungen:</Box> Wir können Ihre Informationen offenlegen, wenn wir gesetzlich, regulatorisch oder aufgrund einer rechtlichen Anfrage dazu verpflichtet sind oder um die Rechte, das Eigentum oder die Sicherheit von Drifbet, unseren Nutzern oder anderen zu schützen.</Typography>
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Gesetzliche Anforderungen:</Box> Wir können Ihre Informationen offenlegen, wenn wir gesetzlich, regulatorisch oder aufgrund einer rechtlichen Anfrage dazu verpflichtet sind oder um die Rechte, das Eigentum oder die Sicherheit von BetCasino555, unseren Nutzern oder anderen zu schützen.</Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Zustimmung:</Box> Wir können Ihre Informationen mit Dritten teilen, wenn wir Ihre Zustimmung dazu haben.</Typography>
                     </Stack>
@@ -823,7 +823,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Kontaktieren Sie uns",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Wenn Sie Fragen, Bedenken oder Anfragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte unter: <Box component="span" sx={titleColor} fontWeight="bold">E-Mail: </Box> support@Drifbet.com</Typography>
+                    <Typography variant='body1'>Wenn Sie Fragen, Bedenken oder Anfragen zu dieser Datenschutzerklärung haben, kontaktieren Sie uns bitte unter: <Box component="span" sx={titleColor} fontWeight="bold">E-Mail: </Box> support@betcasino555.com</Typography>
                 </Stack>
             )
         }
@@ -833,7 +833,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Informations que nous collectons",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Lorsque vous utilisez Drifbet, nous pouvons collecter divers types d&apos;informations, y compris :</Typography>
+                    <Typography variant='body1'>Lorsque vous utilisez BetCasino555, nous pouvons collecter divers types d&apos;informations, y compris :</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Informations personnelles :</Box> Cela inclut les informations que vous nous fournissez volontairement, telles que votre nom, votre date de naissance, votre adresse e-mail, votre numéro de téléphone, votre adresse postale, vos informations de paiement, et toute autre information que vous fournissez lors de l&apos;enregistrement ou de la création de votre compte.</Typography>
 
@@ -877,7 +877,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Transferts d&apos;entreprise :</Box> En cas de fusion, d&apos;acquisition, de réorganisation, de vente d&apos;actifs ou de faillite, vos informations personnelles peuvent être transférées dans le cadre de ce changement d&apos;entreprise.</Typography>
 
-                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Exigences légales :</Box> Nous pouvons divulguer vos informations si la loi, la réglementation ou une demande légale l&apos;exige, ou pour protéger les droits, la propriété ou la sécurité de Drifbet, de nos utilisateurs, ou d&apos;autres personnes.</Typography>
+                        <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Exigences légales :</Box> Nous pouvons divulguer vos informations si la loi, la réglementation ou une demande légale l&apos;exige, ou pour protéger les droits, la propriété ou la sécurité de BetCasino555, de nos utilisateurs, ou d&apos;autres personnes.</Typography>
 
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Consentement :</Box> Nous pouvons partager vos informations avec des tiers lorsque nous avons votre consentement pour ce faire.</Typography>
                     </Stack>
@@ -936,7 +936,7 @@ const PRIVACY_LANG: IPRIVACY_LANG = {
             "question": "Contactez-nous",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Si vous avez des questions, des préoccupations ou des demandes concernant cette politique de confidentialité, veuillez nous contacter à : <Box component="span" sx={titleColor} fontWeight="bold">Email : </Box> support@Drifbet.com</Typography>
+                    <Typography variant='body1'>Si vous avez des questions, des préoccupations ou des demandes concernant cette politique de confidentialité, veuillez nous contacter à : <Box component="span" sx={titleColor} fontWeight="bold">Email : </Box> support@betcasino555.com</Typography>
                 </Stack>
             )
         }

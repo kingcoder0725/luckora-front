@@ -419,7 +419,7 @@ export default function ProfileNavVertical({ openNav, onCloseNav }: Props) {
         <Box
           component="img"
           src="/logo/logo.png"
-          alt="Drifbet"
+          alt="BetCasino555"
           sx={{
             height: 40,
             width: 'auto',

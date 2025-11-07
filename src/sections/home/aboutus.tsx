@@ -29,10 +29,10 @@ const cardStyle = {
 
 const ABOUTUSDATA = [
     {
-        question: "About Us - Drifbet",
+        question: "About Us - BetCasino555",
         answer: (
             <Stack sx={cardStyle}>
-                <Typography>Welcome to <Box component="span" color="#FFE71A" fontWeight="bold">Drifbet</Box>, your ultimate destination for online casino gaming and sports betting! We are a premier online platform dedicated to delivering an unparalleled gaming experience that combines the thrill of the casino with the excitement of sports betting—all from the comfort of your home or on the go.
+                <Typography>Welcome to <Box component="span" color="#FFE71A" fontWeight="bold">BetCasino555</Box>, your ultimate destination for online casino gaming and sports betting! We are a premier online platform dedicated to delivering an unparalleled gaming experience that combines the thrill of the casino with the excitement of sports betting—all from the comfort of your home or on the go.
                 </Typography>
             </Stack>
         )
@@ -41,7 +41,7 @@ const ABOUTUSDATA = [
         question: "Who We Are",
         answer: (
             <Stack sx={cardStyle}>
-                <Typography>At <Box component="span" color="#FFE71A" fontWeight="bold">Drifbet</Box>, we are passionate about providing our players with a world-class gaming environment. With years of experience in the online gaming industry, we have built a platform that caters to both seasoned players and newcomers alike. Our mission is simple: to offer a safe, fair, and fun gaming experience that keeps our players coming back for more.
+                <Typography>At <Box component="span" color="#FFE71A" fontWeight="bold">BetCasino555</Box>, we are passionate about providing our players with a world-class gaming environment. With years of experience in the online gaming industry, we have built a platform that caters to both seasoned players and newcomers alike. Our mission is simple: to offer a safe, fair, and fun gaming experience that keeps our players coming back for more.
                 </Typography>
             </Stack>
         )
@@ -50,13 +50,13 @@ const ABOUTUSDATA = [
         question: "What We Offer",
         answer: (
             <Stack sx={cardStyle}>
-                <Typography><Box component="span" color="#FFE71A" fontWeight="bold">Drifbet</Box> boasts a vast selection of casino games and sports betting options to suit every type of player. Our offerings include:
+                <Typography><Box component="span" color="#FFE71A" fontWeight="bold">BetCasino555</Box> boasts a vast selection of casino games and sports betting options to suit every type of player. Our offerings include:
                 </Typography>
                 <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-Casino Games:</Box> From classic table games like Blackjack, Roulette, and Poker to an extensive collection of the latest slot machines, our casino floor has something for everyone. Our games are powered by top-tier providers, ensuring high-quality graphics, fair play, and immersive experiences.</Typography>
 
                 <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-Live Casino:</Box> Experience the thrill of a real-life casino from your own home with our Live Casino games. Interact with professional dealers and enjoy the social aspect of gaming with players worldwide.</Typography>
 
-                <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-Sports Betting:</Box> Whether you’re a fan of football, basketball, tennis, or any other sport, <Box component="span" color="#FFE71A" fontWeight="bold">Drifbet</Box> provides comprehensive sports betting markets, competitive odds, and live in-play betting options that put you in the heart of the action.
+                <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-Sports Betting:</Box> Whether you’re a fan of football, basketball, tennis, or any other sport, <Box component="span" color="#FFE71A" fontWeight="bold">BetCasino555</Box> provides comprehensive sports betting markets, competitive odds, and live in-play betting options that put you in the heart of the action.
                 </Typography>
             </Stack>
         )
@@ -65,13 +65,13 @@ const ABOUTUSDATA = [
         question: "Our Commitment to You",
         answer: (
             <Stack sx={cardStyle}>
-                <Typography>At <Box component="span" color="#FFE71A" fontWeight="bold">Drifbet</Box>, our players are at the heart of everything we do. We are committed to providing a safe and secure gaming environment where fair play is guaranteed. Our platform utilizes state-of-the-art encryption technologies to protect your personal and financial information, ensuring your data remains private and secure.
+                <Typography>At <Box component="span" color="#FFE71A" fontWeight="bold">BetCasino555</Box>, our players are at the heart of everything we do. We are committed to providing a safe and secure gaming environment where fair play is guaranteed. Our platform utilizes state-of-the-art encryption technologies to protect your personal and financial information, ensuring your data remains private and secure.
                 </Typography>
             </Stack>
         )
     },
     {
-        question: "Why Choose Drifbet?",
+        question: "Why Choose BetCasino555?",
         answer: (
             <Stack sx={cardStyle}>
                 <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-User-Friendly Experience:</Box> Our website and mobile app are designed with you in mind, offering an intuitive and seamless navigation experience.
@@ -80,7 +80,7 @@ const ABOUTUSDATA = [
                 <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-24/7 Customer Support:</Box> Our dedicated customer support team is available around the clock to assist you with any questions or issues. Whether you need help with your account, game rules, or making a deposit, we’re here to help!
                 </Typography>
 
-                <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-Exciting Promotions and Bonuses:</Box> At<Box component="span" color="#FFE71A" fontWeight="bold"> Drifbet </Box>, we believe in rewarding our players. From generous welcome bonuses to regular promotions and loyalty rewards, there are plenty of opportunities to boost your bankroll.
+                <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-Exciting Promotions and Bonuses:</Box> At<Box component="span" color="#FFE71A" fontWeight="bold"> BetCasino555 </Box>, we believe in rewarding our players. From generous welcome bonuses to regular promotions and loyalty rewards, there are plenty of opportunities to boost your bankroll.
                 </Typography>
 
                 <Typography><Box component="span" color="#FFE71A" fontWeight="bold">-Responsible Gaming:</Box> We are committed to promoting responsible gaming. Our platform includes a range of tools to help you manage your gaming activity, including deposit limits, time-out features, and self-exclusion options. We are here to ensure that your gaming experience is both enjoyable and responsible.
@@ -89,11 +89,11 @@ const ABOUTUSDATA = [
         )
     },
     {
-        question: "Join the Drifbet Community Today!",
+        question: "Join the BetCasino555 Community Today!",
         answer: (
             <Stack sx={cardStyle}>
                 <Typography>
-                    We invite you to join the<Box component="span" color="#FFE71A" fontWeight="bold">**Drifbet**</Box> community and discover a world of thrilling casino games and sports betting opportunities. Sign up today and experience the best in online gaming with unbeatable rewards, top-notch customer service, and a secure and fair gaming environment.
+                    We invite you to join the<Box component="span" color="#FFE71A" fontWeight="bold">**BetCasino555**</Box> community and discover a world of thrilling casino games and sports betting opportunities. Sign up today and experience the best in online gaming with unbeatable rewards, top-notch customer service, and a secure and fair gaming environment.
                 </Typography>
             </Stack>
         )

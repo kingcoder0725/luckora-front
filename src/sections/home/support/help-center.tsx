@@ -11,11 +11,11 @@ export default function HelpCenter() {
   const faqItems = [
     {
       question: 'What should I do if I have forgotten my password?',
-      answer: 'If you forgot your password you can get a new password immediately using the forgot password page. If you run into any issues our super friendly support staff will help you from 8:00am to 12:00pm in real time via chat - the orange icon at the bottom right of this page will open chat - or email at support@drifbet.com',
+      answer: 'If you forgot your password you can get a new password immediately using the forgot password page. If you run into any issues our super friendly support staff will help you from 8:00am to 12:00pm in real time via chat - the orange icon at the bottom right of this page will open chat - or email at support@betcasino555.com',
     },
     {
       question: 'Are games fair?',
-      answer: 'At DrifBet, we maintain fair play to the highest standards and deliver only the best games from leading and verified providers. Last but not least, all games have the necessary certificates - for random number generators and for RTP.',
+      answer: 'At BetCasino555, we maintain fair play to the highest standards and deliver only the best games from leading and verified providers. Last but not least, all games have the necessary certificates - for random number generators and for RTP.',
     },
     {
       question: 'Can I play the casino games without spending any money?',
@@ -30,7 +30,7 @@ export default function HelpCenter() {
       answer: 'First, please check your Flash and Java software versions. To play any of the games, players must have the latest version of Java and Flash installed on their devices. Second, check your Internet connection because you might have lost it. Third, please clear your browser cache and cookies, restart the browser and try again. In case it still does not work, contact our Support Service Team. We will find a solution to any of such problems!',
     },
     {
-      question: 'Is all my information secure on DrifBet?',
+      question: 'Is all my information secure on BetCasino555?',
       answer: 'We use the best and most innovative technologies, 128 - bit Secure Socket Layer encryption and PGP protocol included, to ensure safe and secure data transfer.',
     },
     {
@@ -39,7 +39,7 @@ export default function HelpCenter() {
     },
     {
       question: 'Can I close my account for a specified amount of time?',
-      answer: 'Sure. You are able to select a cool - off period or to self - exclude yourself for up to one year in your personal profile. You can also request our Support Service Team to close your account with a possibility to reopen it later. Just contact them directly through LiveChat or send an email to support@drifbet.com They will sort everything out as fast as possible.',
+      answer: 'Sure. You are able to select a cool - off period or to self - exclude yourself for up to one year in your personal profile. You can also request our Support Service Team to close your account with a possibility to reopen it later. Just contact them directly through LiveChat or send an email to support@betcasino555.com They will sort everything out as fast as possible.',
     },
   ];
 

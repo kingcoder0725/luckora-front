@@ -12,11 +12,11 @@ export default function Page() {
                 <title>{APP_NAME} : Cookies</title>
                 <meta
                     name="description"
-                    content="Understand how Drifbet uses cookies to enhance your online casino experience. Learn about our cookie policy and privacy practices."
+                    content="Understand how BetCasino555 uses cookies to enhance your online casino experience. Learn about our cookie policy and privacy practices."
                 />
                 <meta
                     name="keywords"
-                    content="Drifbet cookies, cookie policy, casino privacy, online gaming cookies, website cookies"
+                    content="BetCasino555 cookies, cookie policy, casino privacy, online gaming cookies, website cookies"
                 />
             </Helmet>
 

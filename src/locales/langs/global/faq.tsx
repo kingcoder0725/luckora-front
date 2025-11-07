@@ -10,7 +10,7 @@ const FAQ_LANG: IFAQ_LANG = {
             question: "What should I do if I have forgotten my password?",
             answer: (
                 <Typography>
-                    If you forgot your password you can get a new password immediately using the forgot password page.< br /> If you run into any issues our super friendly support staff will help you from 8:00am to 12:00pm in real time via chat - the orange icon at the bottom right of this page will open chat - or email at < Link > support@drifbet.com </Link>
+                    If you forgot your password you can get a new password immediately using the forgot password page.< br /> If you run into any issues our super friendly support staff will help you from 8:00am to 12:00pm in real time via chat - the orange icon at the bottom right of this page will open chat - or email at < Link > support@betcasino555.com </Link>
                 </Typography>
             )
         },
@@ -18,7 +18,7 @@ const FAQ_LANG: IFAQ_LANG = {
             question: "Are games fair?",
             answer: (
                 <Typography>
-                    At DrifBet, we maintain fair play to the highest standards and deliver only the best games from leading and verified providers.< br /> Last but not least, all games have the necessary certificates - for random number generators and for RTP.
+                    At BetCasino555, we maintain fair play to the highest standards and deliver only the best games from leading and verified providers.< br /> Last but not least, all games have the necessary certificates - for random number generators and for RTP.
                 </Typography>
             )
         },
@@ -47,7 +47,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            question: "Is all my information secure on DrifBet?",
+            question: "Is all my information secure on BetCasino555?",
             answer: (
                 <Typography>
                     We use the best and most innovative technologies, 128 - bit Secure Socket Layer encryption and PGP protocol included, to ensure safe and secure data transfer.
@@ -66,7 +66,7 @@ const FAQ_LANG: IFAQ_LANG = {
             question: "Can I close my account for a specified amount of time?",
             answer: (
                 <Typography>
-                    Sure.You are able to select a cool - off period or to self - exclude yourself for up to one year in your personal profile.< br /> You can also request our Support Service Team to close your account with a possibility to reopen it later.< br /> Just contact them directly through LiveChat or send an email to <Link> support@drifbet.com</Link> They will sort everything out as fast as possible.
+                    Sure.You are able to select a cool - off period or to self - exclude yourself for up to one year in your personal profile.< br /> You can also request our Support Service Team to close your account with a possibility to reopen it later.< br /> Just contact them directly through LiveChat or send an email to <Link> support@betcasino555.com</Link> They will sort everything out as fast as possible.
                 </Typography>
             )
         },
@@ -76,7 +76,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Что делать, если я забыл свой пароль?",
             "answer": (
                 <Typography>
-                    Если вы забыли свой пароль, вы можете немедленно получить новый пароль на странице восстановления пароля.<br /> Если у вас возникнут какие-либо проблемы, наша дружелюбная служба поддержки поможет вам с 8:00 до 12:00 в реальном времени через чат - оранжевая иконка в правом нижнем углу этой страницы откроет чат - или по электронной почте на <Link> support@drifbet.com </Link>
+                    Если вы забыли свой пароль, вы можете немедленно получить новый пароль на странице восстановления пароля.<br /> Если у вас возникнут какие-либо проблемы, наша дружелюбная служба поддержки поможет вам с 8:00 до 12:00 в реальном времени через чат - оранжевая иконка в правом нижнем углу этой страницы откроет чат - или по электронной почте на <Link> support@betcasino555.com </Link>
                 </Typography>
             )
         },
@@ -84,7 +84,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Игры справедливы?",
             "answer": (
                 <Typography>
-                    В DrifBet мы поддерживаем честную игру на самом высоком уровне и предлагаем только лучшие игры от ведущих и проверенных провайдеров.<br /> В заключение, все игры имеют необходимые сертификаты - для генераторов случайных чисел и для RTP.
+                    В BetCasino555 мы поддерживаем честную игру на самом высоком уровне и предлагаем только лучшие игры от ведущих и проверенных провайдеров.<br /> В заключение, все игры имеют необходимые сертификаты - для генераторов случайных чисел и для RTP.
                 </Typography>
             )
         },
@@ -113,7 +113,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            "question": "Безопасна ли вся моя информация на DrifBet?",
+            "question": "Безопасна ли вся моя информация на BetCasino555?",
             "answer": (
                 <Typography>
                     Мы используем лучшие и самые инновационные технологии, включая 128-битное шифрование Secure Socket Layer и протокол PGP, чтобы обеспечить безопасную передачу данных.
@@ -132,7 +132,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Могу ли я закрыть свой аккаунт на определенный период времени?",
             "answer": (
                 <Typography>
-                    Конечно. Вы можете выбрать период охлаждения или самоисключиться на срок до одного года в своем личном профиле.<br /> Вы также можете попросить нашу службу поддержки закрыть ваш аккаунт с возможностью его повторного открытия позже.<br /> Просто свяжитесь с ними напрямую через LiveChat или отправьте электронное письмо на <Link> support@drifbet.com </Link>. Они решат все как можно быстрее.
+                    Конечно. Вы можете выбрать период охлаждения или самоисключиться на срок до одного года в своем личном профиле.<br /> Вы также можете попросить нашу службу поддержки закрыть ваш аккаунт с возможностью его повторного открытия позже.<br /> Просто свяжитесь с ними напрямую через LiveChat или отправьте электронное письмо на <Link> support@betcasino555.com </Link>. Они решат все как можно быстрее.
                 </Typography>
             )
         }
@@ -142,7 +142,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Hva skal jeg gjøre hvis jeg har glemt passordet mitt?",
             "answer": (
                 <Typography>
-                    Hvis du har glemt passordet ditt, kan du umiddelbart få et nytt passord ved å bruke siden for glemt passord.<br /> Hvis du støter på problemer, vil vårt supervennlige supportteam hjelpe deg fra 08:00 til 12:00 i sanntid via chat - den oransje ikonet nederst til høyre på denne siden åpner chatten - eller via e-post på <Link>support@drifbet.com</Link>.
+                    Hvis du har glemt passordet ditt, kan du umiddelbart få et nytt passord ved å bruke siden for glemt passord.<br /> Hvis du støter på problemer, vil vårt supervennlige supportteam hjelpe deg fra 08:00 til 12:00 i sanntid via chat - den oransje ikonet nederst til høyre på denne siden åpner chatten - eller via e-post på <Link>support@betcasino555.com</Link>.
                 </Typography>
             )
         },
@@ -150,7 +150,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Er spillene rettferdige?",
             "answer": (
                 <Typography>
-                    Hos DrifBet opprettholder vi rettferdig spill på høyeste standard og leverer kun de beste spillene fra ledende og verifiserte leverandører.<br /> Sist, men ikke minst, har alle spillene de nødvendige sertifikatene - for tilfeldige tallgeneratorer og for RTP.
+                    Hos BetCasino555 opprettholder vi rettferdig spill på høyeste standard og leverer kun de beste spillene fra ledende og verifiserte leverandører.<br /> Sist, men ikke minst, har alle spillene de nødvendige sertifikatene - for tilfeldige tallgeneratorer og for RTP.
                 </Typography>
             )
         },
@@ -179,7 +179,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            "question": "Er all informasjonen min sikker på DrifBet?",
+            "question": "Er all informasjonen min sikker på BetCasino555?",
             "answer": (
                 <Typography>
                     Vi bruker de beste og mest innovative teknologiene, inkludert 128-bit Secure Socket Layer kryptering og PGP-protokoll, for å sikre trygg og sikker datatransfer.
@@ -198,7 +198,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Kan jeg stenge kontoen min i en spesifisert periode?",
             "answer": (
                 <Typography>
-                    Selvfølgelig. Du kan velge en avkjølingsperiode eller selvutestenge deg i opptil ett år i din personlige profil.<br /> Du kan også be vårt supportteam om å stenge kontoen din med mulighet for å åpne den igjen senere.<br /> Bare kontakt dem direkte gjennom LiveChat eller send en e-post til <Link>support@drifbet.com</Link> De vil ordne alt så raskt som mulig.
+                    Selvfølgelig. Du kan velge en avkjølingsperiode eller selvutestenge deg i opptil ett år i din personlige profil.<br /> Du kan også be vårt supportteam om å stenge kontoen din med mulighet for å åpne den igjen senere.<br /> Bare kontakt dem direkte gjennom LiveChat eller send en e-post til <Link>support@betcasino555.com</Link> De vil ordne alt så raskt som mulig.
                 </Typography>
             )
         }
@@ -208,7 +208,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Mitä minun pitäisi tehdä, jos olen unohtanut salasanani?",
             "answer": (
                 <Typography>
-                    Jos olet unohtanut salasanasi, voit saada uuden salasanan heti unohtuneen salasanan sivun kautta.<br /> Jos kohtaat ongelmia, ystävällinen tukihenkilöstömme auttaa sinua reaaliajassa klo 8:00–12:00 chatin kautta - oranssi ikoni sivun oikeassa alakulmassa avaa chatin - tai voit lähettää sähköpostia osoitteeseen <Link> support@drifbet.com </Link>
+                    Jos olet unohtanut salasanasi, voit saada uuden salasanan heti unohtuneen salasanan sivun kautta.<br /> Jos kohtaat ongelmia, ystävällinen tukihenkilöstömme auttaa sinua reaaliajassa klo 8:00–12:00 chatin kautta - oranssi ikoni sivun oikeassa alakulmassa avaa chatin - tai voit lähettää sähköpostia osoitteeseen <Link> support@betcasino555.com </Link>
                 </Typography>
             )
         },
@@ -216,7 +216,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Onko pelit reiluja?",
             "answer": (
                 <Typography>
-                    DrifBet:llä ylläpidämme reilua peliä korkeimmilla standardeilla ja tarjoamme vain parhaita pelejä johtavilta ja varmennetuista tarjoajilta.<br /> Kaikilla peleillä on tarvittavat sertifikaatit - satunnaislukugeneraattoreille ja RTP:lle.
+                    BetCasino555:llä ylläpidämme reilua peliä korkeimmilla standardeilla ja tarjoamme vain parhaita pelejä johtavilta ja varmennetuista tarjoajilta.<br /> Kaikilla peleillä on tarvittavat sertifikaatit - satunnaislukugeneraattoreille ja RTP:lle.
                 </Typography>
             )
         },
@@ -245,7 +245,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            "question": "Onko kaikki tietoni turvallisia DrifBet:llä?",
+            "question": "Onko kaikki tietoni turvallisia BetCasino555:llä?",
             "answer": (
                 <Typography>
                     Käytämme parhaita ja innovatiivisimpia teknologioita, mukaan lukien 128-bittinen Secure Socket Layer -salauksen ja PGP-protokollan, varmistaaksemme turvallisen ja suojatun tietojen siirron.
@@ -264,7 +264,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Voinko sulkea tilini määräajaksi?",
             "answer": (
                 <Typography>
-                    Tietenkin. Voit valita jäähdyttelyjakson tai itsepoissulkea itsesi jopa vuodeksi henkilökohtaisessa profiilissasi.<br /> Voit myös pyytää tukipalvelutiimiämme sulkemaan tilisi siten, että se voidaan avata myöhemmin uudelleen.<br /> Ota heihin suoraan yhteyttä LiveChatin kautta tai lähetä sähköpostia osoitteeseen <Link> support@drifbet.com </Link> He hoitavat kaiken mahdollisimman nopeasti.
+                    Tietenkin. Voit valita jäähdyttelyjakson tai itsepoissulkea itsesi jopa vuodeksi henkilökohtaisessa profiilissasi.<br /> Voit myös pyytää tukipalvelutiimiämme sulkemaan tilisi siten, että se voidaan avata myöhemmin uudelleen.<br /> Ota heihin suoraan yhteyttä LiveChatin kautta tai lähetä sähköpostia osoitteeseen <Link> support@betcasino555.com </Link> He hoitavat kaiken mahdollisimman nopeasti.
                 </Typography>
             )
         }
@@ -274,7 +274,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Vad ska jag göra om jag har glömt mitt lösenord?",
             "answer": (
                 <Typography>
-                    Om du har glömt ditt lösenord kan du omedelbart få ett nytt lösenord via sidan för glömt lösenord.<br /> Om du stöter på några problem kommer vår supervänliga supportpersonal att hjälpa dig i realtid från 8:00 till 12:00 via chatt - den orange ikonen längst ner till höger på denna sida öppnar chatten - eller via e-post på <Link> support@drifbet.com </Link>
+                    Om du har glömt ditt lösenord kan du omedelbart få ett nytt lösenord via sidan för glömt lösenord.<br /> Om du stöter på några problem kommer vår supervänliga supportpersonal att hjälpa dig i realtid från 8:00 till 12:00 via chatt - den orange ikonen längst ner till höger på denna sida öppnar chatten - eller via e-post på <Link> support@betcasino555.com </Link>
                 </Typography>
             )
         },
@@ -282,7 +282,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Är spelen rättvisa?",
             "answer": (
                 <Typography>
-                    På DrifBet upprätthåller vi rättvist spelande enligt de högsta standarderna och erbjuder endast de bästa spelen från ledande och verifierade leverantörer.<br /> Sist men inte minst har alla spel de nödvändiga certifikaten - för slumptalsgeneratorer och för RTP.
+                    På BetCasino555 upprätthåller vi rättvist spelande enligt de högsta standarderna och erbjuder endast de bästa spelen från ledande och verifierade leverantörer.<br /> Sist men inte minst har alla spel de nödvändiga certifikaten - för slumptalsgeneratorer och för RTP.
                 </Typography>
             )
         },
@@ -311,7 +311,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            "question": "Är all min information säker på DrifBet?",
+            "question": "Är all min information säker på BetCasino555?",
             "answer": (
                 <Typography>
                     Vi använder de bästa och mest innovativa teknologierna, inklusive 128-bitars Secure Socket Layer-kryptering och PGP-protokoll, för att säkerställa säker och trygg datatransfer.
@@ -330,7 +330,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Kan jag stänga mitt konto under en specificerad tid?",
             "answer": (
                 <Typography>
-                    Självklart. Du kan välja en avkylningsperiod eller självexkludera dig i upp till ett år i din personliga profil.<br /> Du kan också be vårt supportteam att stänga ditt konto med möjlighet att återöppna det senare.<br /> Kontakta dem direkt via LiveChat eller skicka ett e-postmeddelande till <Link> support@drifbet.com</Link>. De kommer att ordna allt så snabbt som möjligt.
+                    Självklart. Du kan välja en avkylningsperiod eller självexkludera dig i upp till ett år i din personliga profil.<br /> Du kan också be vårt supportteam att stänga ditt konto med möjlighet att återöppna det senare.<br /> Kontakta dem direkt via LiveChat eller skicka ett e-postmeddelande till <Link> support@betcasino555.com</Link>. De kommer att ordna allt så snabbt som möjligt.
                 </Typography>
             )
         }
@@ -340,7 +340,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "¿Qué debo hacer si he olvidado mi contraseña?",
             "answer": (
                 <Typography>
-                    Si olvidaste tu contraseña, puedes obtener una nueva inmediatamente utilizando la página de olvido de contraseña.< br /> Si tienes algún problema, nuestro personal de soporte súper amigable te ayudará de 8:00 a.m. a 12:00 p.m. en tiempo real a través del chat - el icono naranja en la parte inferior derecha de esta página abrirá el chat - o por correo electrónico a <Link>support@drifbet.com</Link>.
+                    Si olvidaste tu contraseña, puedes obtener una nueva inmediatamente utilizando la página de olvido de contraseña.< br /> Si tienes algún problema, nuestro personal de soporte súper amigable te ayudará de 8:00 a.m. a 12:00 p.m. en tiempo real a través del chat - el icono naranja en la parte inferior derecha de esta página abrirá el chat - o por correo electrónico a <Link>support@betcasino555.com</Link>.
                 </Typography>
             )
         },
@@ -348,7 +348,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "¿Son justos los juegos?",
             "answer": (
                 <Typography>
-                    En DrifBet, mantenemos el juego justo con los más altos estándares y ofrecemos solo los mejores juegos de proveedores líderes y verificados.< br /> Por último, pero no menos importante, todos los juegos tienen los certificados necesarios - para generadores de números aleatorios y para RTP.
+                    En BetCasino555, mantenemos el juego justo con los más altos estándares y ofrecemos solo los mejores juegos de proveedores líderes y verificados.< br /> Por último, pero no menos importante, todos los juegos tienen los certificados necesarios - para generadores de números aleatorios y para RTP.
                 </Typography>
             )
         },
@@ -377,7 +377,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            "question": "¿Está toda mi información segura en DrifBet?",
+            "question": "¿Está toda mi información segura en BetCasino555?",
             "answer": (
                 <Typography>
                     Utilizamos las mejores y más innovadoras tecnologías, incluida la encriptación SSL de 128 bits y el protocolo PGP, para garantizar una transferencia de datos segura y protegida.
@@ -396,7 +396,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "¿Puedo cerrar mi cuenta por un tiempo determinado?",
             "answer": (
                 <Typography>
-                    Claro. Puedes seleccionar un período de enfriamiento o autoexcluirte por hasta un año en tu perfil personal.< br /> También puedes solicitar a nuestro equipo de soporte que cierre tu cuenta con la posibilidad de reabrirla más tarde.< br /> Solo contacta con ellos directamente a través de LiveChat o envía un correo electrónico a <Link>support@drifbet.com</Link>. Ellos resolverán todo lo más rápido posible.
+                    Claro. Puedes seleccionar un período de enfriamiento o autoexcluirte por hasta un año en tu perfil personal.< br /> También puedes solicitar a nuestro equipo de soporte que cierre tu cuenta con la posibilidad de reabrirla más tarde.< br /> Solo contacta con ellos directamente a través de LiveChat o envía un correo electrónico a <Link>support@betcasino555.com</Link>. Ellos resolverán todo lo más rápido posible.
                 </Typography>
             )
         }
@@ -406,7 +406,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Was soll ich tun, wenn ich mein Passwort vergessen habe?",
             "answer": (
                 <Typography>
-                    Wenn Sie Ihr Passwort vergessen haben, können Sie sofort ein neues Passwort über die Seite „Passwort vergessen“ anfordern.<br /> Sollten Sie auf Probleme stoßen, hilft Ihnen unser freundliches Support-Team von 8:00 bis 12:00 Uhr in Echtzeit über den Chat - das orangefarbene Symbol unten rechts auf dieser Seite öffnet den Chat - oder per E-Mail an <Link> support@drifbet.com </Link>.
+                    Wenn Sie Ihr Passwort vergessen haben, können Sie sofort ein neues Passwort über die Seite „Passwort vergessen“ anfordern.<br /> Sollten Sie auf Probleme stoßen, hilft Ihnen unser freundliches Support-Team von 8:00 bis 12:00 Uhr in Echtzeit über den Chat - das orangefarbene Symbol unten rechts auf dieser Seite öffnet den Chat - oder per E-Mail an <Link> support@betcasino555.com </Link>.
                 </Typography>
             )
         },
@@ -414,7 +414,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Sind die Spiele fair?",
             "answer": (
                 <Typography>
-                    Bei DrifBet gewährleisten wir faire Spiele auf höchstem Niveau und bieten nur die besten Spiele von führenden und verifizierten Anbietern an.<br /> Nicht zuletzt haben alle Spiele die notwendigen Zertifikate - sowohl für Zufallszahlengeneratoren als auch für RTP.
+                    Bei BetCasino555 gewährleisten wir faire Spiele auf höchstem Niveau und bieten nur die besten Spiele von führenden und verifizierten Anbietern an.<br /> Nicht zuletzt haben alle Spiele die notwendigen Zertifikate - sowohl für Zufallszahlengeneratoren als auch für RTP.
                 </Typography>
             )
         },
@@ -443,7 +443,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            "question": "Sind meine Informationen auf DrifBet sicher?",
+            "question": "Sind meine Informationen auf BetCasino555 sicher?",
             "answer": (
                 <Typography>
                     Wir verwenden die besten und innovativsten Technologien, einschließlich der 128-Bit-Secure-Socket-Layer-Verschlüsselung und des PGP-Protokolls, um eine sichere und geschützte Datenübertragung zu gewährleisten.
@@ -462,7 +462,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Kann ich mein Konto für einen bestimmten Zeitraum schließen?",
             "answer": (
                 <Typography>
-                    Natürlich. Sie können in Ihrem persönlichen Profil einen Cool-Off-Zeitraum auswählen oder sich für bis zu ein Jahr selbst ausschließen.<br /> Sie können auch unser Support-Service-Team bitten, Ihr Konto zu schließen, mit der Möglichkeit, es später wieder zu eröffnen.<br /> Kontaktieren Sie sie einfach direkt über den LiveChat oder senden Sie eine E-Mail an <Link> support@drifbet.com </Link>. Sie werden alles so schnell wie möglich regeln.
+                    Natürlich. Sie können in Ihrem persönlichen Profil einen Cool-Off-Zeitraum auswählen oder sich für bis zu ein Jahr selbst ausschließen.<br /> Sie können auch unser Support-Service-Team bitten, Ihr Konto zu schließen, mit der Möglichkeit, es später wieder zu eröffnen.<br /> Kontaktieren Sie sie einfach direkt über den LiveChat oder senden Sie eine E-Mail an <Link> support@betcasino555.com </Link>. Sie werden alles so schnell wie möglich regeln.
                 </Typography>
             )
         }
@@ -472,7 +472,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Que faire si j'ai oublié mon mot de passe ?",
             "answer": (
                 <Typography>
-                    Si vous avez oublié votre mot de passe, vous pouvez en obtenir un nouveau immédiatement en utilisant la page de récupération de mot de passe.< br /> Si vous rencontrez des problèmes, notre équipe de support super sympa vous aidera en temps réel de 8h00 à 12h00 via le chat - l&apos;icône orange en bas à droite de cette page ouvrira le chat - ou par e-mail à < Link > support@drifbet.com </Link>
+                    Si vous avez oublié votre mot de passe, vous pouvez en obtenir un nouveau immédiatement en utilisant la page de récupération de mot de passe.< br /> Si vous rencontrez des problèmes, notre équipe de support super sympa vous aidera en temps réel de 8h00 à 12h00 via le chat - l&apos;icône orange en bas à droite de cette page ouvrira le chat - ou par e-mail à < Link > support@betcasino555.com </Link>
                 </Typography>
             )
         },
@@ -480,7 +480,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Les jeux sont-ils équitables ?",
             "answer": (
                 <Typography>
-                    Chez DrifBet, nous maintenons l&apos;équité des jeux selon les normes les plus strictes et proposons uniquement les meilleurs jeux des fournisseurs vérifiés et leaders.< br /> Enfin, tous les jeux possèdent les certificats nécessaires - pour les générateurs de nombres aléatoires et pour le RTP.
+                    Chez BetCasino555, nous maintenons l&apos;équité des jeux selon les normes les plus strictes et proposons uniquement les meilleurs jeux des fournisseurs vérifiés et leaders.< br /> Enfin, tous les jeux possèdent les certificats nécessaires - pour les générateurs de nombres aléatoires et pour le RTP.
                 </Typography>
             )
         },
@@ -509,7 +509,7 @@ const FAQ_LANG: IFAQ_LANG = {
             )
         },
         {
-            "question": "Toutes mes informations sont-elles sécurisées sur DrifBet ?",
+            "question": "Toutes mes informations sont-elles sécurisées sur BetCasino555 ?",
             "answer": (
                 <Typography>
                     Nous utilisons les meilleures et les technologies les plus innovantes, y compris le cryptage SSL 128 bits et le protocole PGP, pour garantir un transfert de données sûr et sécurisé.
@@ -528,7 +528,7 @@ const FAQ_LANG: IFAQ_LANG = {
             "question": "Puis-je fermer mon compte pour une période déterminée ?",
             "answer": (
                 <Typography>
-                    Bien sûr. Vous pouvez sélectionner une période de pause ou vous exclure vous-même pour une période allant jusqu&apos;à un an dans votre profil personnel.< br /> Vous pouvez également demander à notre équipe de support de fermer votre compte avec la possibilité de le rouvrir plus tard.< br /> Il vous suffit de les contacter directement via le chat en direct ou d&apos;envoyer un e-mail à <Link> support@drifbet.com</Link> Ils régleront tout aussi rapidement que possible.
+                    Bien sûr. Vous pouvez sélectionner une période de pause ou vous exclure vous-même pour une période allant jusqu&apos;à un an dans votre profil personnel.< br /> Vous pouvez également demander à notre équipe de support de fermer votre compte avec la possibilité de le rouvrir plus tard.< br /> Il vous suffit de les contacter directement via le chat en direct ou d&apos;envoyer un e-mail à <Link> support@betcasino555.com</Link> Ils régleront tout aussi rapidement que possible.
                 </Typography>
             )
         }

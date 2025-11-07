@@ -47,7 +47,7 @@ const COOKESDATA = [
         question: "Types of Cookies We Use",
         answer: (
             <Stack sx={cardStyle}>
-                <Typography variant='body1'>Drifbet uses the following types of cookies on our website:</Typography>
+                <Typography variant='body1'>BetCasino555 uses the following types of cookies on our website:</Typography>
                 <Stack gap={1} width="100%">
                     <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Essential Cookies: </Box> These cookies are necessary for the website to function properly. They enable basic functionalities such as page navigation, security, and access to secure areas of the website. Without these cookies, certain services and features cannot be provided.</Typography>
 
@@ -122,7 +122,7 @@ const COOKESDATA = [
         question: "Contact Us",
         answer: (
             <Stack sx={cardStyle}>
-                <Typography variant='body1'>If you have any questions about our Cookie Policy or how we use cookies and similar technologies, please contact us at: <Box component="span" sx={titleColor} fontWeight="bold">Email: </Box> support@Drifbet.com
+                <Typography variant='body1'>If you have any questions about our Cookie Policy or how we use cookies and similar technologies, please contact us at: <Box component="span" sx={titleColor} fontWeight="bold">Email: </Box> support@betcasino555.com
                 </Typography>
 
             </Stack>

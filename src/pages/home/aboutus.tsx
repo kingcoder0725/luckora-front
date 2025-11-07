@@ -12,11 +12,11 @@ export default function Page() {
                 <title>{APP_NAME} : About Us</title>
                 <meta
                     name="description"
-                    content="Learn about Drifbet. Discover our mission to deliver top-tier online casino experiences with exciting games and rewards."
+                    content="Learn about BetCasino555. Discover our mission to deliver top-tier online casino experiences with exciting games and rewards."
                 />
                 <meta
                     name="keywords"
-                    content="about Drifbet, online casino mission, casino games, Drifbet story, gaming experience"
+                    content="about BetCasino555, online casino mission, casino games, BetCasino555 story, gaming experience"
                 />
             </Helmet>
 

@@ -349,8 +349,8 @@ export default function Header({ onOpenNav }: Props) {
       {isMobile && !isLoggedIn && (
         <Box
           component="img"
-          src="/logo/drifbet.svg"
-          alt="Drifbet"
+          src="/logo/logo_icon.svg"
+          alt="BetCasino555"
           sx={{
             height: 32,
             width: 'auto',

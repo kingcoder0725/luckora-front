@@ -7,11 +7,11 @@ import { API_URL } from 'src/config-global';
 import VIPProgressBox from './Vip-progress-box';
 // Функция для выделения цифр, процентов и определенных слов желтым цветом
 const highlightText = (text: string) => {
-  const parts = text.split(/(\d+%?|\b(?:drifbet|casino|bonus|register|500)\b)/gi);
+  const parts = text.split(/(\d+%?|\b(?:betcasino555|casino|bonus|register|500)\b)/gi);
 
   return parts.map((part, index) => {
     const isHighlight =
-      /^\d+%?$/.test(part) || /^(?:drifbet|casino|bonus||register|deposit)$/i.test(part);
+      /^\d+%?$/.test(part) || /^(?:betcasino555|casino|bonus||register|deposit)$/i.test(part);
 
     return (
       <Box

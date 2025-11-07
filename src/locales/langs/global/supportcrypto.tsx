@@ -25,7 +25,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             answer: (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        <b>Bitcoin</b> is the first and most popular cryptocurrency, often referred to as {`"digital gold."`} It operates on a decentralized network, making it highly secure and transparent. Bitcoin is widely accepted across industries and offers fast transactions with minimal fees. At Drifbet, Bitcoin deposits are processed quickly, usually within 10-60 minutes, depending on network traffic. It’s a great choice for players who want the most widely recognized and trusted cryptocurrency.</Typography>
+                        <b>Bitcoin</b> is the first and most popular cryptocurrency, often referred to as {`"digital gold."`} It operates on a decentralized network, making it highly secure and transparent. Bitcoin is widely accepted across industries and offers fast transactions with minimal fees. At BetCasino555, Bitcoin deposits are processed quickly, usually within 10-60 minutes, depending on network traffic. It’s a great choice for players who want the most widely recognized and trusted cryptocurrency.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Advantages: </Box> Global recognition, high liquidity, secure transactions.</Typography>
 
@@ -38,7 +38,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             question: "2. Ethereum (ETH)",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Ethereum</b> is a blockchain platform known for its smart contracts and decentralized applications (dApps). Unlike Bitcoin, which primarily focuses on value storage, {`Ethereum's`} blockchain allows for more complex functionalities. When using Ethereum at Drifbet, transactions are processed faster than Bitcoin, making it an excellent option for players looking for quicker deposits and withdrawals. Ethereum is also widely used and accepted, making it a popular choice for tech-savvy users.</Typography>
+                    <Typography variant='body1'><b>Ethereum</b> is a blockchain platform known for its smart contracts and decentralized applications (dApps). Unlike Bitcoin, which primarily focuses on value storage, {`Ethereum's`} blockchain allows for more complex functionalities. When using Ethereum at BetCasino555, transactions are processed faster than Bitcoin, making it an excellent option for players looking for quicker deposits and withdrawals. Ethereum is also widely used and accepted, making it a popular choice for tech-savvy users.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Advantages: </Box>Faster transactions than Bitcoin, programmable contracts, and lower fees.</Typography>
 
@@ -64,7 +64,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             question: "4. Bitcoin Cash (BCH)",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Bitcoin Cash</b> is a fork of Bitcoin that was created to solve the scalability issue by increasing the block size, allowing for more transactions to be processed at once. It’s similar to Bitcoin but with faster transaction speeds and lower fees. Drifbet supports Bitcoin Cash for players who want the security of Bitcoin but with quicker processing times.</Typography>
+                    <Typography variant='body1'><b>Bitcoin Cash</b> is a fork of Bitcoin that was created to solve the scalability issue by increasing the block size, allowing for more transactions to be processed at once. It’s similar to Bitcoin but with faster transaction speeds and lower fees. BetCasino555 supports Bitcoin Cash for players who want the security of Bitcoin but with quicker processing times.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Advantages: </Box>Larger block size, faster transactions, lower fees.</Typography>
 
@@ -100,7 +100,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            question: "Why Choose Cryptocurrency at Drifbet?",
+            question: "Why Choose Cryptocurrency at BetCasino555?",
             answer: (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>Each cryptocurrency we support offers its own set of advantages, whether {`you're`} looking for speed, low fees, or stability. Using any of these coins allows you to enjoy faster transactions compared to traditional banking, enhanced security, and greater privacy. Make sure to choose the one that best fits your needs:</Typography>
@@ -110,7 +110,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">For Stability: </Box> Tether (USDT) is ideal if you prefer to avoid price volatility.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">For Security and Popularity: </Box> Bitcoin (BTC) and Ethereum (ETH) are trusted and widely used.</Typography>
                     </Stack>
-                    <Typography variant='body1'>No matter which cryptocurrency you prefer, Drifbet ensures that your deposits and withdrawals are handled securely and efficiently. If you have any questions or need assistance, feel free to contact our 24/7 support team.</Typography>
+                    <Typography variant='body1'>No matter which cryptocurrency you prefer, BetCasino555 ensures that your deposits and withdrawals are handled securely and efficiently. If you have any questions or need assistance, feel free to contact our 24/7 support team.</Typography>
                 </Stack>
             )
         },
@@ -121,7 +121,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        <b>Биткойн</b> — это первая и самая популярная криптовалюта, часто называемая {`"цифровым золотом."`} Она работает на децентрализованной сети, что делает ее высокозащищенной и прозрачной. Биткойн широко принимается в различных отраслях и предлагает быстрые транзакции с минимальными комиссиями. В Drifbet депозиты в биткойнах обрабатываются быстро, обычно в течение 10-60 минут, в зависимости от загруженности сети. Это отличный выбор для игроков, которые хотят использовать наиболее признанную и надежную криптовалюту.</Typography>
+                        <b>Биткойн</b> — это первая и самая популярная криптовалюта, часто называемая {`"цифровым золотом."`} Она работает на децентрализованной сети, что делает ее высокозащищенной и прозрачной. Биткойн широко принимается в различных отраслях и предлагает быстрые транзакции с минимальными комиссиями. В BetCasino555 депозиты в биткойнах обрабатываются быстро, обычно в течение 10-60 минут, в зависимости от загруженности сети. Это отличный выбор для игроков, которые хотят использовать наиболее признанную и надежную криптовалюту.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Преимущества: </Box> Глобальное признание, высокая ликвидность, безопасные транзакции.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Время подтверждения в блокчейне: </Box> Время подтверждения в блокчейне.</Typography>
@@ -133,7 +133,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "2. Эфириум (ETH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Эфириум</b> — это блокчейн-платформа, известная своими смарт-контрактами и децентрализованными приложениями (dApps). В отличие от Биткойна, который в основном сосредоточен на хранении ценности, блокчейн Эфириума позволяет реализовывать более сложные функции. При использовании Эфириума в Drifbet транзакции обрабатываются быстрее, чем с Биткойном, что делает его отличным вариантом для игроков, ищущих более быстрые депозиты и выводы. Эфириум также широко используется и принимается, что делает его популярным выбором для технически подкованных пользователей.</Typography>
+                    <Typography variant='body1'><b>Эфириум</b> — это блокчейн-платформа, известная своими смарт-контрактами и децентрализованными приложениями (dApps). В отличие от Биткойна, который в основном сосредоточен на хранении ценности, блокчейн Эфириума позволяет реализовывать более сложные функции. При использовании Эфириума в BetCasino555 транзакции обрабатываются быстрее, чем с Биткойном, что делает его отличным вариантом для игроков, ищущих более быстрые депозиты и выводы. Эфириум также широко используется и принимается, что делает его популярным выбором для технически подкованных пользователей.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Преимущества: </Box> Быстрее транзакции, чем у Биткойна, программируемые контракты и более низкие комиссии.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Время подтверждения в блокчейне: </Box> 12 подтверждений (примерно 5-30 минут).</Typography>
@@ -157,7 +157,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "4. Биткойн Кэш (BCH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Биткойн Кэш</b> — это форк Биткойна, который был создан для решения проблемы масштабируемости путем увеличения размера блока, что позволяет обрабатывать больше транзакций одновременно. Он похож на Биткойн, но с более быстрыми скоростями транзакций и более низкими комиссиями. Drifbet поддерживает Биткойн Кэш для игроков, которые хотят безопасности Биткойна, но с более быстрым временем обработки.</Typography>
+                    <Typography variant='body1'><b>Биткойн Кэш</b> — это форк Биткойна, который был создан для решения проблемы масштабируемости путем увеличения размера блока, что позволяет обрабатывать больше транзакций одновременно. Он похож на Биткойн, но с более быстрыми скоростями транзакций и более низкими комиссиями. BetCasino555 поддерживает Биткойн Кэш для игроков, которые хотят безопасности Биткойна, но с более быстрым временем обработки.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Преимущества: </Box> Больший размер блока, более быстрые транзакции, более низкие комиссии.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Время подтверждения в блокчейне: </Box> 2-6 подтверждений (примерно 10-40 минут).</Typography>
@@ -190,7 +190,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            "question": "Почему стоит выбирать криптовалюту в Drifbet?",
+            "question": "Почему стоит выбирать криптовалюту в BetCasino555?",
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>Каждая криптовалюта, которую мы поддерживаем, предлагает свои преимущества, независимо от того, ищете ли вы скорость, низкие комиссии или стабильность. Использование любой из этих монет позволяет вам наслаждаться более быстрыми транзакциями по сравнению с традиционным банковским обслуживанием, повышенной безопасностью и большей конфиденциальностью. Убедитесь, что вы выбрали ту, которая лучше всего соответствует вашим потребностям:</Typography>
@@ -199,7 +199,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Для стабильности: </Box> Тетер (USDT) идеален, если вы хотите избежать ценовой волатильности.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Для безопасности и популярности: </Box> Биткойн (BTC) и Эфириум (ETH) являются надежными и широко используемыми.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Независимо от того, какую криптовалюту вы предпочитаете, Drifbet гарантирует, что ваши депозиты и выводы обрабатываются безопасно и эффективно. Если у вас есть какие-либо вопросы или вам нужна помощь, не стесняйтесь обращаться к нашей службе поддержки, которая работает круглосуточно.</Typography>
+                    <Typography variant='body1'>Независимо от того, какую криптовалюту вы предпочитаете, BetCasino555 гарантирует, что ваши депозиты и выводы обрабатываются безопасно и эффективно. Если у вас есть какие-либо вопросы или вам нужна помощь, не стесняйтесь обращаться к нашей службе поддержки, которая работает круглосуточно.</Typography>
                 </Stack>
             )
         }
@@ -210,7 +210,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        <b>Bitcoin</b> er den første og mest populære kryptovalutaen, ofte referert til som {`"digitalt gull."`} Den opererer på et desentralisert nettverk, noe som gjør den svært sikker og gjennomsiktig. Bitcoin er mye akseptert på tvers av industrier og tilbyr raske transaksjoner med minimale gebyrer. Hos Drifbet behandles Bitcoin-innskudd raskt, vanligvis innen 10-60 minutter, avhengig av nettverkstrafikken. Det er et flott valg for spillere som ønsker den mest anerkjente og pålitelige kryptovalutaen.</Typography>
+                        <b>Bitcoin</b> er den første og mest populære kryptovalutaen, ofte referert til som {`"digitalt gull."`} Den opererer på et desentralisert nettverk, noe som gjør den svært sikker og gjennomsiktig. Bitcoin er mye akseptert på tvers av industrier og tilbyr raske transaksjoner med minimale gebyrer. Hos BetCasino555 behandles Bitcoin-innskudd raskt, vanligvis innen 10-60 minutter, avhengig av nettverkstrafikken. Det er et flott valg for spillere som ønsker den mest anerkjente og pålitelige kryptovalutaen.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Fordeler: </Box> Global anerkjennelse, høy likviditet, sikre transaksjoner.</Typography>
 
@@ -223,7 +223,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "2. Ethereum (ETH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Ethereum</b> er en blokkjedeplattform kjent for sine smarte kontrakter og desentraliserte applikasjoner (dApps). I motsetning til Bitcoin, som primært fokuserer på verdilagring, tillater Ethereums blokkjede mer komplekse funksjoner. Når du bruker Ethereum hos Drifbet, behandles transaksjoner raskere enn med Bitcoin, noe som gjør det til et utmerket alternativ for spillere som ønsker raskere innskudd og uttak. Ethereum er også mye brukt og akseptert, noe som gjør det til et populært valg for teknologikyndige brukere.</Typography>
+                    <Typography variant='body1'><b>Ethereum</b> er en blokkjedeplattform kjent for sine smarte kontrakter og desentraliserte applikasjoner (dApps). I motsetning til Bitcoin, som primært fokuserer på verdilagring, tillater Ethereums blokkjede mer komplekse funksjoner. Når du bruker Ethereum hos BetCasino555, behandles transaksjoner raskere enn med Bitcoin, noe som gjør det til et utmerket alternativ for spillere som ønsker raskere innskudd og uttak. Ethereum er også mye brukt og akseptert, noe som gjør det til et populært valg for teknologikyndige brukere.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Fordeler: </Box>Raskere transaksjoner enn Bitcoin, programmerbare kontrakter, og lavere gebyrer.</Typography>
 
@@ -249,7 +249,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "4. Bitcoin Cash (BCH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Bitcoin Cash</b> er en fork av Bitcoin som ble opprettet for å løse skaleringsproblemet ved å øke blokkstørrelsen, noe som gjør at flere transaksjoner kan behandles samtidig. Det er lik Bitcoin, men med raskere transaksjonshastigheter og lavere gebyrer. Drifbet støtter Bitcoin Cash for spillere som ønsker sikkerheten til Bitcoin, men med raskere behandlingstider.</Typography>
+                    <Typography variant='body1'><b>Bitcoin Cash</b> er en fork av Bitcoin som ble opprettet for å løse skaleringsproblemet ved å øke blokkstørrelsen, noe som gjør at flere transaksjoner kan behandles samtidig. Det er lik Bitcoin, men med raskere transaksjonshastigheter og lavere gebyrer. BetCasino555 støtter Bitcoin Cash for spillere som ønsker sikkerheten til Bitcoin, men med raskere behandlingstider.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Fordeler: </Box>Større blokkstørrelse, raskere transaksjoner, lavere gebyrer.</Typography>
 
@@ -285,7 +285,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            "question": "Hvorfor velge kryptovaluta hos Drifbet?",
+            "question": "Hvorfor velge kryptovaluta hos BetCasino555?",
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>Hver kryptovaluta vi støtter tilbyr sine egne fordeler, enten du ser etter hastighet, lave gebyrer eller stabilitet. Å bruke noen av disse myntene lar deg nyte raskere transaksjoner sammenlignet med tradisjonell bankvirksomhet, forbedret sikkerhet og større personvern. Sørg for å velge den som passer best for dine behov:</Typography>
@@ -295,7 +295,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">For stabilitet: </Box> Tether (USDT) er ideell hvis du ønsker å unngå prisvolatilitet.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">For sikkerhet og popularitet: </Box> Bitcoin (BTC) og Ethereum (ETH) er pålitelige og mye brukte.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Uansett hvilken kryptovaluta du foretrekker, sørger Drifbet for at innskudd og uttak håndteres sikkert og effektivt. Hvis du har spørsmål eller trenger hjelp, kan du kontakte vårt supportteam som er tilgjengelig 24/7.</Typography>
+                    <Typography variant='body1'>Uansett hvilken kryptovaluta du foretrekker, sørger BetCasino555 for at innskudd og uttak håndteres sikkert og effektivt. Hvis du har spørsmål eller trenger hjelp, kan du kontakte vårt supportteam som er tilgjengelig 24/7.</Typography>
                 </Stack>
             )
         }
@@ -306,7 +306,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        <b>Bitcoin</b> on ensimmäinen ja suosituin kryptovaluutta, jota usein kutsutaan {`"digitaaliseksi kullaksi."`} Se toimii hajautetulla verkolla, mikä tekee siitä erittäin turvallisen ja läpinäkyvän. Bitcoinia hyväksytään laajasti eri toimialoilla ja se tarjoaa nopeita siirtoja minimaalisten maksujen kera. Drifbet:llä Bitcoin-talletukset käsitellään nopeasti, yleensä 10-60 minuutissa, riippuen verkon liikenteestä. Se on erinomainen valinta pelaajille, jotka haluavat tunnetuimman ja luotettavimman kryptovaluutan.</Typography>
+                        <b>Bitcoin</b> on ensimmäinen ja suosituin kryptovaluutta, jota usein kutsutaan {`"digitaaliseksi kullaksi."`} Se toimii hajautetulla verkolla, mikä tekee siitä erittäin turvallisen ja läpinäkyvän. Bitcoinia hyväksytään laajasti eri toimialoilla ja se tarjoaa nopeita siirtoja minimaalisten maksujen kera. BetCasino555:llä Bitcoin-talletukset käsitellään nopeasti, yleensä 10-60 minuutissa, riippuen verkon liikenteestä. Se on erinomainen valinta pelaajille, jotka haluavat tunnetuimman ja luotettavimman kryptovaluutan.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Edut: </Box> Globaali tunnustus, korkea likviditeetti, turvalliset siirrot.</Typography>
 
@@ -319,7 +319,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "2. Ethereum (ETH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Ethereum</b> on lohkoketjualusta, joka tunnetaan älykkäistä sopimuksista ja hajautetuista sovelluksista (dApps). Toisin kuin Bitcoin, joka keskittyy pääasiassa arvon säilyttämiseen, Ethereumin lohkoketju mahdollistaa monimutkaisempia toimintoja. Käytettäessä Ethereumia Drifbet:llä, siirrot käsitellään nopeammin kuin Bitcoinilla, mikä tekee siitä erinomaisen vaihtoehdon pelaajille, jotka etsivät nopeampia talletuksia ja nostoja. Ethereumia käytetään myös laajasti ja se on hyväksytty, mikä tekee siitä suositun valinnan teknisesti suuntautuneille käyttäjille.</Typography>
+                    <Typography variant='body1'><b>Ethereum</b> on lohkoketjualusta, joka tunnetaan älykkäistä sopimuksista ja hajautetuista sovelluksista (dApps). Toisin kuin Bitcoin, joka keskittyy pääasiassa arvon säilyttämiseen, Ethereumin lohkoketju mahdollistaa monimutkaisempia toimintoja. Käytettäessä Ethereumia BetCasino555:llä, siirrot käsitellään nopeammin kuin Bitcoinilla, mikä tekee siitä erinomaisen vaihtoehdon pelaajille, jotka etsivät nopeampia talletuksia ja nostoja. Ethereumia käytetään myös laajasti ja se on hyväksytty, mikä tekee siitä suositun valinnan teknisesti suuntautuneille käyttäjille.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Edut: </Box> Nopeammat siirrot kuin Bitcoinilla, ohjelmoitavat sopimukset ja alhaisemmat maksut.</Typography>
 
@@ -345,7 +345,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "4. Bitcoin Cash (BCH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Bitcoin Cash</b> on Bitcoinin haarukka, joka luotiin ratkaisemaan skaalausongelmaa lisäämällä lohkokoon, jolloin useammat siirrot voidaan käsitellä kerralla. Se on samanlainen kuin Bitcoin, mutta nopeammilla siirtoajoilla ja alhaisemmilla maksuilla. Drifbet tukee Bitcoin Cashia pelaajille, jotka haluavat Bitcoinin turvallisuuden, mutta nopeammilla käsittelyajoilla.</Typography>
+                    <Typography variant='body1'><b>Bitcoin Cash</b> on Bitcoinin haarukka, joka luotiin ratkaisemaan skaalausongelmaa lisäämällä lohkokoon, jolloin useammat siirrot voidaan käsitellä kerralla. Se on samanlainen kuin Bitcoin, mutta nopeammilla siirtoajoilla ja alhaisemmilla maksuilla. BetCasino555 tukee Bitcoin Cashia pelaajille, jotka haluavat Bitcoinin turvallisuuden, mutta nopeammilla käsittelyajoilla.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Edut: </Box> Suurempi lohkokoko, nopeammat siirrot, alhaisemmat maksut.</Typography>
 
@@ -381,7 +381,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            "question": "Miksi valita kryptovaluutta Drifbet:llä?",
+            "question": "Miksi valita kryptovaluutta BetCasino555:llä?",
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>Jokaisella tukemallamme kryptovaluutalla on omat etunsa, olipa kyseessä nopeus, alhaiset maksut tai vakaus. Näiden kolikoiden käyttäminen mahdollistaa nopeammat siirrot verrattuna perinteiseen pankkitoimintaan, parannetun turvallisuuden ja suuremman yksityisyyden. Varmista, että valitset sen, joka parhaiten vastaa tarpeitasi:</Typography>
@@ -391,7 +391,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Vakaudelle: </Box> Tether (USDT) on ihanteellinen, jos haluat välttää hintavaihtelut.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Turvallisuudelle ja suosiolle: </Box> Bitcoin (BTC) ja Ethereum (ETH) ovat luotettavia ja laajasti käytettyjä.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Riippumatta siitä, minkä kryptovaluutan valitset, Drifbet varmistaa, että talletuksesi ja nostosi käsitellään turvallisesti ja tehokkaasti. Jos sinulla on kysymyksiä tai tarvitset apua, ota rohkeasti yhteyttä 24/7 asiakastukitiimiimme.</Typography>
+                    <Typography variant='body1'>Riippumatta siitä, minkä kryptovaluutan valitset, BetCasino555 varmistaa, että talletuksesi ja nostosi käsitellään turvallisesti ja tehokkaasti. Jos sinulla on kysymyksiä tai tarvitset apua, ota rohkeasti yhteyttä 24/7 asiakastukitiimiimme.</Typography>
                 </Stack>
             )
         }
@@ -402,7 +402,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        <b>Bitcoin</b> är den första och mest populära kryptovalutan, ofta kallad {`"digitalt guld."`} Den fungerar på ett decentraliserat nätverk, vilket gör den mycket säker och transparent. Bitcoin accepteras i stor utsträckning inom olika industrier och erbjuder snabba transaktioner med minimala avgifter. På Drifbet behandlas Bitcoin-insättningar snabbt, vanligtvis inom 10-60 minuter, beroende på nätverkstrafik. Det är ett utmärkt val för spelare som vill använda den mest erkända och betrodda kryptovalutan.</Typography>
+                        <b>Bitcoin</b> är den första och mest populära kryptovalutan, ofta kallad {`"digitalt guld."`} Den fungerar på ett decentraliserat nätverk, vilket gör den mycket säker och transparent. Bitcoin accepteras i stor utsträckning inom olika industrier och erbjuder snabba transaktioner med minimala avgifter. På BetCasino555 behandlas Bitcoin-insättningar snabbt, vanligtvis inom 10-60 minuter, beroende på nätverkstrafik. Det är ett utmärkt val för spelare som vill använda den mest erkända och betrodda kryptovalutan.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Fördelar: </Box> Global erkännande, hög likviditet, säkra transaktioner.</Typography>
 
@@ -415,7 +415,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "2. Ethereum (ETH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Ethereum</b> är en blockchain-plattform känd för sina smarta kontrakt och decentraliserade applikationer (dApps). Till skillnad från Bitcoin, som främst fokuserar på värdebevarande, möjliggör Ethereums blockchain mer komplexa funktioner. När du använder Ethereum på Drifbet behandlas transaktioner snabbare än med Bitcoin, vilket gör det till ett utmärkt alternativ för spelare som söker snabbare insättningar och uttag. Ethereum används också i stor utsträckning och accepteras, vilket gör det till ett populärt val för teknikintresserade användare.</Typography>
+                    <Typography variant='body1'><b>Ethereum</b> är en blockchain-plattform känd för sina smarta kontrakt och decentraliserade applikationer (dApps). Till skillnad från Bitcoin, som främst fokuserar på värdebevarande, möjliggör Ethereums blockchain mer komplexa funktioner. När du använder Ethereum på BetCasino555 behandlas transaktioner snabbare än med Bitcoin, vilket gör det till ett utmärkt alternativ för spelare som söker snabbare insättningar och uttag. Ethereum används också i stor utsträckning och accepteras, vilket gör det till ett populärt val för teknikintresserade användare.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Fördelar: </Box> Snabbare transaktioner än Bitcoin, programmerbara kontrakt och lägre avgifter.</Typography>
 
@@ -441,7 +441,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "4. Bitcoin Cash (BCH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Bitcoin Cash</b> är en fork av Bitcoin som skapades för att lösa skalbarhetsproblemet genom att öka blockstorleken, vilket möjliggör fler transaktioner som kan bearbetas samtidigt. Det är likt Bitcoin men med snabbare transaktionshastigheter och lägre avgifter. Drifbet stöder Bitcoin Cash för spelare som vill ha Bitcoins säkerhet men med snabbare behandlingstider.</Typography>
+                    <Typography variant='body1'><b>Bitcoin Cash</b> är en fork av Bitcoin som skapades för att lösa skalbarhetsproblemet genom att öka blockstorleken, vilket möjliggör fler transaktioner som kan bearbetas samtidigt. Det är likt Bitcoin men med snabbare transaktionshastigheter och lägre avgifter. BetCasino555 stöder Bitcoin Cash för spelare som vill ha Bitcoins säkerhet men med snabbare behandlingstider.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Fördelar: </Box> Större blockstorlek, snabbare transaktioner, lägre avgifter.</Typography>
 
@@ -477,7 +477,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            "question": "Varför välja kryptovaluta hos Drifbet?",
+            "question": "Varför välja kryptovaluta hos BetCasino555?",
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>Varje kryptovaluta vi stöder erbjuder sina egna fördelar, oavsett om du letar efter hastighet, låga avgifter eller stabilitet. Genom att använda någon av dessa mynt kan du njuta av snabbare transaktioner jämfört med traditionell bankverksamhet, förbättrad säkerhet och större integritet. Se till att välja den som passar dina behov bäst:</Typography>
@@ -487,7 +487,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">För stabilitet: </Box> Tether (USDT) är idealisk om du vill undvika prisvolatilitet.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">För säkerhet och popularitet: </Box> Bitcoin (BTC) och Ethereum (ETH) är betrodda och mycket använda.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Oavsett vilken kryptovaluta du föredrar, säkerställer Drifbet att dina insättningar och uttag hanteras säkert och effektivt. Om du har några frågor eller behöver hjälp, tveka inte att kontakta vårt supportteam som är tillgängligt dygnet runt.</Typography>
+                    <Typography variant='body1'>Oavsett vilken kryptovaluta du föredrar, säkerställer BetCasino555 att dina insättningar och uttag hanteras säkert och effektivt. Om du har några frågor eller behöver hjälp, tveka inte att kontakta vårt supportteam som är tillgängligt dygnet runt.</Typography>
                 </Stack>
             )
         }
@@ -498,7 +498,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             answer: (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        <b>Bitcoin</b> es la primera y más popular criptomoneda, a menudo conocida como {`"oro digital."`} Opera en una red descentralizada, lo que la hace altamente segura y transparente. Bitcoin es ampliamente aceptado en diversas industrias y ofrece transacciones rápidas con tarifas mínimas. En Drifbet, los depósitos de Bitcoin se procesan rápidamente, generalmente en 10-60 minutos, dependiendo del tráfico de la red. Es una excelente opción para los jugadores que buscan la criptomoneda más reconocida y confiable.</Typography>
+                        <b>Bitcoin</b> es la primera y más popular criptomoneda, a menudo conocida como {`"oro digital."`} Opera en una red descentralizada, lo que la hace altamente segura y transparente. Bitcoin es ampliamente aceptado en diversas industrias y ofrece transacciones rápidas con tarifas mínimas. En BetCasino555, los depósitos de Bitcoin se procesan rápidamente, generalmente en 10-60 minutos, dependiendo del tráfico de la red. Es una excelente opción para los jugadores que buscan la criptomoneda más reconocida y confiable.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Ventajas: </Box> Reconocimiento global, alta liquidez, transacciones seguras.</Typography>
 
@@ -511,7 +511,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             question: "2. Ethereum (ETH)",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Ethereum</b> es una plataforma blockchain conocida por sus contratos inteligentes y aplicaciones descentralizadas (dApps). A diferencia de Bitcoin, que se centra principalmente en el almacenamiento de valor, la blockchain de Ethereum permite funcionalidades más complejas. Al usar Ethereum en Drifbet, las transacciones se procesan más rápido que en Bitcoin, lo que la convierte en una excelente opción para los jugadores que buscan depósitos y retiros más rápidos. Ethereum también es ampliamente utilizada y aceptada, lo que la convierte en una opción popular para los usuarios más tecnológicos.</Typography>
+                    <Typography variant='body1'><b>Ethereum</b> es una plataforma blockchain conocida por sus contratos inteligentes y aplicaciones descentralizadas (dApps). A diferencia de Bitcoin, que se centra principalmente en el almacenamiento de valor, la blockchain de Ethereum permite funcionalidades más complejas. Al usar Ethereum en BetCasino555, las transacciones se procesan más rápido que en Bitcoin, lo que la convierte en una excelente opción para los jugadores que buscan depósitos y retiros más rápidos. Ethereum también es ampliamente utilizada y aceptada, lo que la convierte en una opción popular para los usuarios más tecnológicos.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Ventajas: </Box> Transacciones más rápidas que Bitcoin, contratos programables y tarifas más bajas.</Typography>
 
@@ -537,7 +537,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             question: "4. Bitcoin Cash (BCH)",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Bitcoin Cash</b> es una bifurcación de Bitcoin que fue creada para resolver el problema de escalabilidad aumentando el tamaño de los bloques, lo que permite procesar más transacciones a la vez. Es similar a Bitcoin pero con velocidades de transacción más rápidas y tarifas más bajas. Drifbet admite Bitcoin Cash para los jugadores que desean la seguridad de Bitcoin pero con tiempos de procesamiento más rápidos.</Typography>
+                    <Typography variant='body1'><b>Bitcoin Cash</b> es una bifurcación de Bitcoin que fue creada para resolver el problema de escalabilidad aumentando el tamaño de los bloques, lo que permite procesar más transacciones a la vez. Es similar a Bitcoin pero con velocidades de transacción más rápidas y tarifas más bajas. BetCasino555 admite Bitcoin Cash para los jugadores que desean la seguridad de Bitcoin pero con tiempos de procesamiento más rápidos.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Ventajas: </Box> Mayor tamaño de bloque, transacciones más rápidas, tarifas más bajas.</Typography>
 
@@ -573,7 +573,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            question: "¿Por qué elegir criptomonedas en Drifbet?",
+            question: "¿Por qué elegir criptomonedas en BetCasino555?",
             answer: (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>Cada criptomoneda que apoyamos ofrece su propio conjunto de ventajas, ya sea que busques velocidad, bajas tarifas o estabilidad. Usar cualquiera de estas monedas te permite disfrutar de transacciones más rápidas en comparación con la banca tradicional, mayor seguridad y mayor privacidad. Asegúrate de elegir la que mejor se adapte a tus necesidades:</Typography>
@@ -583,7 +583,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Para estabilidad: </Box> Tether (USDT) es ideal si prefieres evitar la volatilidad de precios.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Para seguridad y popularidad: </Box> Bitcoin (BTC) y Ethereum (ETH) son confiables y ampliamente utilizados.</Typography>
                     </Stack>
-                    <Typography variant='body1'>No importa qué criptomoneda prefieras, Drifbet asegura que tus depósitos y retiros sean gestionados de manera segura y eficiente. Si tienes alguna pregunta o necesitas asistencia, no dudes en contactar a nuestro equipo de soporte disponible las 24/7.</Typography>
+                    <Typography variant='body1'>No importa qué criptomoneda prefieras, BetCasino555 asegura que tus depósitos y retiros sean gestionados de manera segura y eficiente. Si tienes alguna pregunta o necesitas asistencia, no dudes en contactar a nuestro equipo de soporte disponible las 24/7.</Typography>
                 </Stack>
             )
         }
@@ -594,7 +594,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant="body1">
-                        <b>Bitcoin</b> ist die erste und bekannteste Kryptowährung, die oft als {"\""}digitales Gold{"\""} bezeichnet wird. Es basiert auf einem dezentralen Netzwerk, was es sehr sicher und transparent macht. Bitcoin wird in vielen Branchen akzeptiert und bietet schnelle Transaktionen mit minimalen Gebühren. Bei Drifbet werden Bitcoin-Einzahlungen schnell verarbeitet, normalerweise innerhalb von 10-60 Minuten, abhängig vom Netzwerkverkehr. Es ist eine großartige Wahl für Spieler, die die bekannteste und vertrauenswürdigste Kryptowährung nutzen möchten.
+                        <b>Bitcoin</b> ist die erste und bekannteste Kryptowährung, die oft als {"\""}digitales Gold{"\""} bezeichnet wird. Es basiert auf einem dezentralen Netzwerk, was es sehr sicher und transparent macht. Bitcoin wird in vielen Branchen akzeptiert und bietet schnelle Transaktionen mit minimalen Gebühren. Bei BetCasino555 werden Bitcoin-Einzahlungen schnell verarbeitet, normalerweise innerhalb von 10-60 Minuten, abhängig vom Netzwerkverkehr. Es ist eine großartige Wahl für Spieler, die die bekannteste und vertrauenswürdigste Kryptowährung nutzen möchten.
                     </Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Vorteile: </Box> Globale Anerkennung, hohe Liquidität, sichere Transaktionen.</Typography>
@@ -608,7 +608,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant="body1">
-                        <b>Ethereum</b> ist eine Blockchain-Plattform, die für ihre Smart Contracts und dezentralen Anwendungen (dApps) bekannt ist. Im Gegensatz zu Bitcoin, das hauptsächlich als Wertspeicher dient, ermöglicht die Blockchain von Ethereum komplexere Funktionen. Bei Drifbet werden Transaktionen mit Ethereum schneller als mit Bitcoin verarbeitet, was es zu einer ausgezeichneten Option für Spieler macht, die schnellere Einzahlungen und Auszahlungen wünschen. Ethereum ist ebenfalls weit verbreitet und akzeptiert und somit eine beliebte Wahl für technikaffine Nutzer.
+                        <b>Ethereum</b> ist eine Blockchain-Plattform, die für ihre Smart Contracts und dezentralen Anwendungen (dApps) bekannt ist. Im Gegensatz zu Bitcoin, das hauptsächlich als Wertspeicher dient, ermöglicht die Blockchain von Ethereum komplexere Funktionen. Bei BetCasino555 werden Transaktionen mit Ethereum schneller als mit Bitcoin verarbeitet, was es zu einer ausgezeichneten Option für Spieler macht, die schnellere Einzahlungen und Auszahlungen wünschen. Ethereum ist ebenfalls weit verbreitet und akzeptiert und somit eine beliebte Wahl für technikaffine Nutzer.
                     </Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Vorteile: </Box> Schnellere Transaktionen als Bitcoin, programmierbare Verträge und geringere Gebühren.</Typography>
@@ -636,7 +636,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant="body1">
-                        <b>Bitcoin Cash</b> ist ein Fork von Bitcoin, der entwickelt wurde, um das Skalierbarkeitsproblem zu lösen, indem die Blockgröße erhöht wurde, sodass mehr Transaktionen gleichzeitig verarbeitet werden können. Es ist Bitcoin ähnlich, aber mit schnelleren Transaktionsgeschwindigkeiten und geringeren Gebühren. Drifbet unterstützt Bitcoin Cash für Spieler, die die Sicherheit von Bitcoin, aber mit schnelleren Verarbeitungsgeschwindigkeiten wünschen.
+                        <b>Bitcoin Cash</b> ist ein Fork von Bitcoin, der entwickelt wurde, um das Skalierbarkeitsproblem zu lösen, indem die Blockgröße erhöht wurde, sodass mehr Transaktionen gleichzeitig verarbeitet werden können. Es ist Bitcoin ähnlich, aber mit schnelleren Transaktionsgeschwindigkeiten und geringeren Gebühren. BetCasino555 unterstützt Bitcoin Cash für Spieler, die die Sicherheit von Bitcoin, aber mit schnelleren Verarbeitungsgeschwindigkeiten wünschen.
                     </Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Vorteile: </Box> Größere Blockgröße, schnellere Transaktionen, niedrigere Gebühren.</Typography>
@@ -674,7 +674,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            "question": "Warum Kryptowährung bei Drifbet wählen?",
+            "question": "Warum Kryptowährung bei BetCasino555 wählen?",
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant="body1">
@@ -686,7 +686,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Für Sicherheit und Popularität: </Box> Bitcoin (BTC) und Ethereum (ETH) sind vertrauenswürdig und weit verbreitet.</Typography>
                     </Stack>
                     <Typography variant="body1">
-                        Egal, welche Kryptowährung Sie bevorzugen, Drifbet stellt sicher, dass Ihre Einzahlungen und Auszahlungen sicher und effizient verarbeitet werden. Wenn Sie Fragen haben oder Hilfe benötigen, wenden Sie sich bitte an unser Support-Team, das rund um die Uhr verfügbar ist.
+                        Egal, welche Kryptowährung Sie bevorzugen, BetCasino555 stellt sicher, dass Ihre Einzahlungen und Auszahlungen sicher und effizient verarbeitet werden. Wenn Sie Fragen haben oder Hilfe benötigen, wenden Sie sich bitte an unser Support-Team, das rund um die Uhr verfügbar ist.
                     </Typography>
                 </Stack>
             )
@@ -698,7 +698,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        <b>Bitcoin</b> est la première et la plus populaire des cryptomonnaies, souvent appelée {`"or numérique."`} Il fonctionne sur un réseau décentralisé, ce qui le rend très sécurisé et transparent. Bitcoin est largement accepté dans divers secteurs et offre des transactions rapides avec des frais minimaux. Chez Drifbet, les dépôts en Bitcoin sont traités rapidement, généralement en 10 à 60 minutes, selon la circulation du réseau. C’est un excellent choix pour les joueurs qui recherchent la cryptomonnaie la plus reconnue et la plus fiable.
+                        <b>Bitcoin</b> est la première et la plus populaire des cryptomonnaies, souvent appelée {`"or numérique."`} Il fonctionne sur un réseau décentralisé, ce qui le rend très sécurisé et transparent. Bitcoin est largement accepté dans divers secteurs et offre des transactions rapides avec des frais minimaux. Chez BetCasino555, les dépôts en Bitcoin sont traités rapidement, généralement en 10 à 60 minutes, selon la circulation du réseau. C’est un excellent choix pour les joueurs qui recherchent la cryptomonnaie la plus reconnue et la plus fiable.
                     </Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Avantages: </Box> Reconnaissance mondiale, haute liquidité, transactions sécurisées.</Typography>
@@ -711,7 +711,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "2. Ethereum (ETH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Ethereum</b> est une plateforme blockchain connue pour ses contrats intelligents et ses applications décentralisées (dApps). Contrairement à Bitcoin, qui se concentre principalement sur le stockage de valeur, la blockchain d&apos;Ethereum permet des fonctionnalités plus complexes. Lors de l&apos;utilisation d&apos;Ethereum sur Drifbet, les transactions sont traitées plus rapidement que Bitcoin, ce qui en fait une excellente option pour les joueurs recherchant des dépôts et des retraits plus rapides. Ethereum est également largement utilisé et accepté, ce qui en fait un choix populaire pour les utilisateurs férus de technologie.</Typography>
+                    <Typography variant='body1'><b>Ethereum</b> est une plateforme blockchain connue pour ses contrats intelligents et ses applications décentralisées (dApps). Contrairement à Bitcoin, qui se concentre principalement sur le stockage de valeur, la blockchain d&apos;Ethereum permet des fonctionnalités plus complexes. Lors de l&apos;utilisation d&apos;Ethereum sur BetCasino555, les transactions sont traitées plus rapidement que Bitcoin, ce qui en fait une excellente option pour les joueurs recherchant des dépôts et des retraits plus rapides. Ethereum est également largement utilisé et accepté, ce qui en fait un choix populaire pour les utilisateurs férus de technologie.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Avantages: </Box> Transactions plus rapides que Bitcoin, contrats programmables, frais réduits.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Temps de confirmation sur la blockchain: </Box> 12 confirmations (environ 5-30 minutes).</Typography>
@@ -735,7 +735,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             "question": "4. Bitcoin Cash (BCH)",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'><b>Bitcoin Cash</b> est un fork de Bitcoin créé pour résoudre le problème de scalabilité en augmentant la taille des blocs, ce qui permet de traiter plus de transactions simultanément. Il est similaire à Bitcoin mais avec des vitesses de transaction plus rapides et des frais réduits. Drifbet prend en charge Bitcoin Cash pour les joueurs qui souhaitent la sécurité de Bitcoin mais avec des temps de traitement plus rapides.</Typography>
+                    <Typography variant='body1'><b>Bitcoin Cash</b> est un fork de Bitcoin créé pour résoudre le problème de scalabilité en augmentant la taille des blocs, ce qui permet de traiter plus de transactions simultanément. Il est similaire à Bitcoin mais avec des vitesses de transaction plus rapides et des frais réduits. BetCasino555 prend en charge Bitcoin Cash pour les joueurs qui souhaitent la sécurité de Bitcoin mais avec des temps de traitement plus rapides.</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Avantages: </Box> Taille de bloc plus grande, transactions plus rapides, frais réduits.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Temps de confirmation sur la blockchain: </Box> 2-6 confirmations (environ 10-40 minutes).</Typography>
@@ -768,7 +768,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
             )
         },
         {
-            "question": "Pourquoi choisir la cryptomonnaie sur Drifbet ?",
+            "question": "Pourquoi choisir la cryptomonnaie sur BetCasino555 ?",
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>Chaque cryptomonnaie que nous supportons offre ses propres avantages, que vous recherchiez de la rapidité, de faibles frais ou de la stabilité. L&apos;utilisation de l&apos;une de ces monnaies vous permet de profiter de transactions plus rapides par rapport aux banques traditionnelles, d&apos;une sécurité renforcée et d&apos;une plus grande confidentialité. Assurez-vous de choisir celle qui correspond le mieux à vos besoins :</Typography>
@@ -777,7 +777,7 @@ const SUPPORTED_CRYPTO_LANG: ISUPPORTED_CRYPTO_LANG = {
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Pour la stabilité: </Box> Tether (USDT) est idéale si vous préférez éviter la volatilité des prix.</Typography>
                         <Typography> •  <Box component="span" sx={titleColor} fontWeight="bold">Pour la sécurité et la popularité: </Box> Bitcoin (BTC) et Ethereum (ETH) sont de confiance et largement utilisés.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Peu importe la cryptomonnaie que vous préférez, Drifbet garantit que vos dépôts et retraits sont traités de manière sécurisée et efficace. Si vous avez des questions ou avez besoin d&apos;assistance, n&apos;hésitez pas à contacter notre équipe de support disponible 24/7.</Typography>
+                    <Typography variant='body1'>Peu importe la cryptomonnaie que vous préférez, BetCasino555 garantit que vos dépôts et retraits sont traités de manière sécurisée et efficace. Si vous avez des questions ou avez besoin d&apos;assistance, n&apos;hésitez pas à contacter notre équipe de support disponible 24/7.</Typography>
                 </Stack>
             )
         }

@@ -60,7 +60,7 @@ export default function LiveAccumulator({ title }: LiveAccumulatorProps) {
           }}
         >
           <Typography variant="body2" sx={{ color: 'white' }}>
-            BONUS From Drifbet
+            BONUS From BetCasino555
           </Typography>
           <Typography variant="body2" sx={{ color: 'white', fontWeight: 600 }}>
             5.97

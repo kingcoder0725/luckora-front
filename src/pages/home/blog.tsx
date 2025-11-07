@@ -12,11 +12,11 @@ export default function Page() {
                 <title>{APP_NAME} : Blog</title>
                 <meta
                     name="description"
-                    content="Stay updated with Drifbet's blog. Read tips, news, and strategies for online casino games and gaming trends."
+                    content="Stay updated with BetCasino555's blog. Read tips, news, and strategies for online casino games and gaming trends."
                 />
                 <meta
                     name="keywords"
-                    content="casino blog, Drifbet blog, gaming tips, casino strategies, online gaming news"
+                    content="casino blog, BetCasino555 blog, gaming tips, casino strategies, online gaming news"
                 />
             </Helmet>
 

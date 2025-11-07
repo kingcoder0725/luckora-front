@@ -12,7 +12,7 @@ export default function Page() {
         <title>Responsible Gambling | Set Limits & Get Help | {APP_NAME}</title>
         <meta
           name="description"
-          content="Gamble responsibly with Drifbet. Set deposit limits, self-exclusion, and access support for problem gambling."
+          content="Gamble responsibly with BetCasino555. Set deposit limits, self-exclusion, and access support for problem gambling."
         />
         <meta
           name="keywords"

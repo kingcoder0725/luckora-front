@@ -90,7 +90,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Licensing and Regulation:</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> •  Drifbet.com is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. L11543 /HM</Typography>
+                        <Typography> •  betcasino555.com is licensed and regulated by the Government of the Autonomous Island of Anjouan, Union of Comoros and operates under License No. L11543 /HM</Typography>
 
                         <Typography> •  We comply with all applicable laws and regulations to ensure a fair and legal gambling environment.</Typography>
                     </Stack>
@@ -105,7 +105,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             question: "Conclusion",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>At Drifbet.com, fairness is at the core of our operations. We strive to provide a trustworthy and enjoyable gaming experience for all our players. For any questions or further information about our fairness policy, please contact our customer support team.</Typography>
+                    <Typography variant='body1'>At betcasino555.com, fairness is at the core of our operations. We strive to provide a trustworthy and enjoyable gaming experience for all our players. For any questions or further information about our fairness policy, please contact our customer support team.</Typography>
                 </Stack>
             )
         }
@@ -187,7 +187,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Лицензирование и регулирование:</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> •  Drifbet.com имеет лицензию и регулируется правительством Автономного острова Анжуан, Союз Коморских островов и работает по лицензии № L11543 /HM.</Typography>
+                        <Typography> •  betcasino555.com имеет лицензию и регулируется правительством Автономного острова Анжуан, Союз Коморских островов и работает по лицензии № L11543 /HM.</Typography>
 
                         <Typography> •  Мы соблюдаем все применимые законы и правила, чтобы обеспечить справедливую и законную игровую среду.</Typography>
                     </Stack>
@@ -202,7 +202,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             "question": "Заключение",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>На Drifbet.com справедливость является основой нашей деятельности. Мы стремимся предоставить надежный и приятный игровой опыт для всех наших игроков. Если у вас есть вопросы или вам нужна дополнительная информация о нашей политике справедливости, пожалуйста, свяжитесь с нашей службой поддержки клиентов.</Typography>
+                    <Typography variant='body1'>На betcasino555.com справедливость является основой нашей деятельности. Мы стремимся предоставить надежный и приятный игровой опыт для всех наших игроков. Если у вас есть вопросы или вам нужна дополнительная информация о нашей политике справедливости, пожалуйста, свяжитесь с нашей службой поддержки клиентов.</Typography>
                 </Stack>
             )
         }
@@ -284,7 +284,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Lisensiering og Regulering:</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> •  Drifbet.com er lisensiert og regulert av regjeringen på den autonome øya Anjouan, Unionen av Komorene, og opererer under Lisens Nr. L11543 /HM</Typography>
+                        <Typography> •  betcasino555.com er lisensiert og regulert av regjeringen på den autonome øya Anjouan, Unionen av Komorene, og opererer under Lisens Nr. L11543 /HM</Typography>
 
                         <Typography> •  Vi overholder alle gjeldende lover og forskrifter for å sikre et rettferdig og lovlig gamblingmiljø.</Typography>
                     </Stack>
@@ -299,7 +299,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             "question": "Konklusjon",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Hos Drifbet.com er rettferdighet kjernen i vår drift. Vi streber etter å gi en pålitelig og hyggelig spillopplevelse for alle våre spillere. For eventuelle spørsmål eller mer informasjon om vår rettferdighetspolitikk, vennligst kontakt vårt kundestøtteteam.</Typography>
+                    <Typography variant='body1'>Hos betcasino555.com er rettferdighet kjernen i vår drift. Vi streber etter å gi en pålitelig og hyggelig spillopplevelse for alle våre spillere. For eventuelle spørsmål eller mer informasjon om vår rettferdighetspolitikk, vennligst kontakt vårt kundestøtteteam.</Typography>
                 </Stack>
             )
         }
@@ -381,7 +381,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Lisensointi ja sääntely:</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> •  Drifbet.com on lisensoitu ja säännelty Anjouanin autonomisen saaren hallituksen toimesta, Komorien unionissa, ja toimii Lisenssinumerolla L11543 /HM.</Typography>
+                        <Typography> •  betcasino555.com on lisensoitu ja säännelty Anjouanin autonomisen saaren hallituksen toimesta, Komorien unionissa, ja toimii Lisenssinumerolla L11543 /HM.</Typography>
 
                         <Typography> •  Noudatamme kaikkia sovellettavia lakeja ja sääntöjä varmistaaksemme reilun ja laillisen uhkapeliympäristön.</Typography>
                     </Stack>
@@ -396,7 +396,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             "question": "Yhteenveto",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Drifbet.com:ssa reiluus on toimintamme ytimessä. Pyrimme tarjoamaan luotettavan ja miellyttävän pelielämyksen kaikille pelaajillemme. Kaikissa kysymyksissä tai lisätietoja reiluuspolitiikastamme, ole hyvä ja ota yhteyttä asiakastukitiimiimme.</Typography>
+                    <Typography variant='body1'>betcasino555.com:ssa reiluus on toimintamme ytimessä. Pyrimme tarjoamaan luotettavan ja miellyttävän pelielämyksen kaikille pelaajillemme. Kaikissa kysymyksissä tai lisätietoja reiluuspolitiikastamme, ole hyvä ja ota yhteyttä asiakastukitiimiimme.</Typography>
                 </Stack>
             )
         }
@@ -478,7 +478,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Licensiering och reglering:</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> •  Drifbet.com är licensierat och reglerat av regeringen på den autonoma ön Anjouan, Unionen av Komorerna och verkar under licens nr L11543 /HM</Typography>
+                        <Typography> •  betcasino555.com är licensierat och reglerat av regeringen på den autonoma ön Anjouan, Unionen av Komorerna och verkar under licens nr L11543 /HM</Typography>
 
                         <Typography> •  Vi följer alla tillämpliga lagar och regler för att säkerställa en rättvis och laglig spelmiljö.</Typography>
                     </Stack>
@@ -493,7 +493,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             "question": "Slutsats",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>På Drifbet.com är rättvisa kärnan i vår verksamhet. Vi strävar efter att erbjuda en pålitlig och trevlig spelupplevelse för alla våra spelare. För eventuella frågor eller mer information om vår rättvisepolicy, vänligen kontakta vårt kundsupportteam.</Typography>
+                    <Typography variant='body1'>På betcasino555.com är rättvisa kärnan i vår verksamhet. Vi strävar efter att erbjuda en pålitlig och trevlig spelupplevelse för alla våra spelare. För eventuella frågor eller mer information om vår rättvisepolicy, vänligen kontakta vårt kundsupportteam.</Typography>
                 </Stack>
             )
         }
@@ -575,7 +575,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Licencia y Regulación:</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> •  Drifbet.com está licenciado y regulado por el Gobierno de la Isla Autónoma de Anjouan, Unión de Comoros y opera bajo la Licencia No. L11543 /HM</Typography>
+                        <Typography> •  betcasino555.com está licenciado y regulado por el Gobierno de la Isla Autónoma de Anjouan, Unión de Comoros y opera bajo la Licencia No. L11543 /HM</Typography>
 
                         <Typography> •  Cumplimos con todas las leyes y regulaciones aplicables para garantizar un entorno de juego justo y legal.</Typography>
                     </Stack>
@@ -590,7 +590,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             "question": "Conclusión",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>En Drifbet.com, la justicia es el núcleo de nuestras operaciones. Nos esforzamos por proporcionar una experiencia de juego confiable y agradable para todos nuestros jugadores. Para cualquier pregunta o más información sobre nuestra política de justicia, por favor contacte a nuestro equipo de soporte al cliente.</Typography>
+                    <Typography variant='body1'>En betcasino555.com, la justicia es el núcleo de nuestras operaciones. Nos esforzamos por proporcionar una experiencia de juego confiable y agradable para todos nuestros jugadores. Para cualquier pregunta o más información sobre nuestra política de justicia, por favor contacte a nuestro equipo de soporte al cliente.</Typography>
                 </Stack>
             )
         }
@@ -672,7 +672,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Lizenzierung und Regulierung:</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> •  Drifbet.com ist lizenziert und reguliert von der Regierung der Autonomen Insel Anjouan, Union der Komoren, und betreibt unter der Lizenz-Nr. L11543 /HM</Typography>
+                        <Typography> •  betcasino555.com ist lizenziert und reguliert von der Regierung der Autonomen Insel Anjouan, Union der Komoren, und betreibt unter der Lizenz-Nr. L11543 /HM</Typography>
 
                         <Typography> •  Wir halten uns an alle geltenden Gesetze und Vorschriften, um eine faire und legale Glücksspielumgebung zu gewährleisten.</Typography>
                     </Stack>
@@ -687,7 +687,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             "question": "Fazit",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Bei Drifbet.com steht Fairness im Mittelpunkt unserer Aktivitäten. Wir bemühen uns, allen Spielern ein vertrauenswürdiges und angenehmes Spielerlebnis zu bieten. Bei Fragen oder weiteren Informationen zu unserer Fairness-Politik wenden Sie sich bitte an unser Kundenservice-Team.</Typography>
+                    <Typography variant='body1'>Bei betcasino555.com steht Fairness im Mittelpunkt unserer Aktivitäten. Wir bemühen uns, allen Spielern ein vertrauenswürdiges und angenehmes Spielerlebnis zu bieten. Bei Fragen oder weiteren Informationen zu unserer Fairness-Politik wenden Sie sich bitte an unser Kundenservice-Team.</Typography>
                 </Stack>
             )
         }
@@ -769,7 +769,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
                 <Stack sx={cardStyle}>
                     <Typography variant='h6'>1. Licence et réglementation :</Typography>
                     <Stack gap={1} width="100%">
-                        <Typography> • Drifbet.com est licencié et réglementé par le Gouvernement de l&apos;Île Autonome d&apos;Anjouan, Union des Comores, et opère sous la Licence No. L11543 /HM</Typography>
+                        <Typography> • betcasino555.com est licencié et réglementé par le Gouvernement de l&apos;Île Autonome d&apos;Anjouan, Union des Comores, et opère sous la Licence No. L11543 /HM</Typography>
 
                         <Typography> • Nous nous conformons à toutes les lois et régulations applicables pour garantir un environnement de jeu équitable et légal.</Typography>
                     </Stack>
@@ -785,7 +785,7 @@ const FAIRNESS_LANG: IFAIRNESS_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Sur Drifbet.com, l&apos;équité est au cœur de nos opérations. Nous nous efforçons d&apos;offrir une expérience de jeu fiable et agréable pour tous nos joueurs. Pour toute question ou pour plus d&apos;informations sur notre politique d&apos;équité, veuillez contacter notre équipe de support client.
+                        Sur betcasino555.com, l&apos;équité est au cœur de nos opérations. Nous nous efforçons d&apos;offrir une expérience de jeu fiable et agréable pour tous nos joueurs. Pour toute question ou pour plus d&apos;informations sur notre politique d&apos;équité, veuillez contacter notre équipe de support client.
                     </Typography>
                 </Stack>
             )

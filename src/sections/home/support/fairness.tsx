@@ -27,11 +27,11 @@ export default function Fairness() {
     },
     {
       question: 'Compliance',
-      answer: 'Licensing and Regulation: • Drifbet.com is licensed and regulated by the Government of the Autonomous Island of , Union of Comoros and operates under License No. L11543 /HM • We comply with all applicable laws and regulations to ensure a fair and legal gambling environment.\n\nContinuous Improvement: • We are committed to continuously improving our fairness measures and staying updated with industry best practices.',
+      answer: 'Licensing and Regulation: • BetCasino555.com is licensed and regulated by the Government of the Autonomous Island of , Union of Comoros and operates under License No. L11543 /HM • We comply with all applicable laws and regulations to ensure a fair and legal gambling environment.\n\nContinuous Improvement: • We are committed to continuously improving our fairness measures and staying updated with industry best practices.',
     },
     {
       question: 'Conclusion',
-      answer: 'At Drifbet.com, fairness is at the core of our operations. We strive to provide a trustworthy and enjoyable gaming experience for all our players. For any questions or further information about our fairness policy, please contact our customer support team.',
+      answer: 'At BetCasino555.com, fairness is at the core of our operations. We strive to provide a trustworthy and enjoyable gaming experience for all our players. For any questions or further information about our fairness policy, please contact our customer support team.',
     },
   ];
 
@@ -81,7 +81,7 @@ export default function Fairness() {
           mb: 3,
         }}
       >
-        drifbet.com is committed to providing a fair, transparent, and secure gambling environment for all our players. We adhere to the highest standards of integrity and fairness in all our games and operations. This policy outlines our commitment to fairness and the measures we take to ensure that all games are conducted honestly and transparently.
+        betcasino555.com is committed to providing a fair, transparent, and secure gambling environment for all our players. We adhere to the highest standards of integrity and fairness in all our games and operations. This policy outlines our commitment to fairness and the measures we take to ensure that all games are conducted honestly and transparently.
       </Typography>
 
       <Box

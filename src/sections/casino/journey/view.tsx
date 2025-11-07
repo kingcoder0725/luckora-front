@@ -105,7 +105,7 @@ export default function JourneyView() {
               whiteSpace: { xs: 'nowrap', md: 'normal' },
             }}
           >
-            <Box component="span" sx={{ color: '#FFE71A' }}>DRIFBET</Box>
+            <Box component="span" sx={{ color: '#FFE71A' }}>BETCASINO555</Box>
             <Box 
               component="span" 
               sx={{ 
@@ -148,7 +148,7 @@ export default function JourneyView() {
               maxWidth: '100%',
             }}
           >
-            At DrifBet, we believe loyalty should be rewarded with more than just points. 
+            At BetCasino555, we believe loyalty should be rewarded with more than just points. 
             The Prestige Circle is our exclusive VIP program, crafted for our most valued players 
             who seek elevated experiences, personalized rewards, and unmatched service.
           </StyledDescription>
@@ -237,7 +237,7 @@ export default function JourneyView() {
                   lineHeight: 1.6,
                 }}
               >
-                At Drifbet, we believe loyalty should be rewarded with more than just points. The Prestige Circle is our exclusive VIP program, crafted for our most valued players who seek elevated experiences, personalized rewards, and unmatched service.
+                At BetCasino555, we believe loyalty should be rewarded with more than just points. The Prestige Circle is our exclusive VIP program, crafted for our most valued players who seek elevated experiences, personalized rewards, and unmatched service.
               </StyledDescription>
             </Box>
 

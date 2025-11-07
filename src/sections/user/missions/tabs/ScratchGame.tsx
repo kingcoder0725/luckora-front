@@ -70,7 +70,7 @@ const ScratchGame: React.FC<ScratchGameProps> = ({
   const requiredFieldsToScratch = 3;
 
   const gameRules = {
-    title: 'Drifbet Scratch Rules',
+    title: 'BetCasino555 Scratch Rules',
     rules: [
       'Scratch 3 fields to win!',
       'Match 3 identical photos in a row, column, or diagonal to win.',

@@ -32,7 +32,7 @@ export default function MiniGamesTab({ setActiveTab, setActiveMiniGame }: MiniGa
     },
     {
       id: 2,
-      title: 'DRIFBET',
+      title: 'BETCASINO555',
       description: 'Scratch and win prizes!',
       image: '/assets/images/missions/scratch.png',
       points: 5,

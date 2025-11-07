@@ -12,11 +12,11 @@ export default function Page() {
         <title> {APP_NAME} : League</title>
         <meta
           name="description"
-          content="Explore top sports leagues at Drifbet! Bet on your favorite teams with competitive odds and live updates."
+          content="Explore top sports leagues at BetCasino555! Bet on your favorite teams with competitive odds and live updates."
         />
         <meta
           name="keywords"
-          content="sports leagues, Drifbet sports betting, league odds, live sports betting, team betting"
+          content="sports leagues, BetCasino555 sports betting, league odds, live sports betting, team betting"
         />
       </Helmet>
 

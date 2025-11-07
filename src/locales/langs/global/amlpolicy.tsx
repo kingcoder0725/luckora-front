@@ -23,14 +23,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             question: "Anti-Money Laundering, Anti-Terrorist Financing Statement",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Company Business Model drifbet.com is a company incorporated under the law of the Government of the Autonomous Island of Anjouan, Union of Comoros. It currently supports users in more than 169 countries worldwide. The following legislation applies to gambling businesses:</Typography>
+                    <Typography variant='body1'>Company Business Model betcasino555.com is a company incorporated under the law of the Government of the Autonomous Island of Anjouan, Union of Comoros. It currently supports users in more than 169 countries worldwide. The following legislation applies to gambling businesses:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  The Computer Gaming Licensing Act 1999</Typography>
                         <Typography> •  The Betting and Gambling Act 2005</Typography>
                         <Typography> •  International Business Companies Act 004 of 2005</Typography>
                         <Typography> •  Anjouan Anti-Money Laundering Law 008 of 2005</Typography>
                     </Stack>
-                    <Typography variant='body1'>As part of its operations, drifbet.com has implemented measures such as onboarding and compliance screening of its customers and controls based on transactional actions.</Typography>
+                    <Typography variant='body1'>As part of its operations, betcasino555.com has implemented measures such as onboarding and compliance screening of its customers and controls based on transactional actions.</Typography>
                 </Stack>
             )
         },
@@ -39,8 +39,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             answer: (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com is not a financial institution within the meaning of applicable law of the Government of the Autonomous Island of Anjouan, Union of Comoros, and is accordingly not directly subject to the statutes and regulations applicable to certain financial institutions, money transfer, or virtual asset service providers.<br />
-                        However, in accordance with the 2016 Regulations for Anti-Money Laundering and Combating the Financing of Terrorism (“AML/CFT”) applicable for the Government of the Autonomous Island of Anjouan, Union of Comoros, as provided by the relevant authorities, drifbet.com expressly prohibits and rejects the use of its products for any form of illicit activity, including money laundering, terrorist financing, or trade sanctions violations, consistent with various national anti-money laundering (“AML”) laws, regulations, and norms. drifbet.com continues to monitor norm-setting parameters promulgated by the Financial Action Task Force (“FATF”) and certain gaming trade groups in addition to the relevant authorities and will take necessary action as it deems appropriate to reflect changes in law. drifbet.com’s intention is to follow global best practices in guarding against its products being used to facilitate such activities. Those best practices include:<br /><br />
+                        betcasino555.com is not a financial institution within the meaning of applicable law of the Government of the Autonomous Island of Anjouan, Union of Comoros, and is accordingly not directly subject to the statutes and regulations applicable to certain financial institutions, money transfer, or virtual asset service providers.<br />
+                        However, in accordance with the 2016 Regulations for Anti-Money Laundering and Combating the Financing of Terrorism (“AML/CFT”) applicable for the Government of the Autonomous Island of Anjouan, Union of Comoros, as provided by the relevant authorities, betcasino555.com expressly prohibits and rejects the use of its products for any form of illicit activity, including money laundering, terrorist financing, or trade sanctions violations, consistent with various national anti-money laundering (“AML”) laws, regulations, and norms. betcasino555.com continues to monitor norm-setting parameters promulgated by the Financial Action Task Force (“FATF”) and certain gaming trade groups in addition to the relevant authorities and will take necessary action as it deems appropriate to reflect changes in law. betcasino555.com’s intention is to follow global best practices in guarding against its products being used to facilitate such activities. Those best practices include:<br /><br />
                         Adoption of a written policy, and procedures and controls, reasonably designed to guard against money laundering, terrorist financing, and trade sanctions violations;<br /><br />
                         Where appropriate, designation of a compliance officer to oversee the implementation of the policy, procedures, and controls;<br /><br />
                         Provision of related education and training to relevant personnel;
@@ -96,7 +96,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             question: "Governance and Oversight ",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com has appointed a Chief Compliance Officer (“CCO”) responsible for coordinating the implementation of the AML Policy and policy program. The Chief Compliance Officer’s duties also include developing AML initiatives, working with other stakeholders to revise the AML policy, assessing new regulatory requirements, and investigating potentially suspicious or unusual activity. drifbet.com also provides AML training to all of its employees on a regular basis.</Typography>
+                    <Typography variant='body1'>betcasino555.com has appointed a Chief Compliance Officer (“CCO”) responsible for coordinating the implementation of the AML Policy and policy program. The Chief Compliance Officer’s duties also include developing AML initiatives, working with other stakeholders to revise the AML policy, assessing new regulatory requirements, and investigating potentially suspicious or unusual activity. betcasino555.com also provides AML training to all of its employees on a regular basis.</Typography>
                 </Stack>
             )
         },
@@ -104,7 +104,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             question: "Know Your Customer and Transaction Monitoring",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com will apply appropriate user due diligence and ongoing monitoring measures required by law. It will endeavor to prevent users from engaging in illicit or otherwise unauthorized activity. drifbet.com uses a combination of its software development and other service agreements, which are enforced through internal operational features to ensure compliance with the applicable law. </Typography>
+                    <Typography variant='body1'>betcasino555.com will apply appropriate user due diligence and ongoing monitoring measures required by law. It will endeavor to prevent users from engaging in illicit or otherwise unauthorized activity. betcasino555.com uses a combination of its software development and other service agreements, which are enforced through internal operational features to ensure compliance with the applicable law. </Typography>
                 </Stack>
             )
         },
@@ -112,7 +112,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             question: "Customer Due Diligence",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com has adopted a risk-based CDD to enable it to understand the nature and purpose of the user relationship to the platform in order to develop a customer risk profile. In order to do so, drifbet.com collects certain documentary and non-documentary information at account-opening commensurate with the nature of the type of account and services that it offers. It maintains different CDD for different accounts and services.</Typography>
+                    <Typography variant='body1'>betcasino555.com has adopted a risk-based CDD to enable it to understand the nature and purpose of the user relationship to the platform in order to develop a customer risk profile. In order to do so, betcasino555.com collects certain documentary and non-documentary information at account-opening commensurate with the nature of the type of account and services that it offers. It maintains different CDD for different accounts and services.</Typography>
                 </Stack>
             )
         }
@@ -122,14 +122,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Заявление о борьбе с отмыванием денег и финансированием терроризма",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Модель бизнеса компании drifbet.com — это компания, зарегистрированная в соответствии с законодательством Правительства Автономного острова Анжуан, Союз Коморских Островов. В настоящее время она поддерживает пользователей более чем в 169 странах мира. К игорному бизнесу применяются следующие законодательные акты:</Typography>
+                    <Typography variant='body1'>Модель бизнеса компании betcasino555.com — это компания, зарегистрированная в соответствии с законодательством Правительства Автономного острова Анжуан, Союз Коморских Островов. В настоящее время она поддерживает пользователей более чем в 169 странах мира. К игорному бизнесу применяются следующие законодательные акты:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  Закон о лицензировании компьютерных игр 1999 года</Typography>
                         <Typography> •  Закон о ставках и азартных играх 2005 года</Typography>
                         <Typography> •  Закон о международных бизнес-компаниях 004 2005 года</Typography>
                         <Typography> •  Закон Анжуан о борьбе с отмыванием денег 008 2005 года</Typography>
                     </Stack>
-                    <Typography variant='body1'>В рамках своей деятельности drifbet.com внедрила такие меры, как проверка клиентов и соблюдение требований, а также контроль на основе транзакционных действий.</Typography>
+                    <Typography variant='body1'>В рамках своей деятельности betcasino555.com внедрила такие меры, как проверка клиентов и соблюдение требований, а также контроль на основе транзакционных действий.</Typography>
                 </Stack>
             )
         },
@@ -138,8 +138,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com не является финансовым учреждением в соответствии с применимым законодательством Правительства Автономного острова Анжуан, Союз Коморских Островов, и, соответственно, не подлежит напрямую законам и нормативным актам, применимым к определенным финансовым учреждениям, переводам денег или поставщикам услуг виртуальных активов.<br />
-                        Однако в соответствии с Регламентом 2016 года по борьбе с отмыванием денег и финансированием терроризма (“AML/CFT”), применимым к Правительству Автономного острова Анжуан, Союз Коморских Островов, как указано соответствующими органами, drifbet.com прямо запрещает и отвергает использование своих продуктов для любой формы незаконной деятельности, включая отмывание денег, финансирование терроризма или нарушения торговых санкций, в соответствии с различными национальными законами, нормативами и нормами по борьбе с отмыванием денег (“AML”). drifbet.com продолжает следить за нормами, установленными Группой разработки финансовых мер борьбы с отмыванием денег (“FATF”) и определенными торговыми группами в игорной сфере, в дополнение к соответствующим органам, и примет необходимые меры, которые сочтет целесообразными, чтобы отразить изменения в законодательстве. Намерение drifbet.com — следовать мировым лучшим практикам по защите от использования своих продуктов для содействия таким действиям. Эти лучшие практики включают:<br /><br />
+                    betcasino555.com не является финансовым учреждением в соответствии с применимым законодательством Правительства Автономного острова Анжуан, Союз Коморских Островов, и, соответственно, не подлежит напрямую законам и нормативным актам, применимым к определенным финансовым учреждениям, переводам денег или поставщикам услуг виртуальных активов.<br />
+                        Однако в соответствии с Регламентом 2016 года по борьбе с отмыванием денег и финансированием терроризма (“AML/CFT”), применимым к Правительству Автономного острова Анжуан, Союз Коморских Островов, как указано соответствующими органами, betcasino555.com прямо запрещает и отвергает использование своих продуктов для любой формы незаконной деятельности, включая отмывание денег, финансирование терроризма или нарушения торговых санкций, в соответствии с различными национальными законами, нормативами и нормами по борьбе с отмыванием денег (“AML”). betcasino555.com продолжает следить за нормами, установленными Группой разработки финансовых мер борьбы с отмыванием денег (“FATF”) и определенными торговыми группами в игорной сфере, в дополнение к соответствующим органам, и примет необходимые меры, которые сочтет целесообразными, чтобы отразить изменения в законодательстве. Намерение betcasino555.com — следовать мировым лучшим практикам по защите от использования своих продуктов для содействия таким действиям. Эти лучшие практики включают:<br /><br />
                         Принятие письменной политики, процедур и контроля, разумно разработанных для защиты от отмывания денег, финансирования терроризма и нарушений торговых санкций;<br /><br />
                         При необходимости назначение ответственного за соблюдение, чтобы контролировать выполнение политики, процедур и контроля;<br /><br />
                         Обучение и подготовка соответствующего персонала;
@@ -191,7 +191,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Управление и надзор",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com назначила главного офицера по соблюдению (“CCO”), ответственного за координацию реализации Политики по борьбе с отмыванием денег и программой политики. Обязанности Главного офицера по соблюдению также включают разработку инициатив по борьбе с отмыванием денег, сотрудничество с другими заинтересованными сторонами для пересмотра политики AML, оценку новых регуляторных требований и расследование потенциально подозрительной или необычной активности. drifbet.com также регулярно проводит обучение по борьбе с отмыванием денег для всех своих сотрудников.</Typography>
+                    <Typography variant='body1'>betcasino555.com назначила главного офицера по соблюдению (“CCO”), ответственного за координацию реализации Политики по борьбе с отмыванием денег и программой политики. Обязанности Главного офицера по соблюдению также включают разработку инициатив по борьбе с отмыванием денег, сотрудничество с другими заинтересованными сторонами для пересмотра политики AML, оценку новых регуляторных требований и расследование потенциально подозрительной или необычной активности. betcasino555.com также регулярно проводит обучение по борьбе с отмыванием денег для всех своих сотрудников.</Typography>
                 </Stack>
             )
         },
@@ -199,7 +199,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Знай своего клиента и мониторинг транзакций",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com применяет соответствующие меры надлежащей осмотрительности пользователей и текущего мониторинга, требуемые законом. Она стремится предотвратить участие пользователей в незаконной или иной несанкционированной деятельности. drifbet.com использует комбинацию программного обеспечения и других сервисных соглашений, которые реализуются через внутренние операционные функции для обеспечения соблюдения применимого законодательства.</Typography>
+                    <Typography variant='body1'>betcasino555.com применяет соответствующие меры надлежащей осмотрительности пользователей и текущего мониторинга, требуемые законом. Она стремится предотвратить участие пользователей в незаконной или иной несанкционированной деятельности. betcasino555.com использует комбинацию программного обеспечения и других сервисных соглашений, которые реализуются через внутренние операционные функции для обеспечения соблюдения применимого законодательства.</Typography>
                 </Stack>
             )
         },
@@ -207,7 +207,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Должная осмотрительность клиентов",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com приняла риск-ориентированную методологию должной осмотрительности (CDD), чтобы понимать природу и цели отношений пользователя с платформой для разработки профиля риска клиента. Для этого drifbet.com собирает определенную документальную и недокументальную информацию при открытии счета, соответствующую характеру типа счета и услуг, которые она предлагает. Она поддерживает разные процедуры CDD для различных счетов и услуг.</Typography>
+                    <Typography variant='body1'>betcasino555.com приняла риск-ориентированную методологию должной осмотрительности (CDD), чтобы понимать природу и цели отношений пользователя с платформой для разработки профиля риска клиента. Для этого betcasino555.com собирает определенную документальную и недокументальную информацию при открытии счета, соответствующую характеру типа счета и услуг, которые она предлагает. Она поддерживает разные процедуры CDD для различных счетов и услуг.</Typography>
                 </Stack>
             )
         }
@@ -217,14 +217,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Déclaration de lutte contre le blanchiment d'argent et le financement du terrorisme",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Le modèle commercial de drifbet.com est une entreprise incorporée selon la loi du gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores. Elle prend actuellement en charge les utilisateurs de plus de 169 pays à travers le monde. La législation suivante s&apos;applique aux entreprises de jeux d&apos;argent :</Typography>
+                    <Typography variant='body1'>Le modèle commercial de betcasino555.com est une entreprise incorporée selon la loi du gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores. Elle prend actuellement en charge les utilisateurs de plus de 169 pays à travers le monde. La législation suivante s&apos;applique aux entreprises de jeux d&apos;argent :</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  La Loi sur la licence des jeux informatiques de 1999</Typography>
                         <Typography> •  La Loi sur les paris et les jeux de 2005</Typography>
                         <Typography> •  La Loi sur les sociétés commerciales internationales 004 de 2005</Typography>
                         <Typography> •  La Loi anti-blanchiment d&apos;argent d&apos;Anjouan 008 de 2005</Typography>
                     </Stack>
-                    <Typography variant='body1'>Dans le cadre de ses opérations, drifbet.com a mis en œuvre des mesures telles que l&apos;intégration et la vérification de la conformité de ses clients ainsi que des contrôles basés sur les actions transactionnelles.</Typography>
+                    <Typography variant='body1'>Dans le cadre de ses opérations, betcasino555.com a mis en œuvre des mesures telles que l&apos;intégration et la vérification de la conformité de ses clients ainsi que des contrôles basés sur les actions transactionnelles.</Typography>
                 </Stack>
             )
         },
@@ -233,8 +233,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com n&apos;est pas une institution financière au sens de la loi applicable du gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores, et n&apos;est donc pas directement soumise aux statuts et régulations applicables à certaines institutions financières, fournisseurs de services de transfert d&apos;argent ou d&apos;actifs virtuels.<br />
-                        Cependant, conformément aux règlements de 2016 pour la lutte contre le blanchiment d&apos;argent et le financement du terrorisme (« AML/CFT ») applicables au gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores, comme indiqué par les autorités compétentes, drifbet.com interdit expressément et rejette l&apos;utilisation de ses produits pour toute forme d&apos;activité illicite, y compris le blanchiment d&apos;argent, le financement du terrorisme ou les violations des sanctions commerciales, en conformité avec diverses lois nationales de lutte contre le blanchiment d&apos;argent (« AML »), règlements et normes. drifbet.com continue de suivre les paramètres normatifs définis par le Groupe d&apos;action financière (« FATF ») et certains groupes commerciaux de jeux, en plus des autorités compétentes, et prendra les mesures nécessaires qu&apos;elle juge appropriées pour refléter les changements législatifs. L&apos;intention de drifbet.com est de suivre les meilleures pratiques mondiales pour empêcher que ses produits ne soient utilisés pour faciliter de telles activités. Ces meilleures pratiques incluent :<br /><br />
+                    betcasino555.com n&apos;est pas une institution financière au sens de la loi applicable du gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores, et n&apos;est donc pas directement soumise aux statuts et régulations applicables à certaines institutions financières, fournisseurs de services de transfert d&apos;argent ou d&apos;actifs virtuels.<br />
+                        Cependant, conformément aux règlements de 2016 pour la lutte contre le blanchiment d&apos;argent et le financement du terrorisme (« AML/CFT ») applicables au gouvernement de l&apos;île autonome d&apos;Anjouan, Union des Comores, comme indiqué par les autorités compétentes, betcasino555.com interdit expressément et rejette l&apos;utilisation de ses produits pour toute forme d&apos;activité illicite, y compris le blanchiment d&apos;argent, le financement du terrorisme ou les violations des sanctions commerciales, en conformité avec diverses lois nationales de lutte contre le blanchiment d&apos;argent (« AML »), règlements et normes. betcasino555.com continue de suivre les paramètres normatifs définis par le Groupe d&apos;action financière (« FATF ») et certains groupes commerciaux de jeux, en plus des autorités compétentes, et prendra les mesures nécessaires qu&apos;elle juge appropriées pour refléter les changements législatifs. L&apos;intention de betcasino555.com est de suivre les meilleures pratiques mondiales pour empêcher que ses produits ne soient utilisés pour faciliter de telles activités. Ces meilleures pratiques incluent :<br /><br />
                         Adoption d&apos;une politique écrite, de procédures et de contrôles raisonnablement conçus pour se protéger contre le blanchiment d&apos;argent, le financement du terrorisme et les violations des sanctions commerciales ;<br /><br />
                         Lorsque cela est approprié, désignation d&apos;un responsable de la conformité pour superviser la mise en œuvre de la politique, des procédures et des contrôles ;<br /><br />
                         Fourniture de formations et d&apos;éducation liées au personnel concerné ;<br />
@@ -286,7 +286,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Gouvernance et surveillance",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com a nommé un responsable de la conformité (“CCO”) chargé de coordonner la mise en œuvre de la politique AML et du programme de politique. Les fonctions du responsable de la conformité incluent également le développement des initiatives AML, la collaboration avec d&apos;autres parties prenantes pour réviser la politique AML, l&apos;évaluation des nouvelles exigences réglementaires et l&apos;enquête sur des activités suspectes ou inhabituelles. drifbet.com fournit également une formation AML à tous ses employés de manière régulière.</Typography>
+                    <Typography variant='body1'>betcasino555.com a nommé un responsable de la conformité (“CCO”) chargé de coordonner la mise en œuvre de la politique AML et du programme de politique. Les fonctions du responsable de la conformité incluent également le développement des initiatives AML, la collaboration avec d&apos;autres parties prenantes pour réviser la politique AML, l&apos;évaluation des nouvelles exigences réglementaires et l&apos;enquête sur des activités suspectes ou inhabituelles. betcasino555.com fournit également une formation AML à tous ses employés de manière régulière.</Typography>
                 </Stack>
             )
         },
@@ -294,7 +294,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Connaître votre client et surveillance des transactions",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com appliquera les mesures appropriées de diligence raisonnable et de surveillance continue exigées par la loi. Elle s&apos;efforcera d&apos;empêcher les utilisateurs de s&apos;engager dans des activités illicites ou autrement non autorisées. drifbet.com utilise une combinaison de son développement logiciel et d&apos;autres accords de service, qui sont appliqués par des fonctionnalités opérationnelles internes pour assurer la conformité avec la législation applicable.</Typography>
+                    <Typography variant='body1'>betcasino555.com appliquera les mesures appropriées de diligence raisonnable et de surveillance continue exigées par la loi. Elle s&apos;efforcera d&apos;empêcher les utilisateurs de s&apos;engager dans des activités illicites ou autrement non autorisées. betcasino555.com utilise une combinaison de son développement logiciel et d&apos;autres accords de service, qui sont appliqués par des fonctionnalités opérationnelles internes pour assurer la conformité avec la législation applicable.</Typography>
                 </Stack>
             )
         },
@@ -302,7 +302,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Diligence raisonnable du client",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com a adopté une diligence raisonnable basée sur les risques (CDD) pour lui permettre de comprendre la nature et l&apos;objet de la relation de l&apos;utilisateur avec la plateforme afin d&apos;élaborer un profil de risque client. Pour ce faire, drifbet.com collecte certaines informations documentaires et non documentaires lors de l&apos;ouverture du compte, en fonction de la nature du type de compte et des services qu&apos;elle propose. Elle maintient une CDD différente pour différents comptes et services.</Typography>
+                    <Typography variant='body1'>betcasino555.com a adopté une diligence raisonnable basée sur les risques (CDD) pour lui permettre de comprendre la nature et l&apos;objet de la relation de l&apos;utilisateur avec la plateforme afin d&apos;élaborer un profil de risque client. Pour ce faire, betcasino555.com collecte certaines informations documentaires et non documentaires lors de l&apos;ouverture du compte, en fonction de la nature du type de compte et des services qu&apos;elle propose. Elle maintient une CDD différente pour différents comptes et services.</Typography>
                 </Stack>
             )
         }
@@ -312,14 +312,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Erklæring om Bekjempelse av Hvitvasking av Penger og Anti-Terrorfinansiering",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Bedriftsmodell for drifbet.com er et selskap registrert under lovene til regjeringen på den autonome øya Anjouan, Unionen av Komorene. Det støtter for tiden brukere i mer enn 169 land verden over. Følgende lovgivning gjelder for spillselskaper:</Typography>
+                    <Typography variant='body1'>Bedriftsmodell for betcasino555.com er et selskap registrert under lovene til regjeringen på den autonome øya Anjouan, Unionen av Komorene. Det støtter for tiden brukere i mer enn 169 land verden over. Følgende lovgivning gjelder for spillselskaper:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  Lov om dataspill-lisenser 1999</Typography>
                         <Typography> •  Lov om spill og veddemål 2005</Typography>
                         <Typography> •  Lov om internasjonale forretningsselskaper 004 av 2005</Typography>
                         <Typography> •  Anjouan lov om bekjempelse av hvitvasking av penger 008 av 2005</Typography>
                     </Stack>
-                    <Typography variant='body1'>Som en del av sine operasjoner har drifbet.com implementert tiltak som onboarding og samsvarsscreening av sine kunder og kontroller basert på transaksjonsaktiviteter.</Typography>
+                    <Typography variant='body1'>Som en del av sine operasjoner har betcasino555.com implementert tiltak som onboarding og samsvarsscreening av sine kunder og kontroller basert på transaksjonsaktiviteter.</Typography>
                 </Stack>
             )
         },
@@ -328,8 +328,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com er ikke en finansinstitusjon i henhold til gjeldende lovgivning fra regjeringen på den autonome øya Anjouan, Unionen av Komorene, og er derfor ikke direkte underlagt lovene og forskriftene som gjelder for visse finansinstitusjoner, pengeoverføringer eller tilbydere av virtuelle eiendeler.<br />
-                        Imidlertid, i samsvar med 2016-forskriftene for bekjempelse av hvitvasking av penger og bekjempelse av finansiering av terrorisme (“AML/CFT”) som gjelder for regjeringen på den autonome øya Anjouan, Unionen av Komorene, som angitt av relevante myndigheter, forbyr og avviser drifbet.com uttrykkelig bruken av sine produkter til enhver form for ulovlig aktivitet, inkludert hvitvasking av penger, finansiering av terrorisme eller brudd på handelssanksjoner, i samsvar med ulike nasjonale lover, forskrifter og normer for bekjempelse av hvitvasking av penger (“AML”). drifbet.com fortsetter å overvåke normsetting som er fastsatt av Financial Action Task Force (“FATF”) og visse spillhandelsgrupper i tillegg til relevante myndigheter og vil iverksette nødvendige tiltak som de anser som passende for å gjenspeile endringer i loven. drifbet.com har som mål å følge globale beste praksiser for å hindre at produktene deres brukes til å lette slike aktiviteter. Disse beste praksisene inkluderer:<br /><br />
+                    betcasino555.com er ikke en finansinstitusjon i henhold til gjeldende lovgivning fra regjeringen på den autonome øya Anjouan, Unionen av Komorene, og er derfor ikke direkte underlagt lovene og forskriftene som gjelder for visse finansinstitusjoner, pengeoverføringer eller tilbydere av virtuelle eiendeler.<br />
+                        Imidlertid, i samsvar med 2016-forskriftene for bekjempelse av hvitvasking av penger og bekjempelse av finansiering av terrorisme (“AML/CFT”) som gjelder for regjeringen på den autonome øya Anjouan, Unionen av Komorene, som angitt av relevante myndigheter, forbyr og avviser betcasino555.com uttrykkelig bruken av sine produkter til enhver form for ulovlig aktivitet, inkludert hvitvasking av penger, finansiering av terrorisme eller brudd på handelssanksjoner, i samsvar med ulike nasjonale lover, forskrifter og normer for bekjempelse av hvitvasking av penger (“AML”). betcasino555.com fortsetter å overvåke normsetting som er fastsatt av Financial Action Task Force (“FATF”) og visse spillhandelsgrupper i tillegg til relevante myndigheter og vil iverksette nødvendige tiltak som de anser som passende for å gjenspeile endringer i loven. betcasino555.com har som mål å følge globale beste praksiser for å hindre at produktene deres brukes til å lette slike aktiviteter. Disse beste praksisene inkluderer:<br /><br />
                         Vedtakelse av en skriftlig policy, samt prosedyrer og kontroller, som er rimelig utformet for å beskytte mot hvitvasking av penger, finansiering av terrorisme og brudd på handelssanksjoner;<br /><br />
                         Der det er hensiktsmessig, utnevnelse av en samsvarsansvarlig for å overvåke implementeringen av policyen, prosedyrene og kontrollene;<br /><br />
                         Tilbyr relevant utdanning og opplæring til personell; og uavhengige vurderinger, overvåking og vedlikehold av policyen, prosedyrene og kontrollene.
@@ -383,7 +383,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Styring og Tilsyn",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com har utnevnt en Chief Compliance Officer (“CCO”) som er ansvarlig for å koordinere implementeringen av AML-policyen og policyprogrammet. Chief Compliance Officerens oppgaver inkluderer også å utvikle AML-initiativer, samarbeide med andre interessenter for å revidere AML-policyen, vurdere nye regulatoriske krav og undersøke potensielt mistenkelig eller uvanlig aktivitet. drifbet.com gir også AML-opplæring til alle sine ansatte regelmessig.</Typography>
+                    <Typography variant='body1'>betcasino555.com har utnevnt en Chief Compliance Officer (“CCO”) som er ansvarlig for å koordinere implementeringen av AML-policyen og policyprogrammet. Chief Compliance Officerens oppgaver inkluderer også å utvikle AML-initiativer, samarbeide med andre interessenter for å revidere AML-policyen, vurdere nye regulatoriske krav og undersøke potensielt mistenkelig eller uvanlig aktivitet. betcasino555.com gir også AML-opplæring til alle sine ansatte regelmessig.</Typography>
                 </Stack>
             )
         },
@@ -391,7 +391,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Kjenn Din Kunde og Transaksjonsovervåking",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com vil anvende passende kundegruppevurdering og løpende overvåkingstiltak som kreves av loven. Det vil gjøre bestridelser for å forhindre at brukere deltar i ulovlig eller ellers uautorisert aktivitet. drifbet.com bruker en kombinasjon av sin programvareutvikling og andre tjenesteavtaler, som håndheves gjennom interne operationelle funksjoner for å sikre overholdelse av gjeldende lov.</Typography>
+                    <Typography variant='body1'>betcasino555.com vil anvende passende kundegruppevurdering og løpende overvåkingstiltak som kreves av loven. Det vil gjøre bestridelser for å forhindre at brukere deltar i ulovlig eller ellers uautorisert aktivitet. betcasino555.com bruker en kombinasjon av sin programvareutvikling og andre tjenesteavtaler, som håndheves gjennom interne operationelle funksjoner for å sikre overholdelse av gjeldende lov.</Typography>
                 </Stack>
             )
         },
@@ -399,7 +399,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Kundens Due Diligence",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com har vedtatt en risikobasert CDD for å kunne forstå naturen og formålet med brukerforholdet til plattformen for å utvikle en kundens risikoprofil. For å oppnå dette samler drifbet.com inn visse dokumenterte og ikke-dokumenterte opplysninger ved kontoopprettelse, tilsvarende arten av kontoen og tjenestene det tilbyr. Det opprettholder forskjellig CDD for forskjellige kontoer og tjenester.</Typography>
+                    <Typography variant='body1'>betcasino555.com har vedtatt en risikobasert CDD for å kunne forstå naturen og formålet med brukerforholdet til plattformen for å utvikle en kundens risikoprofil. For å oppnå dette samler betcasino555.com inn visse dokumenterte og ikke-dokumenterte opplysninger ved kontoopprettelse, tilsvarende arten av kontoen og tjenestene det tilbyr. Det opprettholder forskjellig CDD for forskjellige kontoer og tjenester.</Typography>
                 </Stack>
             )
         }
@@ -409,14 +409,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Rahanpesun ja terrorismin rahoituksen estämisen lausunto",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Yrityksen liiketoimintamalli drifbet.com on yritys, joka on rekisteröity hallituksen lainsäädännön mukaisesti Anjouanin autonomisella saarella, Komorien unionissa. Se tukee tällä hetkellä käyttäjiä yli 169 maassa ympäri maailmaa. Seuraava lainsäädäntö koskee uhkapeliyrityksiä:</Typography>
+                    <Typography variant='body1'>Yrityksen liiketoimintamalli betcasino555.com on yritys, joka on rekisteröity hallituksen lainsäädännön mukaisesti Anjouanin autonomisella saarella, Komorien unionissa. Se tukee tällä hetkellä käyttäjiä yli 169 maassa ympäri maailmaa. Seuraava lainsäädäntö koskee uhkapeliyrityksiä:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  Tietokonepelien lisensointilaki 1999</Typography>
                         <Typography> •  Vedonlyönti- ja uhkapelilaki 2005</Typography>
                         <Typography> •  Kansainvälisiä liiketoimintayrityksiä koskeva laki 004/2005</Typography>
                         <Typography> •  Anjouanin rahanpesun estämislaki 008/2005</Typography>
                     </Stack>
-                    <Typography variant='body1'>Osa toiminnastaan drifbet.com on ottanut käyttöön toimenpiteitä, kuten asiakkaidensa hyväksymisen ja vaatimustenmukaisuuden tarkistamisen sekä kontrollit, jotka perustuvat transaktionaalisiin toimiin.</Typography>
+                    <Typography variant='body1'>Osa toiminnastaan betcasino555.com on ottanut käyttöön toimenpiteitä, kuten asiakkaidensa hyväksymisen ja vaatimustenmukaisuuden tarkistamisen sekä kontrollit, jotka perustuvat transaktionaalisiin toimiin.</Typography>
                 </Stack>
             )
         },
@@ -425,8 +425,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com ei ole rahoituslaitos Anjouanin autonomisen saaren hallituksen soveltuvan lain mukaan, eikä se siten ole suoraan alttiina tiettyjen rahoituslaitosten, rahansiirtojen tai virtuaalisten omaisuuserien palveluntarjoajien säädöksille ja määräyksille.<br />
-                        Kuitenkin, Anjouanin autonomisen saaren hallituksen vuonna 2016 hyväksymien rahanpesun ja terrorismin rahoituksen estämistä koskevien säännösten (&quot;AML/CFT&quot;) mukaisesti, drifbet.com nimenomaisesti kieltää ja hylkää tuotteidensa käytön minkäänlaiseen laittomaan toimintaan, mukaan lukien rahanpesu, terrorismin rahoitus tai kauppasanktioiden rikkominen, johon liittyvien kansallisten rahanpesun estämistä koskevien (&quot;AML&quot;) lakien, sääntöjen ja normien mukaisesti. drifbet.com seuraa jatkuvasti Financial Action Task Force (&quot;FATF&quot;):n ja tiettyjen pelialan ryhmien asettamia normatiivisia parametreja sekä asianomaisia viranomaisia ja ryhtyy tarvittaviin toimiin, joita se pitää tarpeellisina lainsäädännön muutosten heijastamiseksi. drifbet.com:n tarkoituksena on noudattaa maailman parhaita käytäntöjä suojellakseen tuotteitaan tällaisten toimintojen mahdolliselta hyödyntämiseltä. Näihin parhaisiin käytäntöihin kuuluu:<br /><br />
+                    betcasino555.com ei ole rahoituslaitos Anjouanin autonomisen saaren hallituksen soveltuvan lain mukaan, eikä se siten ole suoraan alttiina tiettyjen rahoituslaitosten, rahansiirtojen tai virtuaalisten omaisuuserien palveluntarjoajien säädöksille ja määräyksille.<br />
+                        Kuitenkin, Anjouanin autonomisen saaren hallituksen vuonna 2016 hyväksymien rahanpesun ja terrorismin rahoituksen estämistä koskevien säännösten (&quot;AML/CFT&quot;) mukaisesti, betcasino555.com nimenomaisesti kieltää ja hylkää tuotteidensa käytön minkäänlaiseen laittomaan toimintaan, mukaan lukien rahanpesu, terrorismin rahoitus tai kauppasanktioiden rikkominen, johon liittyvien kansallisten rahanpesun estämistä koskevien (&quot;AML&quot;) lakien, sääntöjen ja normien mukaisesti. betcasino555.com seuraa jatkuvasti Financial Action Task Force (&quot;FATF&quot;):n ja tiettyjen pelialan ryhmien asettamia normatiivisia parametreja sekä asianomaisia viranomaisia ja ryhtyy tarvittaviin toimiin, joita se pitää tarpeellisina lainsäädännön muutosten heijastamiseksi. betcasino555.com:n tarkoituksena on noudattaa maailman parhaita käytäntöjä suojellakseen tuotteitaan tällaisten toimintojen mahdolliselta hyödyntämiseltä. Näihin parhaisiin käytäntöihin kuuluu:<br /><br />
                         Kirjallisen politiikan, menettelyjen ja kontrollien käyttöönotto, jotka on kohtuudella suunniteltu suojaamaan rahanpesulta, terrorismin rahoitukselta ja kauppasanktioiden rikkomiselta;<br /><br />
                         Tarvittaessa vaatimustenmukaisuuden valvojan nimittäminen politiikan, menettelyjen ja kontrollien toteuttamisen valvomiseksi;<br /><br />
                         Asianomaisten työntekijöiden koulutuksen ja koulutuksen tarjoaminen;
@@ -481,7 +481,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Hallinto ja valvonta",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com on nimittänyt vaatimustenmukaisuuden päällikön (CCO), joka vastaa AML-politiikan ja -ohjelman toteuttamisen koordinoinnista. Vaantimustenmukaisuuden päällikön tehtäviin kuuluu myös rahanpesun torjuntaan liittyvien aloitteiden kehittäminen, muiden sidosryhmien kanssa työskentely AML-politiikan tarkistamiseksi, uusien sääntelyvaatimusten arviointi sekä mahdollisesti epäilyttävän tai poikkeavan toiminnan tutkiminen. drifbet.com tarjoaa myös säännöllisesti AML-koulutusta kaikille työntekijöilleen.</Typography>
+                    <Typography variant='body1'>betcasino555.com on nimittänyt vaatimustenmukaisuuden päällikön (CCO), joka vastaa AML-politiikan ja -ohjelman toteuttamisen koordinoinnista. Vaantimustenmukaisuuden päällikön tehtäviin kuuluu myös rahanpesun torjuntaan liittyvien aloitteiden kehittäminen, muiden sidosryhmien kanssa työskentely AML-politiikan tarkistamiseksi, uusien sääntelyvaatimusten arviointi sekä mahdollisesti epäilyttävän tai poikkeavan toiminnan tutkiminen. betcasino555.com tarjoaa myös säännöllisesti AML-koulutusta kaikille työntekijöilleen.</Typography>
                 </Stack>
             )
         },
@@ -489,7 +489,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Tunnetko asiakkaasi ja transaktioseuranta",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com soveltaa lain edellyttämää asianmukaista asiakastarkastusta ja jatkuvaa seurantaa. Se pyrkii estämään käyttäjiä osallistumasta laittomaan tai muuten luvattomaan toimintaan. drifbet.com käyttää yhdistelmää ohjelmistokehityksestään ja muista palvelusopimuksista, joita toimeenpannaan sisäisten operatiivisten ominaisuuksien avulla lain noudattamisen varmistamiseksi. </Typography>
+                    <Typography variant='body1'>betcasino555.com soveltaa lain edellyttämää asianmukaista asiakastarkastusta ja jatkuvaa seurantaa. Se pyrkii estämään käyttäjiä osallistumasta laittomaan tai muuten luvattomaan toimintaan. betcasino555.com käyttää yhdistelmää ohjelmistokehityksestään ja muista palvelusopimuksista, joita toimeenpannaan sisäisten operatiivisten ominaisuuksien avulla lain noudattamisen varmistamiseksi. </Typography>
                 </Stack>
             )
         },
@@ -497,7 +497,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Asiakkaan huolellinen tarkastaminen",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com on omaksunut riskiperusteisen asiakastarkastuksen (CDD) ymmärtääkseen käyttäjä suhteen luonteen ja tarkoituksen alustalle, jotta se voi kehittää asiakasriskiprofiilin. Tätä varten drifbet.com kerää tietyt asiakirja- ja ei-asiakirjatiedot tilin avauksen yhteydessä tilin tyypin ja tarjoamiensa palvelujen mukaisesti. Se ylläpitää eri CDD:tä eri tileille ja palveluille.</Typography>
+                    <Typography variant='body1'>betcasino555.com on omaksunut riskiperusteisen asiakastarkastuksen (CDD) ymmärtääkseen käyttäjä suhteen luonteen ja tarkoituksen alustalle, jotta se voi kehittää asiakasriskiprofiilin. Tätä varten betcasino555.com kerää tietyt asiakirja- ja ei-asiakirjatiedot tilin avauksen yhteydessä tilin tyypin ja tarjoamiensa palvelujen mukaisesti. Se ylläpitää eri CDD:tä eri tileille ja palveluille.</Typography>
                 </Stack>
             )
         }
@@ -507,14 +507,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Uttalande om bekämpning av penningtvätt och finansiering av terrorism",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Företagets affärsmodell drifbet.com är ett företag som är registrerat enligt lagarna från regeringen på den autonoma ön Anjouan, Unionen av Komorerna. Det stöder för närvarande användare i mer än 169 länder världen över. Följande lagstiftning gäller för spelverksamheter:</Typography>
+                    <Typography variant='body1'>Företagets affärsmodell betcasino555.com är ett företag som är registrerat enligt lagarna från regeringen på den autonoma ön Anjouan, Unionen av Komorerna. Det stöder för närvarande användare i mer än 169 länder världen över. Följande lagstiftning gäller för spelverksamheter:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  Datorspelslicenslagen 1999</Typography>
                         <Typography> •  Lagen om vadslagning och spel 2005</Typography>
                         <Typography> •  Lagen om internationella affärsföretag 004 av 2005</Typography>
                         <Typography> •  Anjouans lag om bekämpning av penningtvätt 008 av 2005</Typography>
                     </Stack>
-                    <Typography variant='body1'>Som en del av sin verksamhet har drifbet.com implementerat åtgärder som onboarding och efterlevnadsscreening av sina kunder samt kontroller baserade på transaktionsåtgärder.</Typography>
+                    <Typography variant='body1'>Som en del av sin verksamhet har betcasino555.com implementerat åtgärder som onboarding och efterlevnadsscreening av sina kunder samt kontroller baserade på transaktionsåtgärder.</Typography>
                 </Stack>
             )
         },
@@ -523,8 +523,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com är inte en finansiell institution enligt tillämplig lag från regeringen på den autonoma ön Anjouan, Unionen av Komorerna, och är därför inte direkt underkastad de lagar och regler som gäller för vissa finansiella institutioner, penningöverföringar eller tjänsteleverantörer av virtuella tillgångar.<br />
-                        Men i enlighet med 2016 års förordningar om bekämpning av penningtvätt och finansiering av terrorism (“AML/CFT”) som gäller för regeringen på den autonoma ön Anjouan, Unionen av Komorerna, som tillhandahålls av de relevanta myndigheterna, uttrycker drifbet.com uttryckligen att det förbjuder och avvisar användningen av sina produkter för någon form av olaglig verksamhet, inklusive penningtvätt, finansiering av terrorism eller brott mot handelssanktioner, i enlighet med olika nationella lagar, regler och normer för bekämpning av penningtvätt (“AML”). drifbet.com fortsätter att övervaka normer som fastställs av den finansiella åtgärdsgruppen (“FATF”) och vissa spelhandelsgrupper utöver de relevanta myndigheterna och kommer att vidta nödvändiga åtgärder som den anser lämpliga för att återspegla förändringar i lagen. drifbet.com:s avsikt är att följa globala bästa metoder för att skydda sina produkter från att användas för att underlätta sådana aktiviteter. Dessa bästa metoder inkluderar:<br /><br />
+                    betcasino555.com är inte en finansiell institution enligt tillämplig lag från regeringen på den autonoma ön Anjouan, Unionen av Komorerna, och är därför inte direkt underkastad de lagar och regler som gäller för vissa finansiella institutioner, penningöverföringar eller tjänsteleverantörer av virtuella tillgångar.<br />
+                        Men i enlighet med 2016 års förordningar om bekämpning av penningtvätt och finansiering av terrorism (“AML/CFT”) som gäller för regeringen på den autonoma ön Anjouan, Unionen av Komorerna, som tillhandahålls av de relevanta myndigheterna, uttrycker betcasino555.com uttryckligen att det förbjuder och avvisar användningen av sina produkter för någon form av olaglig verksamhet, inklusive penningtvätt, finansiering av terrorism eller brott mot handelssanktioner, i enlighet med olika nationella lagar, regler och normer för bekämpning av penningtvätt (“AML”). betcasino555.com fortsätter att övervaka normer som fastställs av den finansiella åtgärdsgruppen (“FATF”) och vissa spelhandelsgrupper utöver de relevanta myndigheterna och kommer att vidta nödvändiga åtgärder som den anser lämpliga för att återspegla förändringar i lagen. betcasino555.com:s avsikt är att följa globala bästa metoder för att skydda sina produkter från att användas för att underlätta sådana aktiviteter. Dessa bästa metoder inkluderar:<br /><br />
                         Antagande av en skriftlig policy, och procedurer och kontroller, rimligt utformade för att skydda mot penningtvätt, finansiering av terrorism och brott mot handelssanktioner;<br /><br />
                         Om lämpligt, utnämning av en efterlevnadsofficer för att övervaka genomförandet av policyn, procedurerna och kontrollerna;<br /><br />
                         Tillhandahållande av relaterad utbildning och träning till relevant personal;
@@ -579,7 +579,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Styrning och tillsyn",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com har utsett en Chief Compliance Officer (“CCO”) som är ansvarig för att samordna genomförandet av AML-policyn och policyprogrammet. Chief Compliance Officer:s uppgifter inkluderar också att utveckla AML-initiativ, samarbeta med andra intressenter för att revidera AML-policyn, bedöma nya regulatoriska krav och utreda potentiellt misstänkt eller ovanlig aktivitet. drifbet.com erbjuder också AML-utbildning till alla sina anställda regelbundet.</Typography>
+                    <Typography variant='body1'>betcasino555.com har utsett en Chief Compliance Officer (“CCO”) som är ansvarig för att samordna genomförandet av AML-policyn och policyprogrammet. Chief Compliance Officer:s uppgifter inkluderar också att utveckla AML-initiativ, samarbeta med andra intressenter för att revidera AML-policyn, bedöma nya regulatoriska krav och utreda potentiellt misstänkt eller ovanlig aktivitet. betcasino555.com erbjuder också AML-utbildning till alla sina anställda regelbundet.</Typography>
                 </Stack>
             )
         },
@@ -587,7 +587,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Känn din kund och transaktionsövervakning",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com kommer att tillämpa lämplig kunddue diligence och kontinuerliga övervakningsåtgärder som krävs enligt lag. Det kommer att sträva efter att förhindra användare från att delta i olaglig eller på annat sätt otillåten verksamhet. drifbet.com använder en kombination av sin mjukvaruutveckling och andra serviceavtal, vilka verkställs genom interna operativa funktioner för att säkerställa efterlevnad av tillämplig lag. </Typography>
+                    <Typography variant='body1'>betcasino555.com kommer att tillämpa lämplig kunddue diligence och kontinuerliga övervakningsåtgärder som krävs enligt lag. Det kommer att sträva efter att förhindra användare från att delta i olaglig eller på annat sätt otillåten verksamhet. betcasino555.com använder en kombination av sin mjukvaruutveckling och andra serviceavtal, vilka verkställs genom interna operativa funktioner för att säkerställa efterlevnad av tillämplig lag. </Typography>
                 </Stack>
             )
         },
@@ -595,7 +595,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Kundens due diligence",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com har antagit en riskbaserad CDD för att förstå arten och syftet med användarrelationen till plattformen för att utveckla en kundriskprofil. För att göra detta samlar drifbet.com in viss dokumentär och icke-dokumentär information vid kontoinrättandet, i proportion till arten av den typ av konto och de tjänster som erbjuds. Det upprätthåller olika CDD för olika konton och tjänster.</Typography>
+                    <Typography variant='body1'>betcasino555.com har antagit en riskbaserad CDD för att förstå arten och syftet med användarrelationen till plattformen för att utveckla en kundriskprofil. För att göra detta samlar betcasino555.com in viss dokumentär och icke-dokumentär information vid kontoinrättandet, i proportion till arten av den typ av konto och de tjänster som erbjuds. Det upprätthåller olika CDD för olika konton och tjänster.</Typography>
                 </Stack>
             )
         }
@@ -605,14 +605,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Declaración de Anti-Lavado de Dinero y Anti-Financiamiento del Terrorismo",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Modelo de Negocios de la Compañía: drifbet.com es una empresa constituida bajo la ley del Gobierno de la Isla Autónoma de Anjouan, Unión de las Comoras. Actualmente apoya a usuarios en más de 169 países alrededor del mundo. La siguiente legislación aplica para los negocios de juego:</Typography>
+                    <Typography variant='body1'>Modelo de Negocios de la Compañía: betcasino555.com es una empresa constituida bajo la ley del Gobierno de la Isla Autónoma de Anjouan, Unión de las Comoras. Actualmente apoya a usuarios en más de 169 países alrededor del mundo. La siguiente legislación aplica para los negocios de juego:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  La Ley de Licencias de Juegos por Computadora de 1999</Typography>
                         <Typography> •  La Ley de Apuestas y Juegos de 2005</Typography>
                         <Typography> •  Ley de Empresas Internacionales 004 de 2005</Typography>
                         <Typography> •  Ley de Anti-Lavado de Dinero de Anjouan 008 de 2005</Typography>
                     </Stack>
-                    <Typography variant='body1'>Como parte de sus operaciones, drifbet.com ha implementado medidas como la incorporación y el cumplimiento de la verificación de sus clientes y controles basados en acciones transaccionales.</Typography>
+                    <Typography variant='body1'>Como parte de sus operaciones, betcasino555.com ha implementado medidas como la incorporación y el cumplimiento de la verificación de sus clientes y controles basados en acciones transaccionales.</Typography>
                 </Stack>
             )
         },
@@ -621,8 +621,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com no es una institución financiera según el significado de la ley aplicable del Gobierno de la Isla Autónoma de Anjouan, Unión de las Comoras, y por lo tanto no está directamente sujeta a los estatutos y regulaciones aplicables a ciertas instituciones financieras, proveedores de transferencias de dinero o servicios de activos virtuales.<br />
-                        Sin embargo, de acuerdo con las Regulaciones de 2016 para la Lucha contra el Lavado de Dinero y el Financiamiento del Terrorismo (“AML/CFT”) aplicables para el Gobierno de la Isla Autónoma de Anjouan, Unión de las Comoras, como lo establecen las autoridades pertinentes, drifbet.com prohíbe expresamente y rechaza el uso de sus productos para cualquier forma de actividad ilícita, incluyendo el lavado de dinero, el financiamiento del terrorismo o violaciones de sanciones comerciales, de acuerdo con las diversas leyes nacionales de lavado de dinero (“AML”), regulaciones y normas. drifbet.com continúa monitoreando los parámetros normativos promulgados por el Grupo de Acción Financiera Internacional (“FATF”) y ciertos grupos comerciales de juegos, además de las autoridades relevantes, y tomará las acciones necesarias que considere apropiadas para reflejar los cambios en la ley. La intención de drifbet.com es seguir las mejores prácticas globales para evitar que sus productos sean utilizados para facilitar tales actividades. Estas mejores prácticas incluyen:<br /><br />
+                    betcasino555.com no es una institución financiera según el significado de la ley aplicable del Gobierno de la Isla Autónoma de Anjouan, Unión de las Comoras, y por lo tanto no está directamente sujeta a los estatutos y regulaciones aplicables a ciertas instituciones financieras, proveedores de transferencias de dinero o servicios de activos virtuales.<br />
+                        Sin embargo, de acuerdo con las Regulaciones de 2016 para la Lucha contra el Lavado de Dinero y el Financiamiento del Terrorismo (“AML/CFT”) aplicables para el Gobierno de la Isla Autónoma de Anjouan, Unión de las Comoras, como lo establecen las autoridades pertinentes, betcasino555.com prohíbe expresamente y rechaza el uso de sus productos para cualquier forma de actividad ilícita, incluyendo el lavado de dinero, el financiamiento del terrorismo o violaciones de sanciones comerciales, de acuerdo con las diversas leyes nacionales de lavado de dinero (“AML”), regulaciones y normas. betcasino555.com continúa monitoreando los parámetros normativos promulgados por el Grupo de Acción Financiera Internacional (“FATF”) y ciertos grupos comerciales de juegos, además de las autoridades relevantes, y tomará las acciones necesarias que considere apropiadas para reflejar los cambios en la ley. La intención de betcasino555.com es seguir las mejores prácticas globales para evitar que sus productos sean utilizados para facilitar tales actividades. Estas mejores prácticas incluyen:<br /><br />
                         Adopción de una política escrita, procedimientos y controles, razonablemente diseñados para prevenir el lavado de dinero, el financiamiento del terrorismo y las violaciones de sanciones comerciales;<br /><br />
                         Cuando sea apropiado, designación de un oficial de cumplimiento para supervisar la implementación de la política, procedimientos y controles;<br /><br />
                         Provisión de educación y capacitación relacionada al personal relevante;<br />
@@ -674,7 +674,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Gobernanza y Supervisión",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com ha nombrado a un Oficial de Cumplimiento Principal (“CCO”) responsable de coordinar la implementación de la Política de Anti-Lavado de Dinero y el programa de políticas. Las responsabilidades del Oficial de Cumplimiento Principal también incluyen el desarrollo de iniciativas AML, trabajar con otros interesados para revisar la política AML, evaluar nuevos requisitos regulatorios e investigar actividades potencialmente sospechosas o inusuales. drifbet.com también proporciona capacitación en AML a todos sus empleados de manera regular.</Typography>
+                    <Typography variant='body1'>betcasino555.com ha nombrado a un Oficial de Cumplimiento Principal (“CCO”) responsable de coordinar la implementación de la Política de Anti-Lavado de Dinero y el programa de políticas. Las responsabilidades del Oficial de Cumplimiento Principal también incluyen el desarrollo de iniciativas AML, trabajar con otros interesados para revisar la política AML, evaluar nuevos requisitos regulatorios e investigar actividades potencialmente sospechosas o inusuales. betcasino555.com también proporciona capacitación en AML a todos sus empleados de manera regular.</Typography>
                 </Stack>
             )
         },
@@ -682,7 +682,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Conozca a su Cliente y Monitoreo de Transacciones",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com aplicará las medidas adecuadas de diligencia debida y monitoreo continuo requeridas por la ley. Se esforzará por evitar que los usuarios participen en actividades ilícitas o no autorizadas. drifbet.com utiliza una combinación de su desarrollo de software y otros acuerdos de servicios, que se hacen cumplir mediante características operativas internas para garantizar el cumplimiento de la ley aplicable.</Typography>
+                    <Typography variant='body1'>betcasino555.com aplicará las medidas adecuadas de diligencia debida y monitoreo continuo requeridas por la ley. Se esforzará por evitar que los usuarios participen en actividades ilícitas o no autorizadas. betcasino555.com utiliza una combinación de su desarrollo de software y otros acuerdos de servicios, que se hacen cumplir mediante características operativas internas para garantizar el cumplimiento de la ley aplicable.</Typography>
                 </Stack>
             )
         },
@@ -690,7 +690,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Diligencia Debida del Cliente",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com ha adoptado un enfoque basado en riesgos para la Diligencia Debida del Cliente (CDD) para poder comprender la naturaleza y el propósito de la relación del usuario con la plataforma con el fin de desarrollar un perfil de riesgo del cliente. Para ello, drifbet.com recopila cierta información documental y no documental en la apertura de la cuenta de acuerdo con la naturaleza del tipo de cuenta y los servicios que ofrece. Mantiene diferentes CDD para diferentes cuentas y servicios.</Typography>
+                    <Typography variant='body1'>betcasino555.com ha adoptado un enfoque basado en riesgos para la Diligencia Debida del Cliente (CDD) para poder comprender la naturaleza y el propósito de la relación del usuario con la plataforma con el fin de desarrollar un perfil de riesgo del cliente. Para ello, betcasino555.com recopila cierta información documental y no documental en la apertura de la cuenta de acuerdo con la naturaleza del tipo de cuenta y los servicios que ofrece. Mantiene diferentes CDD para diferentes cuentas y servicios.</Typography>
                 </Stack>
             )
         }
@@ -700,14 +700,14 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Anti-Geldwäsche, Anti-Terrorismusfinanzierung Erklärung",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Das Geschäftsmodell der Firma drifbet.com ist eine Gesellschaft, die nach dem Recht der Regierung der autonomen Insel Anjouan, Union der Komoren, gegründet wurde. Sie unterstützt derzeit Benutzer in mehr als 169 Ländern weltweit. Die folgenden Gesetze gelten für Glücksspielunternehmen:</Typography>
+                    <Typography variant='body1'>Das Geschäftsmodell der Firma betcasino555.com ist eine Gesellschaft, die nach dem Recht der Regierung der autonomen Insel Anjouan, Union der Komoren, gegründet wurde. Sie unterstützt derzeit Benutzer in mehr als 169 Ländern weltweit. Die folgenden Gesetze gelten für Glücksspielunternehmen:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> •  Das Computer Gaming Licensing Act 1999</Typography>
                         <Typography> •  Das Betting and Gambling Act 2005</Typography>
                         <Typography> •  International Business Companies Act 004 von 2005</Typography>
                         <Typography> •  Anjouan Anti-Geldwäsche-Gesetz 008 von 2005</Typography>
                     </Stack>
-                    <Typography variant='body1'>Im Rahmen ihrer Aktivitäten hat drifbet.com Maßnahmen wie das Onboarding und die Compliance-Prüfung ihrer Kunden sowie Kontrollen auf Basis von Transaktionshandlungen implementiert.</Typography>
+                    <Typography variant='body1'>Im Rahmen ihrer Aktivitäten hat betcasino555.com Maßnahmen wie das Onboarding und die Compliance-Prüfung ihrer Kunden sowie Kontrollen auf Basis von Transaktionshandlungen implementiert.</Typography>
                 </Stack>
             )
         },
@@ -716,8 +716,8 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        drifbet.com ist keine Finanzinstitution im Sinne des geltenden Rechts der Regierung der autonomen Insel Anjouan, Union der Komoren, und unterliegt daher nicht direkt den Vorschriften und Gesetzen, die für bestimmte Finanzinstitute, Geldtransfer- oder virtuelle Vermögensdienstleister gelten.<br />
-                        Dennoch verbietet und lehnt drifbet.com gemäß den 2016 erlassenen Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung (“AML/CFT”) der Regierung der autonomen Insel Anjouan, Union der Komoren, ausdrücklich die Nutzung seiner Produkte für illegale Aktivitäten wie Geldwäsche, Terrorismusfinanzierung oder Verstöße gegen Handelssanktionen ab, und folgt den nationalen Anti-Geldwäsche-Gesetzen (“AML”) sowie relevanten Normen. drifbet.com überwacht weiterhin die von der Financial Action Task Force (“FATF”) und bestimmten Glücksspiel-Interessengruppen festgelegten Normen sowie die relevanten Behörden und wird notwendige Maßnahmen ergreifen, um Änderungen im Gesetz zu berücksichtigen. Das Ziel von drifbet.com ist es, globale Best Practices zu verfolgen, um zu verhindern, dass seine Produkte zur Durchführung solcher Aktivitäten verwendet werden. Diese Best Practices umfassen:<br /><br />
+                    betcasino555.com ist keine Finanzinstitution im Sinne des geltenden Rechts der Regierung der autonomen Insel Anjouan, Union der Komoren, und unterliegt daher nicht direkt den Vorschriften und Gesetzen, die für bestimmte Finanzinstitute, Geldtransfer- oder virtuelle Vermögensdienstleister gelten.<br />
+                        Dennoch verbietet und lehnt betcasino555.com gemäß den 2016 erlassenen Vorschriften zur Bekämpfung von Geldwäsche und Terrorismusfinanzierung (“AML/CFT”) der Regierung der autonomen Insel Anjouan, Union der Komoren, ausdrücklich die Nutzung seiner Produkte für illegale Aktivitäten wie Geldwäsche, Terrorismusfinanzierung oder Verstöße gegen Handelssanktionen ab, und folgt den nationalen Anti-Geldwäsche-Gesetzen (“AML”) sowie relevanten Normen. betcasino555.com überwacht weiterhin die von der Financial Action Task Force (“FATF”) und bestimmten Glücksspiel-Interessengruppen festgelegten Normen sowie die relevanten Behörden und wird notwendige Maßnahmen ergreifen, um Änderungen im Gesetz zu berücksichtigen. Das Ziel von betcasino555.com ist es, globale Best Practices zu verfolgen, um zu verhindern, dass seine Produkte zur Durchführung solcher Aktivitäten verwendet werden. Diese Best Practices umfassen:<br /><br />
                         Annahme einer schriftlichen Richtlinie, Verfahren und Kontrollen, die vernünftigerweise darauf ausgelegt sind, Geldwäsche, Terrorismusfinanzierung und Verstöße gegen Handelssanktionen zu verhindern;<br /><br />
                         Sofern angebracht, Ernennung eines Compliance-Beauftragten, der die Umsetzung der Richtlinie, Verfahren und Kontrollen überwacht;<br /><br />
                         Bereitstellung von Schulungen und Bildungsmaßnahmen für das relevante Personal;
@@ -773,7 +773,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Governance und Aufsicht",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com hat einen Chief Compliance Officer (“CCO”) ernannt, der für die Koordinierung der Umsetzung der AML-Politik und des Programms verantwortlich ist. Zu den Aufgaben des Chief Compliance Officer gehört auch die Entwicklung von AML-Initiativen, die Zusammenarbeit mit anderen Stakeholdern zur Überarbeitung der AML-Politik, die Bewertung neuer regulatorischer Anforderungen und die Untersuchung potenziell verdächtiger oder ungewöhnlicher Aktivitäten. drifbet.com bietet zudem regelmäßige AML-Schulungen für alle Mitarbeiter an.</Typography>
+                    <Typography variant='body1'>betcasino555.com hat einen Chief Compliance Officer (“CCO”) ernannt, der für die Koordinierung der Umsetzung der AML-Politik und des Programms verantwortlich ist. Zu den Aufgaben des Chief Compliance Officer gehört auch die Entwicklung von AML-Initiativen, die Zusammenarbeit mit anderen Stakeholdern zur Überarbeitung der AML-Politik, die Bewertung neuer regulatorischer Anforderungen und die Untersuchung potenziell verdächtiger oder ungewöhnlicher Aktivitäten. betcasino555.com bietet zudem regelmäßige AML-Schulungen für alle Mitarbeiter an.</Typography>
                 </Stack>
             )
         },
@@ -781,7 +781,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Know Your Customer und Transaktionsüberwachung",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com wird die erforderlichen Due-Diligence- und kontinuierlichen Überwachungsmaßnahmen anwenden, die gesetzlich vorgeschrieben sind. Es wird sich bemühen, Benutzer daran zu hindern, sich an illegalen oder anderweitig unbefugten Aktivitäten zu beteiligen. drifbet.com nutzt eine Kombination aus Softwareentwicklung und anderen Servicevereinbarungen, die durch interne betriebliche Funktionen durchgesetzt werden, um die Einhaltung des geltenden Rechts sicherzustellen.</Typography>
+                    <Typography variant='body1'>betcasino555.com wird die erforderlichen Due-Diligence- und kontinuierlichen Überwachungsmaßnahmen anwenden, die gesetzlich vorgeschrieben sind. Es wird sich bemühen, Benutzer daran zu hindern, sich an illegalen oder anderweitig unbefugten Aktivitäten zu beteiligen. betcasino555.com nutzt eine Kombination aus Softwareentwicklung und anderen Servicevereinbarungen, die durch interne betriebliche Funktionen durchgesetzt werden, um die Einhaltung des geltenden Rechts sicherzustellen.</Typography>
                 </Stack>
             )
         },
@@ -789,7 +789,7 @@ const AMLPOLICY_LANG: IAMLPOLICY_LANG = {
             "question": "Kundendue Diligence",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>drifbet.com hat eine risikobasierte CDD übernommen, um die Natur und den Zweck der Benutzerbeziehung zur Plattform zu verstehen und ein Kundenrisikoprofil zu entwickeln. Zu diesem Zweck sammelt drifbet.com bestimmte dokumentarische und nicht-dokumentarische Informationen bei der Kontoeröffnung, die dem Natur des Kontos und der angebotenen Dienstleistungen entsprechen. Es pflegt unterschiedliche CDD für verschiedene Konten und Dienstleistungen.</Typography>
+                    <Typography variant='body1'>betcasino555.com hat eine risikobasierte CDD übernommen, um die Natur und den Zweck der Benutzerbeziehung zur Plattform zu verstehen und ein Kundenrisikoprofil zu entwickeln. Zu diesem Zweck sammelt betcasino555.com bestimmte dokumentarische und nicht-dokumentarische Informationen bei der Kontoeröffnung, die dem Natur des Kontos und der angebotenen Dienstleistungen entsprechen. Es pflegt unterschiedliche CDD für verschiedene Konten und Dienstleistungen.</Typography>
                 </Stack>
             )
         }

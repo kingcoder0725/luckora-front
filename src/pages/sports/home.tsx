@@ -12,7 +12,7 @@ export default function Page() {
         <title>Online Sports Betting | Odds, Live Scores & Bonuses | {APP_NAME}</title>
         <meta
           name="description"
-          content="Bet on football, basketball, tennis & esports with competitive odds. Cash out early & win big at Drifbet Sportsbook!"
+          content="Bet on football, basketball, tennis & esports with competitive odds. Cash out early & win big at BetCasino555 Sportsbook!"
         />
         <meta
           name="keywords"

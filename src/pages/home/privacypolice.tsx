@@ -12,11 +12,11 @@ export default function Page() {
                 <title>{APP_NAME} : Privacy Policy</title>
                 <meta
                     name="description"
-                    content="Review Drifbet's Privacy Policy to understand how we protect your data and ensure a secure online casino experience."
+                    content="Review BetCasino555's Privacy Policy to understand how we protect your data and ensure a secure online casino experience."
                 />
                 <meta
                     name="keywords"
-                    content="Drifbet privacy policy, casino privacy, online gaming security, data protection, privacy practices"
+                    content="BetCasino555 privacy policy, casino privacy, online gaming security, data protection, privacy practices"
                 />
             </Helmet>
 

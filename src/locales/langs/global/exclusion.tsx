@@ -32,13 +32,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Voluntary Participation:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Players can choose to self-exclude from our platform at any time.</Typography>
-                            <Typography> •  The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@Drifbet.com</Typography>
+                            <Typography> •  The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Duration of Self-Exclusion:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Players can select the duration of their self-exclusion period, which may range from a few days, month to several years, depending on their needs.</Typography>
-                            <Typography> •  The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@Drifbet.com</Typography>
+                            <Typography> •  The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@BetCasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Account Restrictions:</Typography>
@@ -49,7 +49,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Reactivation Process:</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> •  After the self-exclusion period ends, players must contact the customer liaison officer at compliance@Drifbet.com to reactivate their account.</Typography>
+                            <Typography> •  After the self-exclusion period ends, players must contact the customer liaison officer at compliance@betcasino555.com to reactivate their account.</Typography>
                             <Typography> •  A cooling-off period may be applied before the account is fully reactivated to ensure the player is ready to return to gambling.</Typography>
                         </Stack>
                     </Stack>
@@ -100,7 +100,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             answer: (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2' >
-                        Self-exclusion is an important tool for promoting responsible gambling and helping players manage their gambling activities. At Drifbet.com, we are committed to providing a safe and supportive environment for all our players. For more information about self-exclusion or to initiate the process, please contact our customer liaison officer at compliance@Drifbet.com
+                        Self-exclusion is an important tool for promoting responsible gambling and helping players manage their gambling activities. At betcasino555.com, we are committed to providing a safe and supportive environment for all our players. For more information about self-exclusion or to initiate the process, please contact our customer liaison officer at compliance@betcasino555.com
                     </Typography>
                 </Stack>
             )
@@ -126,13 +126,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Добровольное участие:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Игроки могут выбрать самоисключение на нашей платформе в любое время.</Typography>
-                            <Typography> •  Решение о самоисключении полностью добровольное и может быть инициировано игроком через настройки аккаунта или путем обращения к сотруднику по связям с клиентами по адресу compliance@Drifbet.com.</Typography>
+                            <Typography> •  Решение о самоисключении полностью добровольное и может быть инициировано игроком через настройки аккаунта или путем обращения к сотруднику по связям с клиентами по адресу compliance@betcasino555.com.</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Срок самоисключения:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Игроки могут выбрать срок своего самоисключения, который может варьироваться от нескольких дней, месяца до нескольких лет, в зависимости от их потребностей.</Typography>
-                            <Typography> •  Решение о самоисключении полностью добровольное и может быть инициировано игроком через настройки аккаунта или путем обращения к сотруднику по связям с клиентами по адресу compliance@Drifbet.com.</Typography>
+                            <Typography> •  Решение о самоисключении полностью добровольное и может быть инициировано игроком через настройки аккаунта или путем обращения к сотруднику по связям с клиентами по адресу compliance@betcasino555.com.</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Ограничения аккаунта:</Typography>
@@ -143,7 +143,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Процесс повторной активации:</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> •  После окончания периода самоисключения игроки должны обратиться к сотруднику по связям с клиентами по адресу compliance@Drifbet.com для повторной активации своего аккаунта.</Typography>
+                            <Typography> •  После окончания периода самоисключения игроки должны обратиться к сотруднику по связям с клиентами по адресу compliance@betcasino555.com для повторной активации своего аккаунта.</Typography>
                             <Typography> •  Может быть применен период ожидания перед полной реактивацией аккаунта, чтобы убедиться, что игрок готов вернуться к азартным играм.</Typography>
                         </Stack>
                     </Stack>
@@ -195,7 +195,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2' >
-                        Самоисключение — это важный инструмент для продвижения ответственного азартного поведения и помощи игрокам в управлении своими игровыми действиями. На Drifbet.com мы стремимся создать безопасную и поддерживающую среду для всех наших игроков. Для получения дополнительной информации о самоисключении или для инициирования процесса, пожалуйста, свяжитесь с нашим сотрудником по связям с клиентами по адресу compliance@Drifbet.com.
+                        Самоисключение — это важный инструмент для продвижения ответственного азартного поведения и помощи игрокам в управлении своими игровыми действиями. На betcasino555.com мы стремимся создать безопасную и поддерживающую среду для всех наших игроков. Для получения дополнительной информации о самоисключении или для инициирования процесса, пожалуйста, свяжитесь с нашим сотрудником по связям с клиентами по адресу compliance@betcasino555.com.
                     </Typography>
                 </Stack>
             )
@@ -220,13 +220,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Frivillig Deltakelse:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Spillere kan velge å selvutestenge seg fra plattformen vår når som helst.</Typography>
-                            <Typography> •  Beslutningen om å selvutestenge er helt frivillig og kan initieres av spilleren gjennom kontoinnstillingene sine eller ved å kontakte kundekontakt på compliance@Drifbet.com</Typography>
+                            <Typography> •  Beslutningen om å selvutestenge er helt frivillig og kan initieres av spilleren gjennom kontoinnstillingene sine eller ved å kontakte kundekontakt på compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Varighet av Selvutestengelse:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Spillere kan velge varigheten på selvutestengelsesperioden, som kan variere fra noen dager, måneder til flere år, avhengig av deres behov.</Typography>
-                            <Typography> •  Beslutningen om å selvutestenge er helt frivillig og kan initieres av spilleren gjennom kontoinnstillingene sine eller ved å kontakte kundekontakt på compliance@Drifbet.com</Typography>
+                            <Typography> •  Beslutningen om å selvutestenge er helt frivillig og kan initieres av spilleren gjennom kontoinnstillingene sine eller ved å kontakte kundekontakt på compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Konto Restriksjoner:</Typography>
@@ -237,7 +237,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Reaktiveringsprosess:</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> •  Etter at selvutestengelsesperioden er over, må spillere kontakte kundekontakt på compliance@Drifbet.com for å reaktivere kontoen sin.</Typography>
+                            <Typography> •  Etter at selvutestengelsesperioden er over, må spillere kontakte kundekontakt på compliance@betcasino555.com for å reaktivere kontoen sin.</Typography>
                             <Typography> •  En avkjølingsperiode kan bli anvendt før kontoen blir fullt reaktivert for å sikre at spilleren er klar til å returnere til gambling.</Typography>
                         </Stack>
                     </Stack>
@@ -289,7 +289,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2'>
-                        Selvutestengelse er et viktig verktøy for å fremme ansvarlig spilling og hjelpe spillere med å håndtere gamblingaktivitetene sine. Hos Drifbet.com er vi forpliktet til å tilby et trygt og støttende miljø for alle våre spillere. For mer informasjon om selvutestengelse eller for å igangsette prosessen, vennligst kontakt vår kundekontakt på compliance@Drifbet.com
+                        Selvutestengelse er et viktig verktøy for å fremme ansvarlig spilling og hjelpe spillere med å håndtere gamblingaktivitetene sine. Hos betcasino555.com er vi forpliktet til å tilby et trygt og støttende miljø for alle våre spillere. For mer informasjon om selvutestengelse eller for å igangsette prosessen, vennligst kontakt vår kundekontakt på compliance@betcasino555.com
                     </Typography>
                 </Stack>
             )
@@ -314,13 +314,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Vapaaehtoinen osallistuminen:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Pelaajat voivat valita itsepoissulkemisen meidän alustaltamme milloin tahansa.</Typography>
-                            <Typography> •  Päätös itsepoissulkemisesta on täysin vapaaehtoinen ja sen voi aloittaa pelaaja tilin asetuksista tai ottamalla yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@Drifbet.com.</Typography>
+                            <Typography> •  Päätös itsepoissulkemisesta on täysin vapaaehtoinen ja sen voi aloittaa pelaaja tilin asetuksista tai ottamalla yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@betcasino555.com.</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Itsepoissulkemisen kesto:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Pelaajat voivat valita itsepoissulkemisjakson keston, joka voi vaihdella muutamasta päivästä kuukauteen tai useisiin vuosiin tarpeidensa mukaan.</Typography>
-                            <Typography> •  Päätös itsepoissulkemisesta on täysin vapaaehtoinen ja sen voi aloittaa pelaaja tilin asetuksista tai ottamalla yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@Drifbet.com.</Typography>
+                            <Typography> •  Päätös itsepoissulkemisesta on täysin vapaaehtoinen ja sen voi aloittaa pelaaja tilin asetuksista tai ottamalla yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@betcasino555.com.</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Tilin rajoitukset:</Typography>
@@ -331,7 +331,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Uudelleenaktivointiprosessi:</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> •  Kun itsepoissulkemisjakso päättyy, pelaajien on otettava yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@Drifbet.com aktivoidakseen tilinsä uudelleen.</Typography>
+                            <Typography> •  Kun itsepoissulkemisjakso päättyy, pelaajien on otettava yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@betcasino555.com aktivoidakseen tilinsä uudelleen.</Typography>
                             <Typography> •  Jäähdyttelyjakso voi olla voimassa ennen kuin tili aktivoidaan täysin varmistaaksemme, että pelaaja on valmis palaamaan uhkapeliin.</Typography>
                         </Stack>
                     </Stack>
@@ -383,7 +383,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2'>
-                        Itsepoissulkeminen on tärkeä työkalu vastuullisen uhkapelaamisen edistämiseksi ja pelaajien auttamiseksi hallitsemaan uhkapelitoimintojaan. Drifbet.com:lla olemme sitoutuneet tarjoamaan turvallisen ja tukevan ympäristön kaikille pelaajillemme. Lisätietoja itsepoissulkemisesta tai prosessin aloittamisesta saat ottamalla yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@Drifbet.com.
+                        Itsepoissulkeminen on tärkeä työkalu vastuullisen uhkapelaamisen edistämiseksi ja pelaajien auttamiseksi hallitsemaan uhkapelitoimintojaan. betcasino555.com:lla olemme sitoutuneet tarjoamaan turvallisen ja tukevan ympäristön kaikille pelaajillemme. Lisätietoja itsepoissulkemisesta tai prosessin aloittamisesta saat ottamalla yhteyttä asiakasyhteyshenkilöön osoitteessa compliance@betcasino555.com.
                     </Typography>
                 </Stack>
             )
@@ -408,13 +408,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Frivilligt deltagande:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Spelare kan när som helst välja att självexkludera sig från vår plattform.</Typography>
-                            <Typography> •  Beslutet att självexkludera sig är helt frivilligt och kan initieras av spelaren genom deras kontoinställningar eller genom att kontakta kundansvarig på compliance@Drifbet.com</Typography>
+                            <Typography> •  Beslutet att självexkludera sig är helt frivilligt och kan initieras av spelaren genom deras kontoinställningar eller genom att kontakta kundansvarig på compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Varaktighet för självexkludering:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Spelare kan välja varaktigheten för sin självexkluderingsperiod, som kan sträcka sig från några dagar, en månad till flera år, beroende på deras behov.</Typography>
-                            <Typography> •  Beslutet att självexkludera sig är helt frivilligt och kan initieras av spelaren genom deras kontoinställningar eller genom att kontakta kundansvarig på compliance@Drifbet.com</Typography>
+                            <Typography> •  Beslutet att självexkludera sig är helt frivilligt och kan initieras av spelaren genom deras kontoinställningar eller genom att kontakta kundansvarig på compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Kontobegränsningar:</Typography>
@@ -425,7 +425,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Återaktiveringsprocess:</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> •  Efter att självexkluderingsperioden har avslutats måste spelare kontakta kundansvarig på compliance@Drifbet.com för att återaktivera sitt konto.</Typography>
+                            <Typography> •  Efter att självexkluderingsperioden har avslutats måste spelare kontakta kundansvarig på compliance@betcasino555.com för att återaktivera sitt konto.</Typography>
                             <Typography> •  En avkylningsperiod kan tillämpas innan kontot återaktiveras helt för att säkerställa att spelaren är redo att återvända till spel.</Typography>
                         </Stack>
                     </Stack>
@@ -477,7 +477,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2'>
-                        Självexkludering är ett viktigt verktyg för att främja ansvarsfullt spelande och hjälpa spelare att hantera sina spelaktiviteter. På Drifbet.com är vi engagerade i att tillhandahålla en säker och stödjande miljö för alla våra spelare. För mer information om självexkludering eller för att initiera processen, vänligen kontakta vår kundansvarig på compliance@Drifbet.com
+                        Självexkludering är ett viktigt verktyg för att främja ansvarsfullt spelande och hjälpa spelare att hantera sina spelaktiviteter. På betcasino555.com är vi engagerade i att tillhandahålla en säker och stödjande miljö för alla våra spelare. För mer information om självexkludering eller för att initiera processen, vänligen kontakta vår kundansvarig på compliance@betcasino555.com
                     </Typography>
                 </Stack>
             )
@@ -502,13 +502,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Participación Voluntaria:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Los jugadores pueden elegir autoexcluirse de nuestra plataforma en cualquier momento.</Typography>
-                            <Typography> •  La decisión de autoexcluirse es completamente voluntaria y puede ser iniciada por el jugador a través de la configuración de su cuenta o contactando al oficial de relaciones con clientes en compliance@Drifbet.com</Typography>
+                            <Typography> •  La decisión de autoexcluirse es completamente voluntaria y puede ser iniciada por el jugador a través de la configuración de su cuenta o contactando al oficial de relaciones con clientes en compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Duración de la Autoexclusión:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Los jugadores pueden seleccionar la duración de su período de autoexclusión, que puede variar desde unos pocos días, meses hasta varios años, según sus necesidades.</Typography>
-                            <Typography> •  La decisión de autoexcluirse es completamente voluntaria y puede ser iniciada por el jugador a través de la configuración de su cuenta o contactando al oficial de relaciones con clientes en compliance@Drifbet.com</Typography>
+                            <Typography> •  La decisión de autoexcluirse es completamente voluntaria y puede ser iniciada por el jugador a través de la configuración de su cuenta o contactando al oficial de relaciones con clientes en compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Restricciones en la Cuenta:</Typography>
@@ -519,7 +519,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Proceso de Reactivación:</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> •  Después de que finalice el período de autoexclusión, los jugadores deben contactar al oficial de relaciones con clientes en compliance@Drifbet.com para reactivar su cuenta.</Typography>
+                            <Typography> •  Después de que finalice el período de autoexclusión, los jugadores deben contactar al oficial de relaciones con clientes en compliance@betcasino555.com para reactivar su cuenta.</Typography>
                             <Typography> •  Puede aplicarse un período de enfriamiento antes de que la cuenta sea completamente reactivada para garantizar que el jugador esté listo para regresar al juego.</Typography>
                         </Stack>
                     </Stack>
@@ -571,7 +571,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2'>
-                        La autoexclusión es una herramienta importante para promover el juego responsable y ayudar a los jugadores a gestionar sus actividades de juego. En Drifbet.com, estamos comprometidos a proporcionar un entorno seguro y de apoyo para todos nuestros jugadores. Para más información sobre la autoexclusión o para iniciar el proceso, por favor contacta a nuestro oficial de relaciones con clientes en compliance@Drifbet.com
+                        La autoexclusión es una herramienta importante para promover el juego responsable y ayudar a los jugadores a gestionar sus actividades de juego. En betcasino555.com, estamos comprometidos a proporcionar un entorno seguro y de apoyo para todos nuestros jugadores. Para más información sobre la autoexclusión o para iniciar el proceso, por favor contacta a nuestro oficial de relaciones con clientes en compliance@betcasino555.com
                     </Typography>
                 </Stack>
             )
@@ -596,13 +596,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Freiwillige Teilnahme:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Spieler können sich jederzeit freiwillig von unserer Plattform selbst sperren.</Typography>
-                            <Typography> •  Die Entscheidung zur Selbstsperre ist vollständig freiwillig und kann vom Spieler über die Kontoeinstellungen oder durch Kontaktaufnahme mit dem Kundenbetreuer unter compliance@Drifbet.com initiiert werden.</Typography>
+                            <Typography> •  Die Entscheidung zur Selbstsperre ist vollständig freiwillig und kann vom Spieler über die Kontoeinstellungen oder durch Kontaktaufnahme mit dem Kundenbetreuer unter compliance@betcasino555.com initiiert werden.</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Dauer der Selbstsperre:</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> •  Spieler können die Dauer ihrer Selbstsperre wählen, die von wenigen Tagen bis zu mehreren Jahren reichen kann, je nach ihren Bedürfnissen.</Typography>
-                            <Typography> •  Die Entscheidung zur Selbstsperre ist vollständig freiwillig und kann vom Spieler über die Kontoeinstellungen oder durch Kontaktaufnahme mit dem Kundenbetreuer unter compliance@Drifbet.com initiiert werden.</Typography>
+                            <Typography> •  Die Entscheidung zur Selbstsperre ist vollständig freiwillig und kann vom Spieler über die Kontoeinstellungen oder durch Kontaktaufnahme mit dem Kundenbetreuer unter compliance@betcasino555.com initiiert werden.</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Kontobeschränkungen:</Typography>
@@ -613,7 +613,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Reaktivierungsprozess:</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> •  Nach Ablauf der Selbstsperre müssen Spieler den Kundenbetreuer unter compliance@Drifbet.com kontaktieren, um ihr Konto wieder zu aktivieren.</Typography>
+                            <Typography> •  Nach Ablauf der Selbstsperre müssen Spieler den Kundenbetreuer unter compliance@betcasino555.com kontaktieren, um ihr Konto wieder zu aktivieren.</Typography>
                             <Typography> •  Eine Karenzzeit kann angewendet werden, bevor das Konto vollständig reaktiviert wird, um sicherzustellen, dass der Spieler bereit ist, wieder am Glücksspiel teilzunehmen.</Typography>
                         </Stack>
                     </Stack>
@@ -665,7 +665,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2'>
-                        Selbstsperre ist ein wichtiges Instrument, um verantwortungsbewusstes Glücksspiel zu fördern und Spielern zu helfen, ihre Glücksspielaktivitäten zu steuern. Bei Drifbet.com setzen wir uns dafür ein, unseren Spielern eine sichere und unterstützende Umgebung zu bieten. Für weitere Informationen zur Selbstsperre oder um den Prozess zu starten, kontaktieren Sie bitte unseren Kundenbetreuer unter compliance@Drifbet.com.
+                        Selbstsperre ist ein wichtiges Instrument, um verantwortungsbewusstes Glücksspiel zu fördern und Spielern zu helfen, ihre Glücksspielaktivitäten zu steuern. Bei betcasino555.com setzen wir uns dafür ein, unseren Spielern eine sichere und unterstützende Umgebung zu bieten. Für weitere Informationen zur Selbstsperre oder um den Prozess zu starten, kontaktieren Sie bitte unseren Kundenbetreuer unter compliance@betcasino555.com.
                     </Typography>
                 </Stack>
             )
@@ -690,13 +690,13 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
                         <Typography variant='h6'>1. Participation Volontaire :</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> • Les joueurs peuvent choisir de s&apos;auto-exclure de notre plateforme à tout moment.</Typography>
-                            <Typography> • La décision de s&apos;auto-exclure est entièrement volontaire et peut être initiée par le joueur via les paramètres de son compte ou en contactant le responsable de la conformité à compliance@Drifbet.com</Typography>
+                            <Typography> • La décision de s&apos;auto-exclure est entièrement volontaire et peut être initiée par le joueur via les paramètres de son compte ou en contactant le responsable de la conformité à compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>2. Durée de l&apos;auto-exclusion :</Typography>
                         <Stack gap={1} width="100%">
                             <Typography> • Les joueurs peuvent choisir la durée de leur période d&apos;auto-exclusion, qui peut aller de quelques jours, mois à plusieurs années, selon leurs besoins.</Typography>
-                            <Typography> • La décision de s&apos;auto-exclure est entièrement volontaire et peut être initiée par le joueur via les paramètres de son compte ou en contactant le responsable de la conformité à compliance@Drifbet.com</Typography>
+                            <Typography> • La décision de s&apos;auto-exclure est entièrement volontaire et peut être initiée par le joueur via les paramètres de son compte ou en contactant le responsable de la conformité à compliance@betcasino555.com</Typography>
                         </Stack>
 
                         <Typography variant='h6' mt={2}>3. Restrictions de Compte :</Typography>
@@ -707,7 +707,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
 
                         <Typography variant='h6' mt={2}>4. Processus de Réactivation :</Typography>
                         <Stack gap={1} width="100%">
-                            <Typography> • Après la fin de la période d&apos;auto-exclusion, les joueurs doivent contacter le responsable de la conformité à compliance@Drifbet.com pour réactiver leur compte.</Typography>
+                            <Typography> • Après la fin de la période d&apos;auto-exclusion, les joueurs doivent contacter le responsable de la conformité à compliance@betcasino555.com pour réactiver leur compte.</Typography>
                             <Typography> • Une période de refroidissement peut être appliquée avant que le compte ne soit entièrement réactivé afin de s&apos;assurer que le joueur est prêt à revenir aux jeux de hasard.</Typography>
                         </Stack>
                     </Stack>
@@ -759,7 +759,7 @@ const EXCLUSION_LANG: IEXCLUSION_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body2'>
-                        L&apos;auto-exclusion est un outil important pour promouvoir un jeu responsable et aider les joueurs à gérer leurs activités de jeu. Sur Drifbet.com, nous nous engageons à offrir un environnement sûr et de soutien à tous nos joueurs. Pour plus d&apos;informations sur l&apos;auto-exclusion ou pour initier le processus, veuillez contacter notre responsable de la conformité à compliance@Drifbet.com
+                        L&apos;auto-exclusion est un outil important pour promouvoir un jeu responsable et aider les joueurs à gérer leurs activités de jeu. Sur betcasino555.com, nous nous engageons à offrir un environnement sûr et de soutien à tous nos joueurs. Pour plus d&apos;informations sur l&apos;auto-exclusion ou pour initier le processus, veuillez contacter notre responsable de la conformité à compliance@betcasino555.com
                     </Typography>
                 </Stack>
             )

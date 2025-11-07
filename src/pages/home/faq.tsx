@@ -12,11 +12,11 @@ export default function Page() {
                 <title>{APP_NAME} : FAQ</title>
                 <meta
                     name="description"
-                    content="Find answers to common questions about Drifbet's online casino, games, bonuses, and account management in our FAQ."
+                    content="Find answers to common questions about BetCasino555's online casino, games, bonuses, and account management in our FAQ."
                 />
                 <meta
                     name="keywords"
-                    content="Drifbet FAQ, casino FAQ, online gaming questions, casino bonuses, account help"
+                    content="BetCasino555 FAQ, casino FAQ, online gaming questions, casino bonuses, account help"
                 />
             </Helmet>
 
