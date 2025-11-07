@@ -23,7 +23,7 @@ const Logo = forwardRef<HTMLDivElement, LogoProps>(
       >
         <Box
           component="img"
-          src={`/logo/${(mini && 'logo-icon.png') || 'drifbet.svg'}`} // => your path
+          src={`/logo/${(mini && 'logo-icon.png') || 'logo.png'}`} // => your path
           alt="logo"
           maxWidth={1}
           height="auto"
