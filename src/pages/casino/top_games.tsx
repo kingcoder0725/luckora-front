@@ -12,7 +12,7 @@ export default function Page() {
         <title>{APP_NAME} : Casino</title>
         <meta
           name="description"
-          content="Discover the best casino games at Webet360! Play top slots, table games, and jackpots with exciting rewards."
+          content="Discover the best casino games at BetCasino555! Play top slots, table games, and jackpots with exciting rewards."
         />
         <meta
           name="keywords"

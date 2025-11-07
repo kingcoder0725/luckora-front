@@ -12,7 +12,7 @@ export default function Page() {
         <title>{APP_NAME} : Tournament</title>
         <meta
           name="description"
-          content="Compete in thrilling casino tournaments at Webet360! Win big prizes in slots, poker, and blackjack events."
+          content="Compete in thrilling casino tournaments at BetCasino555! Win big prizes in slots, poker, and blackjack events."
         />
         <meta
           name="keywords"

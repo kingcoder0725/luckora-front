@@ -1,8 +1,8 @@
 {
-  "name": "WeBet360-Fontend",
+  "name": "BetCasino555-Fontend",
   "author": "pondev1031",
   "version": "5.5.0",
-  "description": "WeBet360 Fontend & TypeScript",
+  "description": "BetCasino555 Fontend & TypeScript",
   "private": true,
   "scripts": {
     "start": " react-scripts start",

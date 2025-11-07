@@ -12,7 +12,7 @@ export default function Page() {
         <title>Exclusive Casino Bonuses | Free Spins & Deposit Matches | {APP_NAME}</title>
         <meta
           name="description"
-          content="Claim your 100% welcome bonus up to €500 + 50 free spins! No wagering offers & VIP rewards at Webet360."
+          content="Claim your 100% welcome bonus up to €500 + 50 free spins! No wagering offers & VIP rewards at BetCasino555."
         />
         <meta
           name="keywords"

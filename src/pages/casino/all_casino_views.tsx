@@ -12,11 +12,11 @@ export default function Page() {
         <title>{APP_NAME} : Live Casino All</title>
         <meta
           name="description"
-          content="Dive into all live casino games at Webet360! Enjoy HD streaming, live dealers, and a wide range of blackjack, roulette, and baccarat tables."
+          content="Dive into all live casino games at BetCasino555! Enjoy HD streaming, live dealers, and a wide range of blackjack, roulette, and baccarat tables."
         />
         <meta
           name="keywords"
-          content="live casino games, live blackjack, live roulette, live baccarat, live dealer casino, Webet360 live casino"
+          content="live casino games, live blackjack, live roulette, live baccarat, live dealer casino, BetCasino555 live casino"
         />
       </Helmet>
 

@@ -12,11 +12,11 @@ export default function Page() {
         <title>{APP_NAME} : Jackpot</title>
         <meta
           name="description"
-          content="Chase massive wins with Webet360's jackpot games! Play progressive slots and table games for life-changing prizes."
+          content="Chase massive wins with BetCasino555's jackpot games! Play progressive slots and table games for life-changing prizes."
         />
         <meta
           name="keywords"
-          content="jackpot games, progressive slots, casino jackpots, big win casino, Webet360 jackpots"
+          content="jackpot games, progressive slots, casino jackpots, big win casino, BetCasino555 jackpots"
         />
       </Helmet>
 

@@ -12,11 +12,11 @@ export default function Page() {
         <title>{APP_NAME} : MegaWays</title>
         <meta
           name="description"
-          content="Spin the reels with Webet360's MegaWays slots! Enjoy dynamic paylines, big wins, and thrilling gameplay."
+          content="Spin the reels with BetCasino555's MegaWays slots! Enjoy dynamic paylines, big wins, and thrilling gameplay."
         />
         <meta
           name="keywords"
-          content="MegaWays slots, online slots, dynamic paylines, casino slots, Webet360 MegaWays"
+          content="MegaWays slots, online slots, dynamic paylines, casino slots, BetCasino555 MegaWays"
         />
       </Helmet>
       <MegaWaysView />

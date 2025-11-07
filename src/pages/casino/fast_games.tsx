@@ -12,11 +12,11 @@ export default function Page() {
         <title>{APP_NAME} : Casino</title>
         <meta
           name="description"
-          content="Enjoy instant thrills with Webet360's fast games! Quick-play slots, crash games, and arcade-style fun await."
+          content="Enjoy instant thrills with BetCasino555's fast games! Quick-play slots, crash games, and arcade-style fun await."
         />
         <meta
           name="keywords"
-          content="fast casino games, quick play slots, crash games, arcade casino, Webet360 fast games"
+          content="fast casino games, quick play slots, crash games, arcade casino, BetCasino555 fast games"
         />
       </Helmet>
 

@@ -12,11 +12,11 @@ export default function Page() {
         <title> {APP_NAME} : Referral</title>
         <meta
           name="description"
-          content="Invite friends to Webet360 and earn rewards. Join our referral program for exclusive casino and betting bonuses."
+          content="Invite friends to BetCasino555 and earn rewards. Join our referral program for exclusive casino and betting bonuses."
         />
         <meta
           name="keywords"
-          content="Webet360 referral, casino referral program, betting rewards, invite friends, referral bonuses"
+          content="BetCasino555 referral, casino referral program, betting rewards, invite friends, referral bonuses"
         />
       </Helmet>
 

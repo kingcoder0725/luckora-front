@@ -12,11 +12,11 @@ export default function Page() {
         <title>{APP_NAME} : Vip Club</title>
         <meta
           name="description"
-          content="Embark on an exciting gaming journey with Webet360! Unlock rewards, challenges, and personalized casino adventures."
+          content="Embark on an exciting gaming journey with BetCasino555! Unlock rewards, challenges, and personalized casino adventures."
         />
         <meta
           name="keywords"
-          content="gaming journey, casino adventure, casino rewards, personalized casino games, Webet360 journey"
+          content="gaming journey, casino adventure, casino rewards, personalized casino games, BetCasino555 journey"
         />
       </Helmet>
 

@@ -12,11 +12,11 @@ export default function Page() {
         <title> {APP_NAME} : Support</title>
         <meta
           name="description"
-          content="Get help with Webet360's support. Contact our team for assistance with casino games, betting, or account issues."
+          content="Get help with BetCasino555's support. Contact our team for assistance with casino games, betting, or account issues."
         />
         <meta
           name="keywords"
-          content="Webet360 support, casino customer service, betting help, account support, online gaming assistance"
+          content="BetCasino555 support, casino customer service, betting help, account support, online gaming assistance"
         />
       </Helmet>
 

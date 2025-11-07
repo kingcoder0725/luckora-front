@@ -1291,7 +1291,7 @@ const ScratchGame: React.FC<ScratchGameProps> = ({
                     },
                   }}
                 >
-                  <span style={{ color: '#FFE71A' }}>Driftbet</span>
+                  <span style={{ color: '#FFE71A' }}>BetCasino555</span>
                   <span style={{ color: '#FFFFFF', marginLeft: '8px' }}>scratch</span>
                 </Box>
 

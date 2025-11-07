@@ -30,7 +30,7 @@ export default function Page() {
 
   const helmetContentCustom = (
     <Helmet>
-      <title>Casino Games Real Money | Online Slots & Blackjack | Webet360</title>
+      <title>Casino Games Real Money | Online Slots & Blackjack | BetCasino555</title>
       <meta
         name="description"
         content="Spielen Sie Casino Games mit Echtgeld an Deutschlands Top Online Casino! Online Slots, Blackjack & Roulette mit hohen Gewinnchancen."

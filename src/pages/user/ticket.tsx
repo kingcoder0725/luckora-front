@@ -12,11 +12,11 @@ export default function Page() {
         <title> {APP_NAME} : Ticket</title>
         <meta
           name="description"
-          content="Manage your support tickets at Webet360. Track inquiries and get assistance for casino and betting issues."
+          content="Manage your support tickets at BetCasino555. Track inquiries and get assistance for casino and betting issues."
         />
         <meta
           name="keywords"
-          content="Webet360 support tickets, casino support, betting inquiries, ticket tracking, user assistance"
+          content="BetCasino555 support tickets, casino support, betting inquiries, ticket tracking, user assistance"
         />
       </Helmet>
 

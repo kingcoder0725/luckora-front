@@ -42,7 +42,7 @@ import ChatMessages from './chat-message';
 const USER_COLOR: any = {};
 
 const inputEmailRegex = /\b[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Z|a-z]{2,}\b/;
-const inputUrlRegex = /https?:\/\/(?!localhost|webet360\.com)\S+/;
+const inputUrlRegex = /https?:\/\/(?!localhost|betcasino555\.io)\S+/;
 const inputPhoneRegex = /(\+?\d{9,})/;
 
 type Props = {

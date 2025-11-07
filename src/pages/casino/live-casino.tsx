@@ -12,7 +12,7 @@ export default function Page() {
         <title>Live Dealer Casino | Play Blackjack, Roulette & Baccarat Online</title>
         <meta
           name="description"
-          content="Experience real casino action with Webet360's live dealers! HD streaming, VIP tables & interactive games."
+          content="Experience real casino action with BetCasino555's live dealers! HD streaming, VIP tables & interactive games."
         />
         <meta
           name="keywords"

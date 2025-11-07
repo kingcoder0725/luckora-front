@@ -12,11 +12,11 @@ export default function Page() {
         <title> {APP_NAME} : Notification</title>
         <meta
           name="description"
-          content="Stay informed with Webet360 notifications. Get updates on bonuses, game events, and account activities."
+          content="Stay informed with BetCasino555 notifications. Get updates on bonuses, game events, and account activities."
         />
         <meta
           name="keywords"
-          content="Webet360 notifications, casino updates, betting alerts, game event notifications, account updates"
+          content="BetCasino555 notifications, casino updates, betting alerts, game event notifications, account updates"
         />
       </Helmet>
 

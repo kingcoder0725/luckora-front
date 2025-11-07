@@ -12,11 +12,11 @@ export default function Page() {
         <title> {APP_NAME} : Account</title>
         <meta
           name="description"
-          content="Manage your Webet360 account. Update your profile, view balance, and access personalized casino and betting features."
+          content="Manage your BetCasino555 account. Update your profile, view balance, and access personalized casino and betting features."
         />
         <meta
           name="keywords"
-          content="Webet360 account, casino account management, user profile, betting balance, account settings"
+          content="BetCasino555 account, casino account management, user profile, betting balance, account settings"
         />
       </Helmet>
 

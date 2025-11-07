@@ -12,11 +12,11 @@ export default function LoginPage() {
         <title>{APP_NAME} : Login</title>
         <meta
           name="description"
-          content="Log in to your Webet360 account to access thrilling casino games, live dealers, and exclusive rewards."
+          content="Log in to your BetCasino555 account to access thrilling casino games, live dealers, and exclusive rewards."
         />
         <meta
           name="keywords"
-          content="casino login, Webet360 login, online casino account, live casino access, gaming login"
+          content="casino login, BetCasino555 login, online casino account, live casino access, gaming login"
         />
       </Helmet>
 

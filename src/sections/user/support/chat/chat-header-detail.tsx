@@ -24,7 +24,7 @@ export default function ChatHeaderDetail() {
     "role": t("admin"),
     "status": t("online"),
     "name": "Support",
-    "email": "support@webet360.com",
+    "email": "support@betcasino555.com",
     "address": "90210 Broadway Blvd",
     "avatarUrl": "https://api-prod-minimal-v610.pages.dev/assets/images/avatar/avatar-25.webp",
     "lastActivity": "2024-09-25T15:54:15+00:00",

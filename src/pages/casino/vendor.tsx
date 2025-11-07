@@ -12,7 +12,7 @@ export default function Page() {
         <title>Best Online Slots 2024 | 1000+ Casino Slot Games | {APP_NAME} </title>
         <meta
           name="description"
-          content="Play the hottest slot machines at Webet360! Free spins, progressive jackpots & high RTP slots from NetEnt, Pragmatic Play & more."
+          content="Play the hottest slot machines at BetCasino555! Free spins, progressive jackpots & high RTP slots from NetEnt, Pragmatic Play & more."
         />
         <meta
           name="keywords"

@@ -28,29 +28,29 @@ export default function Page() {
 
       <meta
         name="description"
-        content="Play 2000+ casino games at Webet360! Enjoy slots, live dealer tables, sports betting & exclusive bonuses. Secure, fast payouts & 24/7 support."
+        content="Play 2000+ casino games at BetCasino555! Enjoy slots, live dealer tables, sports betting & exclusive bonuses. Secure, fast payouts & 24/7 support."
       />
       <meta
         name="keywords"
-        content="online casino, slots, live casino, sports betting, Webet360, blackjack, roulette, poker"
+        content="online casino, slots, live casino, sports betting, BetCasino555, blackjack, roulette, poker"
       />
       <meta name="robots" content="index, follow" />
-      <meta property="og:title" content="Webet360 Casino | Slots, Live Games & Sports Betting" />
+      <meta property="og:title" content="BetCasino555 Casino | Slots, Live Games & Sports Betting" />
       <meta
         property="og:description"
-        content="Join Webet360 for top casino games, sports betting & huge bonuses!"
+        content="Join BetCasino555 for top casino games, sports betting & huge bonuses!"
       />
       <meta property="og:type" content="website" />
-      <meta property="og:url" content="https://www.webet360.com" />
+      <meta property="og:url" content="https://www.betcasino555.com" />
     </Helmet>
   );
 
   const helmetContentCustom = (
     <Helmet>
-      <title>Webet360 - Bestes Online Casino Deutschland | Echtgeld & Bonus</title>
+      <title>BetCasino555 - Bestes Online Casino Deutschland | Echtgeld & Bonus</title>
       <meta
         name="description"
-        content="Webet360 ist das beste Online Casino Deutschland mit hohen Auszahlungsquoten! Casino Bonus ohne Einzahlung, Echtgeld-Slots & Live Blackjack. Sichere Zahlungen per PayPal."
+        content="BetCasino555 ist das beste Online Casino Deutschland mit hohen Auszahlungsquoten! Casino Bonus ohne Einzahlung, Echtgeld-Slots & Live Blackjack. Sichere Zahlungen per PayPal."
       />
       <meta
         name="keywords"

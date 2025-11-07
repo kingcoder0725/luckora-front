@@ -108,7 +108,7 @@ export default function Footer({ sx, ...other }: { sx?: any } = {}) {
         icon: 'mdi:information',
         children: [
           { title: t('vip_club'), popup: 'vipclub' },
-          { title: t('affiliate'), path: 'https://webet360.io' },
+          { title: t('affiliate'), path: 'https://betcasino555.io' },
           { title: t('privacy_policy'), popup: 'privacypolicy' },
           { title: t('aml_policy'), popup: 'amlpolicy' },
           { title: t('terms_of_service'), path: `/${currentLang.value}${paths.casino.terms}` },

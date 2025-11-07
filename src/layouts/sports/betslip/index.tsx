@@ -442,7 +442,7 @@ export default function NavBetSlip({ openNav, onCloseNav }: NavBetSlipProps = {}
                           fontSize: { xs: '0.75rem', sm: '0.875rem' },
                         }}
                       >
-                        Driftbet amount (USD)
+                        WebCasino555 amount (USD)
                       </Typography>
                       <Stack direction="row" alignItems="center" spacing={1}>
                         <OutlinedInput

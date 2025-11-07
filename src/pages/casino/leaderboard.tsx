@@ -12,11 +12,11 @@ export default function Page() {
         <title>{APP_NAME} : Leader Board</title>
         <meta
           name="description"
-          content="Check out Webet360's leaderboard! See top players, compete for rankings, and win big in casino challenges."
+          content="Check out BetCasino555's leaderboard! See top players, compete for rankings, and win big in casino challenges."
         />
         <meta
           name="keywords"
-          content="casino leaderboard, top casino players, gaming rankings, Webet360 leaderboard, casino challenges"
+          content="casino leaderboard, top casino players, gaming rankings, BetCasino555 leaderboard, casino challenges"
         />
       </Helmet>
 

@@ -77,7 +77,7 @@ export default function AccumulatorSection({
 
         {/* Stake Amount */}
         <Typography variant="body2" sx={{ color: 'white', mb: 1 }}>
-          Driftbet amount [USD]
+          WebCasino555 amount [USD]
         </Typography>
 
         {/* Amount Input with +/- buttons */}

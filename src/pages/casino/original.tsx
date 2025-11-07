@@ -12,11 +12,11 @@ export default function Page() {
         <title>{APP_NAME} : Games</title>
         <meta
           name="description"
-          content="Enjoy exclusive original games at Webet360! Unique slots, arcade-style games, and innovative casino experiences await."
+          content="Enjoy exclusive original games at BetCasino555! Unique slots, arcade-style games, and innovative casino experiences await."
         />
         <meta
           name="keywords"
-          content="original casino games, exclusive slots, arcade casino games, unique casino experiences, Webet360 games"
+          content="original casino games, exclusive slots, arcade casino games, unique casino experiences, BetCasino555 games"
         />
       </Helmet>
 
