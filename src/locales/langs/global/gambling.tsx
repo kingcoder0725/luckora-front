@@ -33,7 +33,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
 
                         <Typography> •  Restrict access to certain gaming sections of the website.</Typography>
                     </Stack>
-                    <Typography variant='body1'>You can manage these options directly in your account settings or contact our support team for assistance via email at: <Link>support@Drifbet.com</Link>.</Typography>
+                    <Typography variant='body1'>You can manage these options directly in your account settings or contact our support team for assistance via email at: <Link>support@betcasino555.com</Link>.</Typography>
                 </Stack>
             )
         },
@@ -62,8 +62,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             answer: (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Registering an account and placing bets on <b>Drifbet.com</b> is strictly allowed only for individuals who are <b>18 years or older.</b>
-                        {`At Drifbet.com, we take the verification of players' age very seriously. We may request additional information to confirm your age and restrict access to your account until your age has been verified.`}<br /><br />
+                        Registering an account and placing bets on <b>betcasino555.com</b> is strictly allowed only for individuals who are <b>18 years or older.</b>
+                        {`At betcasino555.com, we take the verification of players' age very seriously. We may request additional information to confirm your age and restrict access to your account until your age has been verified.`}<br /><br />
                         We are fully committed to this responsibility and apply <b>strict measures</b> to ensure compliance with these regulations!
                     </Typography>
                 </Stack>
@@ -73,7 +73,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             question: "Financial Limits: Daily, Weekly, and Monthly",
             answer: (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>At <b>Drifbet.com</b>, we encourage responsible gambling by offering a variety of financial limits to help you manage your gameplay. You can set <b>daily, weekly, or monthly limits</b> on your account to control your spending and ensure that gambling remains fun and within your budget.</Typography>
+                    <Typography variant='body1'>At <b>betcasino555.com</b>, we encourage responsible gambling by offering a variety of financial limits to help you manage your gameplay. You can set <b>daily, weekly, or monthly limits</b> on your account to control your spending and ensure that gambling remains fun and within your budget.</Typography>
                     <Typography variant='h6' >Types of Limits:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> • <Box component="span" sx={titleColor} fontWeight="bold">Daily Limits: </Box> Set a maximum amount you can deposit or lose in a single day.</Typography>
@@ -100,7 +100,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
 
                         <Typography> •  Ограничьте доступ к определенным игровым разделам сайта.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Вы можете управлять этими опциями напрямую в настройках вашего аккаунта или обратиться к нашей службе поддержки за помощью по электронной почте: <Link>support@Drifbet.com</Link>.</Typography>
+                    <Typography variant='body1'>Вы можете управлять этими опциями напрямую в настройках вашего аккаунта или обратиться к нашей службе поддержки за помощью по электронной почте: <Link>support@betcasino555.com</Link>.</Typography>
                 </Stack>
             )
         },
@@ -129,8 +129,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Регистрация аккаунта и размещение ставок на <b>Drifbet.com</b> строго разрешены только для лиц, которые <b>старше 18 лет.</b>
-                        На Drifbet.com мы очень серьезно относимся к проверке возраста игроков. Мы можем запросить дополнительную информацию для подтверждения вашего возраста и ограничить доступ к вашему аккаунту до тех пор, пока ваш возраст не будет подтвержден.<br /><br />
+                        Регистрация аккаунта и размещение ставок на <b>betcasino555.com</b> строго разрешены только для лиц, которые <b>старше 18 лет.</b>
+                        На betcasino555.com мы очень серьезно относимся к проверке возраста игроков. Мы можем запросить дополнительную информацию для подтверждения вашего возраста и ограничить доступ к вашему аккаунту до тех пор, пока ваш возраст не будет подтвержден.<br /><br />
                         Мы полностью привержены этой ответственности и применяем <b>строгие меры</b> для обеспечения соблюдения этих правил!
                     </Typography>
                 </Stack>
@@ -140,7 +140,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "question": "Финансовые лимиты: ежедневные, еженедельные и ежемесячные",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>На <b>Drifbet.com</b> мы поощряем ответственное азартное поведение, предлагая различные финансовые лимиты, чтобы помочь вам управлять вашей игрой. Вы можете установить <b>ежедневные, еженедельные или ежемесячные лимиты</b> на вашем аккаунте, чтобы контролировать свои расходы и гарантировать, что азартные игры остаются развлечением и в пределах вашего бюджета.</Typography>
+                    <Typography variant='body1'>На <b>betcasino555.com</b> мы поощряем ответственное азартное поведение, предлагая различные финансовые лимиты, чтобы помочь вам управлять вашей игрой. Вы можете установить <b>ежедневные, еженедельные или ежемесячные лимиты</b> на вашем аккаунте, чтобы контролировать свои расходы и гарантировать, что азартные игры остаются развлечением и в пределах вашего бюджета.</Typography>
                     <Typography variant='h6' >Типы лимитов:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> • <Box component="span" sx={titleColor} fontWeight="bold">Ежедневные лимиты: </Box> Установите максимальную сумму, которую вы можете внести или проиграть за один день.</Typography>
@@ -167,7 +167,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
 
                         <Typography> •  Begrens tilgangen til bestemte spillseksjoner på nettstedet.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Du kan administrere disse alternativene direkte i kontoinnstillingene dine eller kontakte supportteamet vårt for hjelp via e-post på: <Link>support@Drifbet.com</Link>.</Typography>
+                    <Typography variant='body1'>Du kan administrere disse alternativene direkte i kontoinnstillingene dine eller kontakte supportteamet vårt for hjelp via e-post på: <Link>support@betcasino555.com</Link>.</Typography>
                 </Stack>
             )
         },
@@ -196,8 +196,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Å registrere en konto og plassere innsatser på <b>Drifbet.com</b> er strengt tillatt kun for personer som er <b>18 år eller eldre.</b>
-                        Hos Drifbet.com tar vi verifiseringen av spillernes alder veldig seriøst. Vi kan be om ytterligere informasjon for å bekrefte alderen din og begrense tilgangen til kontoen din inntil alderen er bekreftet.<br /><br />
+                        Å registrere en konto og plassere innsatser på <b>betcasino555.com</b> er strengt tillatt kun for personer som er <b>18 år eller eldre.</b>
+                        Hos betcasino555.com tar vi verifiseringen av spillernes alder veldig seriøst. Vi kan be om ytterligere informasjon for å bekrefte alderen din og begrense tilgangen til kontoen din inntil alderen er bekreftet.<br /><br />
                         Vi er fullt forpliktet til dette ansvaret og anvender <b>strenge tiltak</b> for å sikre overholdelse av disse forskriftene!
                     </Typography>
                 </Stack>
@@ -207,7 +207,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "question": "Finansielle Grenser: Daglige, Ukentlige og Månedlige",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Hos <b>Drifbet.com</b> oppfordrer vi til ansvarlig spilling ved å tilby en rekke finansielle grenser for å hjelpe deg med å håndtere spillingen din. Du kan sette <b>daglige, ukentlige eller månedlige grenser</b> på kontoen din for å kontrollere utgiftene dine og sikre at spilling forblir morsomt og innenfor budsjettet ditt.</Typography>
+                    <Typography variant='body1'>Hos <b>betcasino555.com</b> oppfordrer vi til ansvarlig spilling ved å tilby en rekke finansielle grenser for å hjelpe deg med å håndtere spillingen din. Du kan sette <b>daglige, ukentlige eller månedlige grenser</b> på kontoen din for å kontrollere utgiftene dine og sikre at spilling forblir morsomt og innenfor budsjettet ditt.</Typography>
                     <Typography variant='h6'>Typer av Grenser:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> • <Box component="span" sx={titleColor} fontWeight="bold">Daglige Grenser: </Box> Sett et maksimumsbeløp du kan sette inn eller tape på en enkelt dag.</Typography>
@@ -233,7 +233,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
                         <Typography> •  Aseta talletus- ja/tai tappiorajoja.</Typography>
                         <Typography> •  Rajoita pääsyä tiettyihin peliosioihin verkkosivustolla.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Voit hallita näitä vaihtoehtoja suoraan tilisi asetuksissa tai ottaa yhteyttä tukitiimiimme saadaksesi apua sähköpostitse osoitteeseen: <Link>support@Drifbet.com</Link>.</Typography>
+                    <Typography variant='body1'>Voit hallita näitä vaihtoehtoja suoraan tilisi asetuksissa tai ottaa yhteyttä tukitiimiimme saadaksesi apua sähköpostitse osoitteeseen: <Link>support@betcasino555.com</Link>.</Typography>
                 </Stack>
             )
         },
@@ -256,8 +256,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Tilin rekisteröinti ja panostaminen <b>Drifbet.com</b> -sivustolla on tiukasti sallittua vain henkilöille, jotka ovat <b>18-vuotiaita tai vanhempia.</b>
-                        {` Drifbet.com:ssa otamme pelaajien iän vahvistamisen erittäin vakavasti. Saatamme pyytää lisätietoja vahvistaaksemme ikäsi ja rajoittaa pääsyäsi tiliisi, kunnes ikäsi on vahvistettu.`}<br /><br />
+                        Tilin rekisteröinti ja panostaminen <b>betcasino555.com</b> -sivustolla on tiukasti sallittua vain henkilöille, jotka ovat <b>18-vuotiaita tai vanhempia.</b>
+                        {` betcasino555.com:ssa otamme pelaajien iän vahvistamisen erittäin vakavasti. Saatamme pyytää lisätietoja vahvistaaksemme ikäsi ja rajoittaa pääsyäsi tiliisi, kunnes ikäsi on vahvistettu.`}<br /><br />
                         Olemme täysin sitoutuneet tähän vastuuseen ja sovellamme <b>tiukkoja toimenpiteitä</b> varmistaaksemme näiden sääntöjen noudattamisen!
                     </Typography>
                 </Stack>
@@ -267,7 +267,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "question": "Taloudelliset rajat: Päivittäiset, viikoittaiset ja kuukausittaiset",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Verkkosivustolla <b>Drifbet.com</b> kannustamme vastuulliseen pelaamiseen tarjoamalla erilaisia taloudellisia rajoja, jotka auttavat sinua hallitsemaan peliäsi. Voit asettaa <b>päivittäisiä, viikoittaisia tai kuukausittaisia rajoja</b> tilillesi hallitaksesi kulutustasi ja varmistaaksesi, että uhkapelaaminen pysyy hauskana ja budjetissasi.</Typography>
+                    <Typography variant='body1'>Verkkosivustolla <b>betcasino555.com</b> kannustamme vastuulliseen pelaamiseen tarjoamalla erilaisia taloudellisia rajoja, jotka auttavat sinua hallitsemaan peliäsi. Voit asettaa <b>päivittäisiä, viikoittaisia tai kuukausittaisia rajoja</b> tilillesi hallitaksesi kulutustasi ja varmistaaksesi, että uhkapelaaminen pysyy hauskana ja budjetissasi.</Typography>
                     <Typography variant='h6'>Rajaustyypit:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> • <Box component="span" sx={titleColor} fontWeight="bold">Päivittäiset rajat: </Box> Aseta enimmäismäärä, jonka voit tallettaa tai hävitä yhdellä päivällä.</Typography>
@@ -294,7 +294,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
 
                         <Typography> •  Begränsa åtkomst till vissa spelavsnitt på webbplatsen.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Du kan hantera dessa alternativ direkt i dina kontoinställningar eller kontakta vårt supportteam för hjälp via e-post på: <Link>support@Drifbet.com</Link>.</Typography>
+                    <Typography variant='body1'>Du kan hantera dessa alternativ direkt i dina kontoinställningar eller kontakta vårt supportteam för hjälp via e-post på: <Link>support@betcasino555.com</Link>.</Typography>
                 </Stack>
             )
         },
@@ -322,8 +322,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Att registrera ett konto och placera insatser på <b>Drifbet.com</b> är strikt tillåtet endast för individer som är <b>18 år eller äldre.</b>
-                        På Drifbet.com tar vi verifieringen av spelarnas ålder på största allvar. Vi kan begära ytterligare information för att bekräfta din ålder och begränsa åtkomsten till ditt konto tills din ålder har verifierats.<br /><br />
+                        Att registrera ett konto och placera insatser på <b>betcasino555.com</b> är strikt tillåtet endast för individer som är <b>18 år eller äldre.</b>
+                        På betcasino555.com tar vi verifieringen av spelarnas ålder på största allvar. Vi kan begära ytterligare information för att bekräfta din ålder och begränsa åtkomsten till ditt konto tills din ålder har verifierats.<br /><br />
                         Vi är helt engagerade i detta ansvar och tillämpar <b>strikta åtgärder</b> för att säkerställa efterlevnad av dessa regler!
                     </Typography>
                 </Stack>
@@ -333,7 +333,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "question": "Finansiella gränser: Dagliga, Veckovisa och Månatliga",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>På <b>Drifbet.com</b> uppmuntrar vi ansvarsfullt spelande genom att erbjuda olika finansiella gränser för att hjälpa dig hantera ditt spelande. Du kan sätta <b>dagliga, veckovisa eller månatliga gränser</b> på ditt konto för att kontrollera dina utgifter och säkerställa att spelandet förblir roligt och inom din budget.</Typography>
+                    <Typography variant='body1'>På <b>betcasino555.com</b> uppmuntrar vi ansvarsfullt spelande genom att erbjuda olika finansiella gränser för att hjälpa dig hantera ditt spelande. Du kan sätta <b>dagliga, veckovisa eller månatliga gränser</b> på ditt konto för att kontrollera dina utgifter och säkerställa att spelandet förblir roligt och inom din budget.</Typography>
                     <Typography variant='h6' >Typer av gränser:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> • <Box component="span" sx={titleColor} fontWeight="bold">Dagliga gränser: </Box> Sätt ett maximalt belopp du kan sätta in eller förlora på en enda dag.</Typography>
@@ -361,7 +361,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
 
                         <Typography> •  Restringe el acceso a ciertas secciones del sitio web.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Puedes gestionar estas opciones directamente en la configuración de tu cuenta o contactar con nuestro equipo de soporte para asistencia a través del correo electrónico: <Link>support@Drifbet.com</Link>.</Typography>
+                    <Typography variant='body1'>Puedes gestionar estas opciones directamente en la configuración de tu cuenta o contactar con nuestro equipo de soporte para asistencia a través del correo electrónico: <Link>support@betcasino555.com</Link>.</Typography>
                 </Stack>
             )
         },
@@ -388,8 +388,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        El registro de una cuenta y la realización de apuestas en <b>Drifbet.com</b> está estrictamente permitido solo para individuos mayores de <b>18 años.</b>
-                        En Drifbet.com, tomamos muy en serio la verificación de la edad de los jugadores. Podemos solicitar información adicional para confirmar tu edad y restringir el acceso a tu cuenta hasta que se haya verificado tu edad.<br /><br />
+                        El registro de una cuenta y la realización de apuestas en <b>betcasino555.com</b> está estrictamente permitido solo para individuos mayores de <b>18 años.</b>
+                        En betcasino555.com, tomamos muy en serio la verificación de la edad de los jugadores. Podemos solicitar información adicional para confirmar tu edad y restringir el acceso a tu cuenta hasta que se haya verificado tu edad.<br /><br />
                         ¡Estamos totalmente comprometidos con esta responsabilidad y aplicamos <b>medidas estrictas</b> para asegurar el cumplimiento de estas regulaciones!
                     </Typography>
                 </Stack>
@@ -399,7 +399,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "question": "Límites Financieros: Diarios, Semanales y Mensuales",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>En <b>Drifbet.com</b>, fomentamos el juego responsable ofreciendo una variedad de límites financieros para ayudarte a gestionar tu juego. Puedes establecer <b>límites diarios, semanales o mensuales</b> en tu cuenta para controlar tu gasto y asegurarte de que el juego siga siendo divertido y dentro de tu presupuesto.</Typography>
+                    <Typography variant='body1'>En <b>betcasino555.com</b>, fomentamos el juego responsable ofreciendo una variedad de límites financieros para ayudarte a gestionar tu juego. Puedes establecer <b>límites diarios, semanales o mensuales</b> en tu cuenta para controlar tu gasto y asegurarte de que el juego siga siendo divertido y dentro de tu presupuesto.</Typography>
                     <Typography variant='h6' >Tipos de Límites:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> • <Box component="span" sx={titleColor} fontWeight="bold">Límites Diarios: </Box> Establece una cantidad máxima que puedes depositar o perder en un solo día.</Typography>
@@ -426,7 +426,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
 
                         <Typography> •  Beschränken Sie den Zugriff auf bestimmte Spielbereiche der Website.</Typography>
                     </Stack>
-                    <Typography variant='body1'>Sie können diese Optionen direkt in den Kontoeinstellungen verwalten oder unser Support-Team um Hilfe bitten, indem Sie eine E-Mail an <Link>support@Drifbet.com</Link> senden.</Typography>
+                    <Typography variant='body1'>Sie können diese Optionen direkt in den Kontoeinstellungen verwalten oder unser Support-Team um Hilfe bitten, indem Sie eine E-Mail an <Link>support@betcasino555.com</Link> senden.</Typography>
                 </Stack>
             )
         },
@@ -452,8 +452,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Die Registrierung eines Kontos und das Platzieren von Wetten auf <b>Drifbet.com</b> ist ausschließlich für Personen ab <b>18 Jahren</b> gestattet.<br /><br />
-                        Bei Drifbet.com nehmen wir die Altersverifikation der Spieler sehr ernst. Wir können zusätzliche Informationen anfordern, um Ihr Alter zu bestätigen und den Zugang zu Ihrem Konto zu sperren, bis Ihr Alter verifiziert wurde.<br /><br />
+                        Die Registrierung eines Kontos und das Platzieren von Wetten auf <b>betcasino555.com</b> ist ausschließlich für Personen ab <b>18 Jahren</b> gestattet.<br /><br />
+                        Bei betcasino555.com nehmen wir die Altersverifikation der Spieler sehr ernst. Wir können zusätzliche Informationen anfordern, um Ihr Alter zu bestätigen und den Zugang zu Ihrem Konto zu sperren, bis Ihr Alter verifiziert wurde.<br /><br />
                         Wir sind voll und ganz dieser Verantwortung verpflichtet und wenden <b>strenge Maßnahmen</b> an, um die Einhaltung dieser Vorschriften sicherzustellen!
                     </Typography>
                 </Stack>
@@ -463,7 +463,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "question": "Finanzielle Limits: Täglich, Wöchentlich und Monatlich",
             "answer": (
                 <Stack sx={cardStyle}>
-                    <Typography variant='body1'>Auf <b>Drifbet.com</b> fördern wir verantwortungsbewusstes Glücksspiel, indem wir eine Vielzahl von finanziellen Limits anbieten, um Ihnen zu helfen, Ihr Spielverhalten zu steuern. Sie können <b>tägliche, wöchentliche oder monatliche Limits</b> für Ihr Konto festlegen, um Ihre Ausgaben zu kontrollieren und sicherzustellen, dass das Glücksspiel innerhalb Ihres Budgets bleibt und Spaß macht.</Typography>
+                    <Typography variant='body1'>Auf <b>betcasino555.com</b> fördern wir verantwortungsbewusstes Glücksspiel, indem wir eine Vielzahl von finanziellen Limits anbieten, um Ihnen zu helfen, Ihr Spielverhalten zu steuern. Sie können <b>tägliche, wöchentliche oder monatliche Limits</b> für Ihr Konto festlegen, um Ihre Ausgaben zu kontrollieren und sicherzustellen, dass das Glücksspiel innerhalb Ihres Budgets bleibt und Spaß macht.</Typography>
                     <Typography variant='h6' >Arten von Limits:</Typography>
                     <Stack gap={1} width="100%">
                         <Typography> • <Box component="span" sx={titleColor} fontWeight="bold">Tägliche Limits: </Box> Legen Sie einen Höchstbetrag fest, den Sie an einem einzelnen Tag einzahlen oder verlieren können.</Typography>
@@ -492,7 +492,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
                         <Typography> • Restreignez l&apos;accès à certaines sections du site web.</Typography>
                     </Stack>
                     <Typography variant='body1'>
-                        Vous pouvez gérer ces options directement dans les paramètres de votre compte ou contacter notre équipe de support pour obtenir de l&apos;aide par e-mail à : <Link>support@Drifbet.com</Link>.
+                        Vous pouvez gérer ces options directement dans les paramètres de votre compte ou contacter notre équipe de support pour obtenir de l&apos;aide par e-mail à : <Link>support@betcasino555.com</Link>.
                     </Typography>
                 </Stack>
             )
@@ -521,8 +521,8 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        L&apos;inscription à un compte et les paris sur <b>Drifbet.com</b> sont strictement réservés aux personnes ayant <b>18 ans ou plus.</b>
-                        {`Chez Drifbet.com, nous prenons très au sérieux la vérification de l'âge des joueurs. Nous pouvons demander des informations supplémentaires pour confirmer votre âge et restreindre l'accès à votre compte jusqu'à ce que votre âge soit vérifié.`}<br /><br />
+                        L&apos;inscription à un compte et les paris sur <b>betcasino555.com</b> sont strictement réservés aux personnes ayant <b>18 ans ou plus.</b>
+                        {`Chez betcasino555.com, nous prenons très au sérieux la vérification de l'âge des joueurs. Nous pouvons demander des informations supplémentaires pour confirmer votre âge et restreindre l'accès à votre compte jusqu'à ce que votre âge soit vérifié.`}<br /><br />
                         Nous nous engageons pleinement à cette responsabilité et appliquons <b>des mesures strictes</b> pour garantir le respect de ces réglementations !
                     </Typography>
                 </Stack>
@@ -533,7 +533,7 @@ const GAMBLING_LANG: IGAMBLING_LANG = {
             "answer": (
                 <Stack sx={cardStyle}>
                     <Typography variant='body1'>
-                        Sur <b>Drifbet.com</b>, nous encourageons le jeu responsable en offrant une variété de limites financières pour vous aider à gérer votre jeu. Vous pouvez définir des <b>limites quotidiennes, hebdomadaires ou mensuelles</b> sur votre compte pour contrôler vos dépenses et vous assurer que le jeu reste amusant et dans votre budget.
+                        Sur <b>betcasino555.com</b>, nous encourageons le jeu responsable en offrant une variété de limites financières pour vous aider à gérer votre jeu. Vous pouvez définir des <b>limites quotidiennes, hebdomadaires ou mensuelles</b> sur votre compte pour contrôler vos dépenses et vous assurer que le jeu reste amusant et dans votre budget.
                     </Typography>
                     <Typography variant='h6'>Types de Limites :</Typography>
                     <Stack gap={1} width="100%">

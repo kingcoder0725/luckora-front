@@ -15,7 +15,7 @@ export default function SelfExclusion() {
     },
     {
       question: 'How Self-Exclusion Works',
-      answer: '1. Voluntary Participation:\n• Players can choose to self-exclude from our platform at any time.\n\n• The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@Drifbet.com\n\n2. Duration of Self-Exclusion:\n• Players can select the duration of their self-exclusion period, which may range from a few days, month to several years, depending on their needs.\n\n• The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@Drifbet.com\n\n3. Account Restrictions:\n• During the self-exclusion period, the player\'s account will be suspended, preventing access to gambling activities.\n\n• Players will not receive any promotional materials or communications related to gambling during this time.\n\n4. Reactivation Process:\n• After the self-exclusion period ends, players must contact the customer liaison officer at compliance@Drifbet.com to reactivate their account.\n\n• A cooling-off period may be applied before the account is fully reactivated to ensure the player is ready to return to gambling.',
+      answer: '1. Voluntary Participation:\n• Players can choose to self-exclude from our platform at any time.\n\n• The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@betcasino555.com\n\n2. Duration of Self-Exclusion:\n• Players can select the duration of their self-exclusion period, which may range from a few days, month to several years, depending on their needs.\n\n• The decision to self-exclude is entirely voluntary and can be initiated by the player through their account settings or by contacting customer liaison officer at compliance@betcasino555.com\n\n3. Account Restrictions:\n• During the self-exclusion period, the player\'s account will be suspended, preventing access to gambling activities.\n\n• Players will not receive any promotional materials or communications related to gambling during this time.\n\n4. Reactivation Process:\n• After the self-exclusion period ends, players must contact the customer liaison officer at compliance@betcasino555.com to reactivate their account.\n\n• A cooling-off period may be applied before the account is fully reactivated to ensure the player is ready to return to gambling.',
     },
     {
       question: 'Support and Resources',
@@ -27,7 +27,7 @@ export default function SelfExclusion() {
     },
     {
       question: 'Conclusion',
-      answer: 'Self-exclusion is an important tool for promoting responsible gambling and helping players manage their gambling activities. At Drifbet.com, we are committed to providing a safe and supportive environment for all our players. For more information about self-exclusion or to initiate the process, please contact our customer liaison officer at compliance@Drifbet.com',
+      answer: 'Self-exclusion is an important tool for promoting responsible gambling and helping players manage their gambling activities. At betcasino555.com, we are committed to providing a safe and supportive environment for all our players. For more information about self-exclusion or to initiate the process, please contact our customer liaison officer at compliance@betcasino555.com',
     },
   ];
 
