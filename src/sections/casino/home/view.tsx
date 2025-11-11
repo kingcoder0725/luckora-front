@@ -479,7 +479,7 @@ function CasinoView() {
         window.widget7777gaming.addConfig({
           lang: 'en',
           currency: userCurrency,
-          market: 'webet360',
+          market: 'betcasino555',
         });
         window.widget7777gaming.init(() => {
           if (window.widget7777gaming?.app) {
@@ -524,7 +524,7 @@ function CasinoView() {
           orientation: 'horizontal',
           backgroundColor: '#2B2F3D',
           logo: {
-            url: 'https://webet360.com/logo/logo_title.svg',
+            url: 'https://betcasino555.com/logo/logo_title.svg',
             position: 'center',
             order: 1,
           },
@@ -538,7 +538,7 @@ function CasinoView() {
           jackpotHigh: {
             order: 1,
             orientation: 'horizontal',
-            iconURL: 'https://webet360.com/logo/logo_icon.svg',
+            iconURL: 'https://betcasino555.com/logo/logo_icon.svg',
           },
           jackpotMedium: { order: 2, orientation: 'horizontal' },
           jackpotLow: { order: 3, orientation: 'horizontal' },

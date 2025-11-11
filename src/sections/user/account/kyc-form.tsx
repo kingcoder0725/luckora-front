@@ -332,7 +332,7 @@ export default function KYCForm({ country, onClose }: Props) {
         container: 'body',
         email: user.email,
         phone: user.phone,
-        customizationName: "Webet360",
+        customizationName: "BetCasino555",
         onLoad: () => {
             console.log("-------onLoad--------");
         }

@@ -308,7 +308,7 @@ export default function JackPotView() {
         window.widget7777gaming.addConfig({
           lang: 'en',
           currency: userCurrency,
-          market: 'webet360',
+          market: 'betcasino555',
         });
 
         window.widget7777gaming.init(() => {

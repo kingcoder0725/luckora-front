@@ -2,7 +2,7 @@ import { persistReducer } from 'redux-persist';
 import storage from 'redux-persist/lib/storage';
 
 const persistConfig = {
-  key: 'webet',
+  key: 'betcasino555',
   storage,
   whitelist: ['auth']
 };

@@ -321,7 +321,7 @@ export default function MiniGamesTab({ setActiveTab, setActiveMiniGame }: MiniGa
                       </span>
                     </>
                   ) : (
-                    // webet360 fully yellow
+                    // betcasino555 fully yellow
                     <span style={{ color: '#FFE71A' }}>{miniGame.title}</span>
                   )}
                 </Typography>

@@ -185,7 +185,7 @@ export default function ViewGameModal({ title, open, onClose, games, playGame }:
               onClick={() =>
                 playGame(game.type, game.provider_code, game.game_code, game.game_name)
               }
-              className="webet-card"
+              className="betcasino555-card"
             >
               <Image
                 src={getImageUrl(game.banner)}

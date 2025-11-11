@@ -561,7 +561,7 @@
 
 /* end tournament */
 
-.webet-card {
+.betcasino555-card {
   position: relative;
   transition-duration: 300ms;
   transition-property: transform, box-shadow;
@@ -569,7 +569,7 @@
   transform: rotate3d(0);
 }
 
-.webet-card:hover {
+.betcasino555-card:hover {
   transition-duration: 150ms;
   box-shadow: 0 5px 20px 5px #00000044;
 }
