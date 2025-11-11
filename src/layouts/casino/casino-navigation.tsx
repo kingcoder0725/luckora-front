@@ -102,7 +102,7 @@ export const CASINO_LINK = [
     children: 'live-casino',
   },
   {
-    title: 'drifbet_club',
+    title: 'betcasino555_club',
     path: paths.casino.journey,
     icon: ICONS.club,
   },

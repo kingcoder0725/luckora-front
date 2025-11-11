@@ -278,7 +278,7 @@ export default function KYCForm() {
         container: 'body',
         email: user?.email,
         phone: user?.phone,
-        customizationName: "Drifbet",
+        customizationName: "BetCasino555",
         onLoad: () => {
             console.log("-------onLoad--------");
         }
